@@ -1,0 +1,27 @@
+import { Canvas, Meta, Story } from '@storybook/blocks';
+import { Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as IconeStories from './Icone.stories';
+
+<Meta of={IconeStories} />
+
+# Icone
+
+Le Icone proposte di seguito sono quelle proposte da AgID.\
+Sono contenutte tutte all'interno uno sprite SVG, presente nella libreria alla cartella `dist/svg`.
+
+In alternativa, nel caso si necessiti di altre icone oltre a quelle fornite è ammesso l’utilizzo dell’icon pack **Icomoon**, scaricabile all’indirizzo **[https://icomoon.io/](https://icomoon.io/)**.\
+Si consiglia di utilizzare icone appartenenti allo stesso ecosistema, ed in generale di mantenere coerenza nell’utilizzo di esse.
+
+<Canvas of={IconeStories.ListaIcone} />
+
+
+<div className='docs'>
+  <Callout color='info' highlight>
+    <CalloutTitle>
+      <span className='text'>Documentazione tecnica</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per l’utilizzo delle icone e il loro dimensionamento e colorazione, si consulti la: **[relativa pagina](/docs/documentazione-utilities-icon--documentazione#icone)**
+    </CalloutText>
+  </Callout>
+</div>

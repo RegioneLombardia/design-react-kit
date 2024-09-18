@@ -1,0 +1,62 @@
+import { ArgTypes, Canvas, Controls, Meta, Story } from '@storybook/blocks';
+import { Code } from '@storybook/components';
+import * as FooterStories from './Footer.stories';
+
+<Meta of={FooterStories} />
+
+# Footer
+
+Il Footer è la componente base ideata per il fondo pagina.
+
+Deve contenere come ultima riga il copyright e al di sopra il nome del servizio.
+In mezzo è opportuno inserire i link di servizio e se i link in questione sono molti è meglio organizzarli su righe e colonne, lasciando che l’altezza del footer cresca di conseguenza.
+
+## Standard
+<Canvas of={FooterStories.Standard} />
+
+Nota:
+La dicitura del copyright è strutturata in modo da andare a capo a blocchi a seconda della dimensione dello schermo.
+
+## Minimo
+
+Nel caso in cui serva un footer sottile, il minimo consentito è quello riportato di seguito.
+
+<Canvas of={FooterStories.Minimo} />
+
+
+## Loghi Multipli
+
+La seconda casistica di gestione di loghi multipli contempla l’inserimento dei loghi partner **al negativo all’interno del footer, sempre in orizzontale e per un massimo di 4 loghi per riga**.
+
+Si specifica tuttavia che questa circostanza è strettamente vincolata alla disponibilità di loghi al negativo.
+Qualora si disponesse soltanto della loro versione in positivo, essi devono essere posizionati esternamente, come mostrato nella sezione **[gestione loghi multipli](/docs/linee-guida-componenti-principali-gestione-loghi-multipli--documentazione)**.
+
+<Canvas of={FooterStories.LoghiMultipli} />
+
+```tsx
+function Logos() {
+  return (
+    <>
+      <Row>
+        <Col sm={3}>
+          <div className="it25-footer-logo d-flex justify-content-center align-items-center">
+            <img src="../static/img/logo-saf-lombardia.png"
+                  alt="logo scuola alta formazione lombardia" className="img-fluid"/>
+          </div>
+        </Col>
+        <Col sm={3}>
+          <div className="it25-footer-logo d-flex justify-content-center align-items-center">
+            <img src="../static/img/logo-cna-lombardia-bianco.png"
+                  alt="logo scuola alta formazione lombardia" className="img-fluid"/>
+          </div>
+        </Col>
+        . . .
+      </Row>
+    </>
+  )
+};
+```
+
+## MultiLink
+
+<Canvas of={FooterStories.MultiLink} />

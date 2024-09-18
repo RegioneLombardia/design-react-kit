@@ -1,7 +1,9 @@
 import { Preview } from "@storybook/react";
-import "bootstrap-italia/dist/css/bootstrap-italia.min.css";
+import "bootstrap-lombardia/dist/css/bootstrap-lombardia.min.css";
+import "../assets/css/bl-fixes.css";
 import "../assets/css/bi-fonts.scss";
 import "../assets/css/storybook-fixes.css";
+import "../assets/css/it25-custom-docs.css";
 import theme from "./theme";
 
 const preview: Preview = {
@@ -19,6 +21,8 @@ const preview: Preview = {
         options: {
             storySort: {
                 order: [
+                    "Linee Guida",
+                    ["Welcome", "Utilità", "Componenti Principali", "Navigazione", "Call to Action", "Informazioni", "Inserimento"],
                     "Documentazione",
                     ["Welcome", "Organizzare gli spazi", "Organizzare i contenuti", "Menu di navigazione", "Componenti", "Form", "Utilities"],
                     "*",

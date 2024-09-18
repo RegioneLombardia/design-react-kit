@@ -1,0 +1,227 @@
+import { Canvas, Meta, Story } from '@storybook/blocks';
+import { Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as ColoriStories from './Colori.stories';
+
+<Meta of={ColoriStories} />
+
+# Colori
+Di seguito sono riportati i colori coerenti con la brand identity digitale di Regione Lombardia e con il brandbook.\
+**Si consiglia l’utilizzo di una palette composta da non più di 5 colori per un progetto digitale**.
+
+
+## Colori Primari
+
+Il <strong className="primary-color">Verde</strong> è il colore identificativo dell’intera brand identity e rappresenta la radice per creare altri colori della palette primaria.
+
+
+<div className="d-flex align-items-start flex-column mb-3">
+  <div className="p-2">
+    <div className="rounded-color primary-bg text-end">
+      <span className="white-color align-middle fw-bold">#297A38</span>
+    </div>
+  </div>
+  <div className="p-2">
+    <div className="rounded-color primary-blue-bg shadow text-end">
+      <span className="white-color align-middle fw-bold">#003354 </span>
+    </div>
+  </div>
+  <div className="p-2">
+    <div className="rounded-color primary-gray-bg shadow text-end">
+      <span className="white-color align-middle fw-bold">#597483 </span>
+    </div>
+  </div>
+  <div className="p-2">
+    <div className="rounded-color white-bg shadow text-end">
+      <span className="align-middle fw-bold">#FFFFFF</span>
+    </div>
+  </div>
+</div>
+
+<div className='primary-color-container'>
+  <div className='square-color primary-bg white-color'>
+    <div>#297A38</div>
+    <div>primary</div>
+  </div>
+  <div className="square-color primary-blue-bg white-color">
+    <div>#003354</div>
+    <div>primary-blue</div>
+  </div>
+  <div className="square-color primary-gray-bg white-color">
+    <div>#597483</div>
+    <div>primary-gray</div>
+  </div>
+  <div className='square-color white-bg shadow'>
+    <span>#FFFFFF</span>
+  </div>
+  <div className='clearfix'></div>
+</div>
+
+**Utilizzo delle classi:**
+
+`.primary-bg` : per background color\
+`.primary-color` : per text color\
+`.primary-border-color` : per border color
+
+**Esempio:**
+<Canvas of={ColoriStories.Colori} />
+
+
+### Varianti colore principale
+
+Il **colore primario principale** possiede tre tipologie di varianti monocromatiche.\
+Per utilizzarle è sufficiente utilizzare la relativa classe
+
+**Utilizzo delle classi:**
+
+`.primary-bg- + variante-colore` : per background color\
+`.primary-color- + variante-colore` : per text color\
+`.primary-border-color- + variante-colore` : per border color
+
+(es. `.primary-bg-a5` per utilizzare come background il colore primario con variante **a5** )
+
+<Canvas of={ColoriStories.VariantiColorePrincipale} />
+
+
+## Colori neutrali
+
+I colori neutrali nelle linee guida sono tre, ma le classi previste riguardano solo i primi due (*blu* e *grigio*).\
+Il terzo colore neutro è molto simile al bianco, pertanto può essere utilizzato al suo posto ove necessario.
+
+
+<div className="d-flex align-items-start flex-column mb-3">
+  <div className="p-2">
+    <div className="rounded-color neutral-1-bg text-end">
+      <span className="white-color align-middle fw-semibold">#1B304C</span>
+    </div>
+  </div>
+  <div className="p-2">
+    <div className="rounded-color neutral-2-bg shadow text-end">
+      <span className="align-middle fw-semibold">#E6E9F0</span>
+    </div>
+  </div>
+  <div className="p-2">
+    <div className="rounded-color neutral-3-bg shadow text-end">
+      <span className="align-middle fw-semibold">#FBFBFF</span>
+    </div>
+  </div>
+</div>
+
+
+<div className='primary-color-container'>
+  <div className="square-color neutral-1-bg white-color">
+    <div>#1B304C</div>
+    <div>neutral-1</div>
+  </div>
+  <div className="square-color neutral-2-bg">
+    <div>#E6E9F0</div>
+    <div>neutral-2</div>
+  </div>
+  <div className="square-color neutral-3-bg shadow">
+    <div>#FBFBFF</div>
+    <div>neutral-3</div>
+  </div>
+  <div className='clearfix'></div>
+</div>
+
+**Utilizzo delle classi:**
+
+`.neutral(-1/2/3)-bg` : per background color\
+`.neutral(-1/2/3)-color` : per text color\
+`.neutral(-1/2/3)-border-color` : per border color
+
+**Esempio:**
+<Canvas of={ColoriStories.ColoriNeutrali} />
+
+### Varianti colori neutrali
+
+I colori neutrali possiedono tre tipologie di varianti cromatiche. Per utilizzarle è sufficiente utilizzare la relativa classe
+
+**Utilizzo delle classi:**
+
+`.neutral-(+ 1/2 +)-bg- + variante-colore` : per background color\
+`.neutral-(+ 1/2 +)-color- + variante-colore` : per text color\
+`.neutral-(+ 1/2 +)-border-color- + variante-colore` : per border color
+
+(es. `.neutral-1-bg-a5` per utilizzare come background il colore neutrale **1** con variante **a5** )
+
+<Canvas of={ColoriStories.VariantiColoriNeutrali} />
+
+
+## Colori Triadici
+
+<div className="d-flex align-items-start flex-column mb-3">
+  <div className="p-2">
+    <div className="rounded-color complementary-1-bg text-end">
+      <span className="white-color align-middle fw-semibold">#C83A32</span>
+    </div>
+  </div>
+  <div className="p-2">
+    <div className="rounded-color complementary-2-bg shadow text-end">
+      <span className="white-color align-middle fw-semibold">#F19937</span>
+    </div>
+  </div>
+  <div className="p-2">
+    <div className="rounded-color complementary-3-bg shadow text-end">
+      <span className="white-color align-middle fw-semibold">#62AF60</span>
+    </div>
+  </div>
+</div>
+
+<div className='primary-color-container'>
+  <div className="square-color complementary-1-bg text-white">
+    <div>#C83A32</div>
+    <div>complementary-1</div>
+  </div>
+  <div className="square-color complementary-2-bg text-white">
+    <div>#F19937</div>
+    <div>complementary-2</div>
+  </div>
+  <div className="square-color complementary-3-bg text-white">
+    <div>#62AF60</div>
+    <div>complementary-3</div>
+  </div>
+  <div className="clearfix"></div>
+</div>
+
+**Utilizzo delle classi:**
+
+`.complementary-(1/2/3)-bg` : per background color\
+`.complementary-(1/2/3)-color` : per text color\
+`.complementary-(1/2/3)-border-color` : per border color
+
+
+### Varianti colori triadici
+
+<div className='docs'>
+  <Callout color='warning' highlight>
+    <CalloutTitle>
+      <Icon aria-hidden icon="it-warning-circle" size="lg" />
+      <span className='text'>Utilizzabili SOLO nei minisiti, siti tematici e Portale Istituzionale</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per motivi di accessibilità, utilizzare i colori triadici all’interno di elementi decorativi e di segnalazione (es. segnalazioni di errore, avvisi di attenzione, azione eseguita correttamente), ma **non per i testi**.
+    </CalloutText>
+  </Callout>
+</div>
+
+**Utilizzo delle classi:**
+
+`.complementary-(1/2/3)-bg- + variante-colore` : per background color\
+`.complementary-(1/2/3)-color- + variante-colore` : per text color\
+`.complementary-(1/2/3)-border-color- + variante-colore` : per border color
+
+(es. `.complementary-1-bg-a5` per utilizzare come background il colore complementare **1** con variante **a5** )
+
+<Canvas of={ColoriStories.VariantiColoriTriadici} />
+
+<div className='docs'>
+  <Callout color='info' highlight>
+    <CalloutTitle>
+      <span className='text'>Documentazione tecnica</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per l'applicazione di **colori semantici** al testo e allo sfondo si veda alla voce:\
+      **[Colori](/docs/documentazione-utilities-colori--documentazione#colori)**
+    </CalloutText>
+  </Callout>
+</div>

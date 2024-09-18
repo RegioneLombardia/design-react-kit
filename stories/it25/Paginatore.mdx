@@ -1,0 +1,21 @@
+import { ArgTypes, Canvas, Meta, Story } from '@storybook/blocks';
+import * as PaginatoreStories from './Paginatore.stories';
+
+<Meta of={PaginatoreStories} />
+
+# Paginatore
+Il **Paginatore** è una componente utile per indicare una serie di contenuti correlati tra **più pagine**.\
+Tendenzialmente si trova nella parte in **basso a destra o al centro** della pagina.
+
+
+## Default
+<Canvas of={PaginatoreStories.Default} />
+
+## Variante con "more"
+<Canvas of={PaginatoreStories.MoreComponent} />
+
+## Variante con jump page
+<Canvas of={PaginatoreStories.JumpToPage} />
+
+## Variante semplificata
+<Canvas of={PaginatoreStories.SimpleMode} />

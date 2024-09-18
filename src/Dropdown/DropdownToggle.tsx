@@ -1,6 +1,6 @@
 import React, { ElementType, FC, HTMLAttributes, useEffect, useRef } from 'react';
 import classNames from 'classnames';
-import { Dropdown } from 'bootstrap-italia';
+import { Dropdown } from 'bootstrap-lombardia';
 import { Icon } from '../Icon/Icon';
 import { Button } from '../Button/Button';
 

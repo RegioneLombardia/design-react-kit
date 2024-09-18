@@ -1,0 +1,20 @@
+import { ArgTypes, Canvas, Controls, Meta, Story } from '@storybook/blocks';
+import { Code } from '@storybook/components';
+import * as GestioneLoghiMultipliStories from './GestioneLoghiMultipli.stories';
+
+<Meta of={GestioneLoghiMultipliStories} />
+
+# Gestione Loghi Multipli
+
+Nel caso in cui sia necessario inserire loghi di _main sponsor o partner tecnici_, essi possono essere posizionati **sotto forma di banner appena sopra il footer**, come mostrato negli esempi di seguito.
+In alternativa possono essere **accolti nel footer** (si veda la sezione dedicata al Footer per esempi dedicati a questo caso).
+
+Nel caso del banner posto sopra il footer, i loghi devono essere **posizionati orizzontalmente**.
+
+Si consiglia di inserire un **massimo di 4 loghi per riga**, e qualora il logo di Regione Lombardia fosse già stato inserito nell’header esso **non deve essere inserito nuovamente** nel banner.
+
+_Versione del banner con 4 loghi_
+<Canvas of={GestioneLoghiMultipliStories.GestioneLoghiMultipli} />
+
+_Versione del banner con 8 loghi_
+<Canvas of={GestioneLoghiMultipliStories.VersioneOttoLoghi} />

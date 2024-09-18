@@ -1,0 +1,22 @@
+import { Canvas, Meta, Story } from '@storybook/blocks';
+import { Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as RadioButtonStories from './RadioButton.stories';
+
+<Meta of={RadioButtonStories} />
+
+# Radio Button
+Un **Radio button** (o option button) è un controllo che permette all’utente di effettuare una scelta singola esclusiva nell’ambito di un insieme predefinito di opzioni o possibili scelte.
+<Canvas of={RadioButtonStories.RadioButton} />
+
+<div className='docs'>
+  <Callout color='info' highlight>
+    <CalloutTitle>
+      <span className='text'>Documentazione tecnica</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per i dettagli tecnici sulla costruzione dei radio button si veda la **[relativa pagina](/docs/documentazione-form-radio--documentazione#radio-button)**
+    </CalloutText>
+  </Callout>
+</div>
+
+

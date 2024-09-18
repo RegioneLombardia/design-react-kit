@@ -1,0 +1,43 @@
+import { ArgTypes, Canvas, Controls, Meta, Story } from '@storybook/blocks';
+import { Code } from '@storybook/components';
+import * as TopBarStories from './Header/TopBar.stories';
+import * as BarraIstituzionaleStories from './Header/BarraIstituzionale.stories';
+
+<Meta title='Linee Guida/Componenti Principali/Header' />
+
+# Header
+L'Header – posto sempre nella testata del layout – si ottiene dall’unione di due componenti:
+
+- La **topbar**, la barra soprastante, verrà sempre utilizzata come componente identitaria di Regione Lombardia e, anche nel caso non contenga alcuna funzionalità, essa sarà presente sotto forma di banda colorata. In alcuni casi tale componente può essere impiegata come toolbar di servizio per l’inserimento di link quali **login, cambio lingua, assistenza**, ecc.
+
+- La **barra istituzionale** conterrà loghi e titolazioni dei servizi ed, eventualmente, un campo di ricerca.
+
+**N.B.: I link di servizio e informazioni di governance** relative all’Ente **non sono mai presenti nell’header**, ma sono contenute unicamente nel **footer**.
+
+## TopBar Base
+<Canvas of={TopBarStories.TopBarBase} />
+
+## TopBar Accesso
+La topbar può accogliere informazioni come ad esempio l’accesso utente.
+<Canvas of={TopBarStories.TopBarAccesso} />
+
+## TopBar Accesso Effettuato
+
+Il menu dropdown può contenere informazioni utili per il login, il logout e la gestione del profilo utente e delle impostazioni. Queste info possono essere relative all’utente e all’operatore che sta utilizzando il servizio.
+
+La dimensione del menu dropdown può variare a seconda delle esigenze, come ad esempio per accogliere una maggiore lunghezza delle voci al suo interno.
+<Canvas of={TopBarStories.TopBarAccessoEffettuato} />
+
+## Barra Istituzionale Base
+Contiene il logo di Regione Lombardia e il nome del servizio, preceduto dall'**Acronimo** (facoltativo).
+<Canvas of={BarraIstituzionaleStories.BarraBase} />
+
+## Barra Istituzionale Search
+Nel caso in cui il servizio lo richieda, è possibile aggiungere un campo di ricerca generico all’interno della barra istituzionale nella parte destra.
+<Canvas of={BarraIstituzionaleStories.BarraSearch} />
+
+## Bottone Hamburger
+Il bottone hamburger serve per aprire e chiudere il [menu verticale](?path=/docs/linee-guida-componenti-principali-menuverticale--documentazione).\
+**Compare automaticamente sugli schermi di piccole dimensioni** a sinistra nella barra istituzionale.
+<Canvas of={BarraIstituzionaleStories.BottoneHamburger} />
+

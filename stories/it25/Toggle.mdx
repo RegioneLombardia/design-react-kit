@@ -1,0 +1,20 @@
+import { Canvas, Meta, Story } from '@storybook/blocks';
+import { Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as ToggleStories from './Toggle.stories';
+
+<Meta of={ToggleStories} />
+
+# Toggle
+Un **Toggle** (o switch) è un controllo che permette all’utente di scegliere la modalità on/off di un singolo settaggio – rappresentando l’analogia dell’interruttore accesso/spento.
+<Canvas of={ToggleStories.Esempio} />
+
+<div className='docs'>
+  <Callout color='info' highlight>
+    <CalloutTitle>
+      <span className='text'>Documentazione tecnica</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per i dettagli tecnici sulla costruzione dei toggle si veda la  **[relativa pagina](/docs/documentazione-form-toggles--documentazione#toggles)**
+    </CalloutText>
+  </Callout>
+</div>

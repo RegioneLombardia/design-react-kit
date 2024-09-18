@@ -1,0 +1,36 @@
+import { ArgTypes, Canvas, Controls, Meta, Story } from '@storybook/blocks';
+import { Code } from '@storybook/components';
+import * as DropdownMenuStories from './DropdownMenu.stories';
+
+<Meta of={DropdownMenuStories} />
+
+
+# Dropdown Menu
+Il Dropdown menu (detto anche menù a tendina) attiva o disattiva overlay contestuali per visualizzare elenchi di link o contenuti di varia natura.
+
+## Bottoni dropdown
+
+Il design di default dei dropdown richiede l’applicazione della classe `.btn-dropdown`.\
+I link o le voci all’interno del dropdown devono essere contenute in un elemento `.link-list`.\
+Per la variante bottone è necessario utilizzare la classe `.btn-primary`.
+
+### Variante menu
+<Canvas of={DropdownMenuStories._Link} />
+
+### Variante bottone
+<Canvas of={DropdownMenuStories._Bottone} />
+
+
+## Default
+
+<Canvas of={DropdownMenuStories._Default} />
+
+L'arrow di default è posto a sinistra.\
+Per spostarlo a destra è necessario utilizzare: `data-popper-placement='bottom-end'` nel <code>div</code> contenente le voci del menu che viene aperto al click.
+
+<Canvas of={DropdownMenuStories._BottomEnd} />
+
+
+## Header & divider
+
+<Canvas of={DropdownMenuStories._HeaderEDivider} />

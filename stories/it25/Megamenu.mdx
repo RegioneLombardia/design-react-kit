@@ -1,0 +1,26 @@
+import { ArgTypes, Canvas, Meta, Story } from '@storybook/blocks';
+import { MegamenuFooter, MegamenuHighlightColumn, MegamenuItem } from '../../src';
+import * as MegamenuStories from './Megamenu.stories';
+
+<Meta of={MegamenuStories} />
+
+# Megamenu
+
+
+Il **Megamenu** è una variante del componente dropdown.\
+Presenta un **sottomenu** contenente **elenchi di link relativi ad una voce del menu di navigazione**.
+
+Si raccomanda l’utilizzo di questo componente nella forma più semplice e pulita, utilizzando il **megamenu classico**, con o senza **intestazione delle colonne** (_header_).
+
+## Classico
+
+Il megamenu ha una struttura colonnare in cui ogni colonna richiama al suo interno un componente _lista_ contenente un elenco di link.
+
+<Canvas of={MegamenuStories.Classico} />
+
+
+## Con intestazione colonne
+
+Questo megamenu viene utilizzato per facilitare la ricerca dei contenuti, raggruppando le voci di menu in liste per categoria.
+
+<Canvas of={MegamenuStories.ConIntestazioneColonne} />

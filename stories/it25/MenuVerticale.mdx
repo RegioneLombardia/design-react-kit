@@ -1,0 +1,20 @@
+import { ArgTypes, Canvas, Controls, Meta, Story } from '@storybook/blocks';
+import { Code } from '@storybook/components';
+import * as MenuVerticaleStories from './MenuVerticale.stories';
+
+<Meta of={MenuVerticaleStories} />
+
+# Menù Verticale
+Il **Menu verticale** può incorporare _liste semplici_ e _liste innestate_.
+
+Si utilizza quando si ha l’esigenza di trattare in forma di lista le voci del menu, quindi all’interno di applicativi con **molte sezioni** cui si deve dare accesso in qualsiasi punto della navigazione.\
+Lo si preferisce per garantire la leggibilità degli item nella lista, che potrà essere scrollata per una visualizzazione completa.
+
+Questo tipo di menu è sempre **collocato a sinistra dello schermo** per facilitare una lettura consequenziale delle informazioni.
+
+## Semplice
+<Canvas of={MenuVerticaleStories.Semplice} />
+
+
+## Innestata
+<Canvas of={MenuVerticaleStories.Innestata} />

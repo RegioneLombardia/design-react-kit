@@ -1,0 +1,73 @@
+import { Canvas, Meta, Story } from '@storybook/blocks';
+import { Container, Row, Col, Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as TipografiaStories from './Tipografia.stories';
+
+<Meta of={TipografiaStories} />
+
+# Tipografia
+
+## Font
+
+Le _Linee Guida_ per il design degli applicativi di Regione Lombardia prevedono **solo due** famiglie di caratteri:
+
+- il font senza grazie, o _sans serif_, **Titillium Web**.
+- il font _monospace_ con dimensioni di caratteri normalizzate **<span class="font-monospace">Roboto Mono</span>**.
+
+
+## Titillium Web
+<Canvas of={TipografiaStories.TitilliumWeb} />
+
+
+## Roboto
+<Canvas of={TipografiaStories.RobotoMono} />
+
+
+<div className='docs'>
+  <Callout color='success' highlight>
+    <CalloutTitle>
+      <span className='text'>Accessibilità</span>
+    </CalloutTitle>
+    <CalloutText>
+      <Container>
+        <Row className="mt-4">
+          <Col sm={6}>
+            <div className='h6'>Lunghezza</div>
+            Una riga di testo che permette una lettura confortevole non supera i 75
+            caratteri.<br/>
+            In caso di colonne multiple la lunghezza è compresa tra 40 e 50 caratteri.<br/>
+            Per i testi a margine, la lunghezza non è mai inferiore ai 12-15 caratteri.
+          </Col>
+          <Col sm={6}>
+            <div className='h6'>Allineamento</div>
+            Il testo deve essere allineato a sinistra, salvo eccezioni come ad esempio i testi a margine.<br/>
+            L’allineamento giustificato e senza sillabazione è sempre da evitare per l’incongrua spaziatura delle parole e la minore leggibilità che comporta.
+          </Col>
+        </Row>
+        <Row className="mt-4">
+          <Col sm={6}>
+            <div className='h6'>Definizione</div>
+            I paragrafi possono essere distinti o applicando uno spazio tra di essi o in alternativa usando una indentatura di misura pari a quella del leading.
+          </Col>
+          <Col sm={6}>
+            <div className='h6'>Link</div>
+            Per distinguere i link dal testo canonico si usa la <u>sottolineatura</u> per i link all’interno di un testo, oppure il <strong>peso bold</strong> per i link isolati.
+          </Col>
+        </Row>
+      </Container>
+    </CalloutText>
+  </Callout>
+</div>
+<br/>
+<br/>
+
+
+<div className='docs'>
+  <Callout color='info' highlight>
+    <CalloutTitle>
+      <span className='text'>Documentazione tecnica</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per l'utilizzo delle classi di formattazione tipografica si consulti la **[relativa pagina](/docs/documentazione-organizzare-i-contenuti-tipografia--documentazione#tipografia)**
+    </CalloutText>
+  </Callout>
+</div>

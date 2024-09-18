@@ -1,0 +1,29 @@
+import { ArgTypes, Canvas, Meta, Story } from "@storybook/blocks";
+import { Code } from "@storybook/components";
+import { Breadcrumb } from "../../src";
+import * as BreadcrumbStories from "./Breadcrumb.stories";
+
+<Meta of={BreadcrumbStories} />
+
+# Breadcrumbs
+
+Le **Breadcrumbs** sono un modello di navigazione secondario che aiuta l’utente a **comprendere la gerarchia tra i livelli e tornare indietro
+attraverso di essi**.\
+Esse forniscono all’utente un **feedback relativo sia alla pagina che al percorso di navigazione**.
+
+Le Linee Guida per il design digitale di Regione Lombardia prevedono breadcrumbs con e senza icone.
+
+## Senza Icone
+*Home*
+<Canvas of={BreadcrumbStories.HomeSenza} />
+*Secondo livello*
+<Canvas of={BreadcrumbStories.DueLivelliSenza} />
+*Terzo livello*
+<Canvas of={BreadcrumbStories.TreLivelliSenza} />
+
+## Con Icone
+<Canvas of={BreadcrumbStories.HomeConIcone} />
+*Secondo livello*
+<Canvas of={BreadcrumbStories.DueLivelliCon} />
+*Terzo livello*
+<Canvas of={BreadcrumbStories.TreLivelliCon} />

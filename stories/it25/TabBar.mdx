@@ -1,0 +1,52 @@
+import { Canvas, Meta, Story } from '@storybook/blocks';
+import { Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as TabBarStories from './TabBar.stories';
+
+<Meta of={TabBarStories} />
+
+# Tab Bar
+
+La **Tab bar** organizza e permette la navigazione tra gruppi di contenuti che sono tra loro correlati ed allo **stesso livello di gerarchia**.
+
+Ogni tab dovrebbe mostrare un contenuto **distinto dalle altre**. A tal proposito, le tab **non devono essere usate per spezzare un contenuto** che ha bisogno di essere letto in un dato ordine.
+
+Le label delle tab devono essere **corte e non abbreviate**, a meno che non sia strettamente necessario.\
+Le tab con solo testo, con icona e con testo e icona non vanno mai mescolate.\
+Ogni bar deve contenere tab **dello stesso tipo**.
+
+<Canvas of={TabBarStories.TabBar} />
+
+## Solo testo
+<Canvas of={TabBarStories.SoloTesto} />
+
+## Solo icone
+<Canvas of={TabBarStories.SoloIcone} />
+
+<div className='docs'>
+  <Callout color='success' highlight>
+    <CalloutTitle>
+      <span className='text'>Accessibilità</span>
+    </CalloutTitle>
+    <CalloutText>
+      Nel caso di di Tab bar con solo icone è **obbligatorio fornire una descrizione** con un testo alternativo, in modo che possa essere utilizzato anche da i non vedenti.\
+      Inoltre, poichè il significato dell'icona non sempre risulta chiaro per gli utenti anche per gli utenti normodotati, è fortemente consigliato aggiungere un **[tooltip](/docs/documentazione-inserimento-tooltip--documentazione#tooltip)** per aiutare la comprensione.
+```tsx
+const ref1 = useRef(null);
+. . .
+<span ref={ref1}>
+  <Icon icon="it-link" aria-hidden title=""/>
+  <i className="it-ico-lg it-link d-block text-center" aria-label="Descrizione per non vedenti" />
+</span>
+. . .
+<UncontrolledTooltip placement='top' target={ref1}>
+  Spiegazione icona 1 (per tutti)
+</UncontrolledTooltip>
+```
+      (estratto del codice dell'esempio sopra)
+    </CalloutText>
+  </Callout>
+</div>
+
+
+## Testo e icona
+<Canvas of={TabBarStories.TestoEIcona} />

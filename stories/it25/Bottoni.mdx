@@ -1,0 +1,163 @@
+import { Canvas, Meta, Story } from '@storybook/blocks';
+import * as BottoniStories from './Bottoni.stories';
+
+<Meta of={BottoniStories} />
+
+# Call to action
+La **Call to action** è un invito all’utente a compiere una determinata azione, identificabile come messaggio testuale univoco e veicolato attraverso un **bottone**.\
+Si tratta di un elemento fondamentale e deve essere chiaro e conciso.
+
+Tutti i **bottoni primari e secondari** hanno in comune: **colori, forma del container** e le **diverse grandezze** con relative **spaziature**.\
+I bottoni disegnati hanno di default un container con **corner radius di 8 pixel**.\
+Il colore terziario viene utilizzato esclusivamente per i bottoni in alcuni contesti specifici che ne richiedono l’utilizzo, **non va utilizzato nei testi**.
+
+
+## Bottoni
+La dimensione di un bottone va adeguata:
+
+1. Al tipo di **schermo** sul quale viene visualizzato\
+   su uno smartphone non deve occupare troppo spazio ma nemmeno essere troppo piccolo da risultare difficile da cliccare utilizzando il pollice
+2. All'**importanza dell'azione** che il bottone compie\
+   maggiore dimensione per maggiore importanza.
+
+Le _Linee Guida_ prevedono **tre dimensioni principali** di bottoni: **small**, **medium**, e **large**.\
+La dimensione media è quella di default, per le altre due va specificato l'attributo `size` uguale a **sm** o **lg**.
+
+Il bottone di _due righe_ mostrato è stato ottenuto fissandone la larghezza, cosa che però ne limita la reponsività.
+
+Il testo all'interno di un bottone va automaticamente su **più righe** qualora non ci sia **abbastanza spazio orizzontale**.\
+Si raccomanda quindi di usare **diciture essenziali** per i bottoni, ponendo all'esterno di essi il testo necessario a chiarire l'azione eseguita.
+
+<Canvas of={BottoniStories.Dimensioni} />
+
+```tsx
+<Button color="primary" size="sm">Lorem ipsum</Button>
+<Button color="primary" size="sm" outline>Lorem ipsum</Button>
+<Button color="secondary" size="sm">Lorem ipsum</Button>
+
+<Button color="primary">Lorem ipsum</Button>
+<Button color="primary" outline>Lorem ipsum</Button>
+<Button color="secondary">Lorem ipsum</Button>
+
+<Button color="primary" size="lg">Lorem ipsum</Button>
+<Button color="primary" size="lg" outline>Lorem ipsum</Button>
+<Button color="secondary" size="lg">Lorem ipsum</Button>
+
+<Button color="primary" size="lg" style={{'max-width': "160px"}}>Lorem ipsum dolor sit</Button>
+<Button color="primary" size="lg" outline style={{'max-width': "160px"}}>Lorem ipsum dolor sit</Button>
+<Button color="secondary" size="lg" style={{'max-width': "160px"}} >Lorem ipsum dolor sit</Button>
+```
+
+<div className="sb-unstyled h4">Nomeclatura e classi</div>
+
+La **nomenclatura** delle **classi di bootstrap** è differente da quella delle Linee Guida di Regione Lombardia.
+<Canvas of={BottoniStories.Nomenclatura} />
+
+La corrispondenza è:
+<div style={{ width: '30%'}}>
+<table className="table table-bordered table-sm">
+  <tr>
+    <th>Linee guida</th>
+    <th>Bootstrap</th>
+  </tr>
+  <tr>
+    <td>Primario</td>
+    <td>primary</td>
+  </tr>
+  <tr>
+    <td>Secondario</td>
+    <td>outline-primary</td>
+  </tr>
+  <tr>
+    <td>Terziario</td>
+    <td>secondary</td>
+  </tr>
+  <tr>
+    <td>Quaternario</td>
+    <td>outline-secondary</td>
+  </tr>
+</table>
+</div>
+
+
+## Distanziamento
+<Canvas of={BottoniStories.Distanziamento} />
+
+```tsx
+<div>
+  <Button color="primary" size="sm" className="my-3">Lorem ipsum</Button>
+  <br />
+  <Button color="primary" size="sm" outline>Lorem ipsum</Button>
+</div>
+<div>
+  <Button color="primary" size="sm" className="me-3">Lorem ipsum</Button>
+  <Button color="primary" size="sm" outline>Lorem ipsum</Button>
+</div>
+```
+
+La distanza di 16px corrisponde al valore **3** delle spaziature.\
+Nell'esempio:
+- la classe `my-3` imposta un *margin* sia *top* che *bottom*
+- la classe `me-3` imposta un *margin-right*.
+
+Per tutti i dettagli sulle **[spaziature](https://regionelombardia.github.io/bootstrap-lombardia/docs/organizzare-gli-spazi/spaziature/)** si veda la Documentazione tecnica di Bootstrap Regione Lombardia.
+
+## Bottoni con icona
+Alcune call to action potrebbero prevedere un’icona accompagnata al testo per enfatizzare l’azione e renderla più chiara e di immediata comprensione per l’utente.
+<Canvas of={BottoniStories.BottoniConIcona} />
+
+```tsx
+<Button color="primary" size="sm" icon>
+  <Icon
+    color="white"
+    icon="it-check-circle"
+  />
+  <span>Lorem ipsum</span>
+</Button>
+<Button color="primary" icon>
+  <Icon
+    color="white"
+    icon="it-check-circle"
+  />
+  <span>Lorem ipsum</span>
+</Button>
+<Button color="primary" size="lg" icon>
+  <Icon
+    color="white"
+    icon="it-check-circle"
+  />
+  <span>Lorem ipsum</span>
+</Button>
+<Button color="primary" size="lg" style={{'max-width': "200px"}} >
+  <div className="d-flex justify-content-center">
+    <Icon
+      color="white"
+      icon="it-check-circle"
+      size="lg"
+      className="me-1"
+    />
+    <span className="text-start">Lorem ipsum dolor sit</span>
+  </div>
+</Button>
+```
+
+
+## Bottoni mini
+I **Bottoni mini** devono essere utilizzati esclusivamente per creare un linguaggio gerarchico delle azioni, in caso di azioni secondarie rispetto a quelle principali.
+<Canvas of={BottoniStories.BottoniMini} />
+
+
+## Text button
+Alcune call to action possono essere costituite da solo testo, senza un contenitore.\
+Queste vengono applicate al menu orizzontale o in caso di hyperlink.
+<Canvas of={BottoniStories.TextButton} />
+
+Nota: la **sottolineatura** è legata alla keyword `active`.
+
+
+## Tag
+Il **Tag** evidenzia una parola chiave o un termine associato ad un’informazione e lo classifica.\
+Deve essere adottato per la ricerca di informazioni basata su parole chiave.
+<Canvas of={BottoniStories.Tag} />
+
+

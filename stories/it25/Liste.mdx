@@ -1,0 +1,23 @@
+import { ArgTypes, Canvas, Meta, Story } from '@storybook/blocks';
+import * as ListeStories from './Liste.stories';
+
+<Meta of={ListeStories} />
+
+# Liste
+Le Liste sono composte da voci attraverso le quali è possibile effettuare sessioni di navigazione all’interno di un’interfaccia.\
+Troviamo spesso questo elemento all’interno dei menu verticali, ma possono essere presenti in diverse modalità, come ad esempio all’interno di menu fissi laterali.
+
+
+## Base
+
+### Default
+<Canvas of={ListeStories.Default} />
+
+### Senza divider
+<Canvas of={ListeStories.SenzaDivider} />
+
+### Con Header
+<Canvas of={ListeStories.ConHeader} />
+
+### Nested
+<Canvas of={ListeStories.Nested} />

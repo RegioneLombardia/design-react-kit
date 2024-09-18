@@ -1,0 +1,19 @@
+import { Canvas, Meta, Story } from '@storybook/blocks';
+import * as OmbreEAngoliStories from './OmbreEAngoli.stories';
+
+<Meta of={OmbreEAngoliStories} />
+
+# Ombre e Angoli
+
+Le **Ombre** e gli **angoli** sono elementi utili per sottolineare i contenuti e dare loro maggiore evidenza.\
+Si specifica che per tutti gli elementi che presentano un raggio di curvatura, quest’ultimo deve essere di **8 pixel**.
+
+## Angoli
+
+I bordi arrotondati si ottengono tramite la classe `rounded-3`.
+<Canvas of={OmbreEAngoliStories.Angoli} />
+
+## Ombre
+
+I due tipi di ombra si ottengono tramite le classi `shadow-sm` e `shadow`.
+<Canvas of={OmbreEAngoliStories.Ombre} />

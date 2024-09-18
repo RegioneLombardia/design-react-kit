@@ -1,0 +1,21 @@
+import { Canvas, Meta, Story } from '@storybook/blocks';
+import { Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as CheckboxStories from './Checkbox.stories';
+
+<Meta of={CheckboxStories} />
+
+# Check Box
+Una **Checkbox** (o tickbox) è un controllo che permette all’utente di selezionare scelte multiple in un insieme predefinito di opzioni o possibili scelte.
+
+<Canvas of={CheckboxStories.CheckBox} />
+
+<div className='docs'>
+  <Callout color='info' highlight>
+    <CalloutTitle>
+      <span className='text'>Documentazione tecnica</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per i dettagli tecnici sulla costruzione delle checkbox si veda la **[relativa pagina](/docs/documentazione-form-checkbox--documentazione#checkbox)**
+    </CalloutText>
+  </Callout>
+</div>
