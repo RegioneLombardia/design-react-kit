@@ -1,0 +1,112 @@
+import { ArgTypes, Canvas, Meta, Story } from '@storybook/blocks';
+import { Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as InputFieldsStories from './InputFields.stories';
+
+<Meta of={InputFieldsStories} />
+
+# Input-fields
+Gli **Input fields** sono le componenti dell’interfaccia dedicate all’inserimento di dati all’interno del sistema.\
+Negli esempi sottostanti, si mostrano varie casistiche di componenti per l’input di dati.
+
+## Input semplice
+<Canvas of={InputFieldsStories.InputSemplice} />
+
+## Con Istruzioni
+È preferibile inserire istruzioni nei campi di testo, ad esempio quando all’utente si richiede l’inserimento di molteplici informazioni, per agevolare la comprensione e la chiarezza.
+<Canvas of={InputFieldsStories.conIstruzioni} />
+
+## Con Icone
+È possibile aggiungere un’icona al campo di testo come istruzione per la compilazione.
+<Canvas of={InputFieldsStories.conIcone} />
+
+## Con Icone
+È possibile aggiungere un’icona al campo di testo come istruzione per la compilazione.
+<Canvas of={InputFieldsStories.conIcone} />
+
+## Password field
+<Canvas of={InputFieldsStories.PasswordField} />
+
+### Validazione password
+<div className='docs'>
+  <Callout color='danger'>
+    <CalloutTitle>
+      <span className='text'>Nota</span>
+    </CalloutTitle>
+    <CalloutText>
+      Al momento Designe React Kit Italia non ha ancora reso disponibile la funzionalità di "password strength".
+    </CalloutText>
+  </Callout>
+</div>
+
+## Password con icone
+<Canvas of={InputFieldsStories.PasswordConIcone} />
+
+## Search Field
+<Canvas of={InputFieldsStories.SearchField} />
+
+## InputNumerico
+<Canvas of={InputFieldsStories.InputNumerico} />
+
+```tsx
+const InputNumerico1Hook = () => {
+  const [value1, setValue1] = useState();
+  return (
+    <Input id="numerico1" type="number" label="Lorem ipsum" value={value1}
+      incrementLabel="Aumenta il valore di 1" decrementLabel="Diminuisci il valore di 1"
+      onChange={(ev) => {
+        setValue1(ev.target.value);
+      }}
+    />
+  );
+};
+const InputNumerico2Hook = () => {
+  const [value2, setValue2] = useState("100");
+  return (
+    <Input id="numerico2" type="number" label="Lorem ipsum" value={value2}
+      incrementLabel="Aumenta il valore di 1" decrementLabel="Diminuisci il valore di 1"
+      onChange={(ev) => {
+        setValue2(ev.target.value);
+      }}
+    />
+  );
+};
+const InputNumerico3Hook = () => {
+  const [value3, setValue3] = useState("100");
+  return (
+    <Input id="numerico3" type="number" label="Lorem ipsum" value={value3} disabled
+      incrementLabel="Aumenta il valore di 1" decrementLabel="Diminuisci il valore di 1"
+      onChange={(ev) => {
+        setValue3(ev.target.value);
+      }}
+    />
+  );
+};
+```
+<Canvas of={InputFieldsStories.ValutaEPercentuale} />
+
+```tsx
+const InputValutaHooks = () => {
+  const [value, setValue] = useState("100");
+  return (
+    <Input id="example-currency" addonText="€" type="currency" label="Currency"
+      incrementLabel="Aumenta il valore di 1 euro" decrementLabel="Diminuisci il valore di 1 euro"
+      value={value} step="any" min={3.5} max={100}
+      onChange={(ev) => {
+          setValue(ev.target.value);
+      }}
+    />
+  );
+};
+const InputPercentualeHooks = () => {
+  const [value, setValue] = useState("100");
+  return (
+    <Input id="example-percentage" addonText="%" type="percentage" label="Percentage"
+      incrementLabel="Aumenta il valore di 1" decrementLabel="Diminuisci il valore di 1"
+      value={value} min={0} max={100}
+      onChange={(ev) => {
+        setValue(ev.target.value);
+      }}
+    />
+  );
+};
+```

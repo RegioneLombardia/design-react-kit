@@ -1,0 +1,55 @@
+import { Canvas, Controls, Meta, Story } from '@storybook/blocks';
+import { Code } from '@storybook/components';
+import { Callout, CalloutText, CalloutTitle } from '../../src';
+import * as TooltipStories from './Tooltip.stories';
+
+<Meta of={TooltipStories} />
+
+# Tooltip
+Il **Tooltip** è una componente che viene richiamata al passaggio del mouse (hover) per fornire informazioni su un determinato elemento o processo.
+
+I tooltip - così come i _popover (vedere sotto)_ - possono essere inseriti all’interno di modali secondo necessità.\
+Quando le modali vengono chiuse, anche le descrizioni comandi e i popover all’interno vengono automaticamente ignorati.
+
+Nello specifico, In base alla dimensione e alla composizione del testo un tooltip può essere composto da una o più righe.\
+Per la spiegazione di **processi** si consiglia di utilizzare un tooltip con **area più ampia** in modo da poter fornire tutte le informazioni necessarie.
+
+
+## Esempio base
+<Canvas of={TooltipStories.EsempioBase} />
+
+```tsx
+const EsempioBaseHook = () => {
+  const ref1 = useRef(null);
+
+  return (
+    < >
+      <span ref={ref1} tabindex="0">Testo esempio base
+        <sup>
+          <Icon color="info" icon="it-info-circle" size="xs"/>
+        </sup>
+      </span>
+
+      <UncontrolledTooltip placement='top' target={ref1}>
+        Primo tooltip
+      </UncontrolledTooltip>
+    </ >
+  );
+};
+```
+
+## Posizionamento
+Per il posizionamento è sufficiente impostare l'attributo `placement`:
+<Canvas of={TooltipStories.Posizionamento} />
+
+
+<div className='docs'>
+  <Callout color='info' highlight>
+    <CalloutTitle>
+      <span className='text'>Documentazione tecnica</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per altri dettagli sull'uso di questa componente si veda la **[relativa pagina](/docs/documentazione-componenti-tooltip--documentazione#documentazione-ed-esempi-per-aggiungere-tooltip-personalizzati)**
+    </CalloutText>
+  </Callout>
+</div>

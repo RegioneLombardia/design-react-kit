@@ -1,5 +1,6 @@
 import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
+import { LinkListItem } from "../../../src";
 import { TopBar } from '../../../src/it25/Header/TopBar.tsx';
 
 const meta: Meta<typeof TopBar> = {
@@ -18,12 +19,22 @@ export const TopBarBase: Story = {
 };
 
 export const TopBarAccesso: Story = {
-  render: ({ access = true }) => (
+  render: ({ access = "#" }) => (
     <TopBar access={access} />
   )
 };
 
 export const TopBarAccessoEffettuato: Story = {
+  args: {
+    user: "Enzo Ferri",
+  },
+  render: ({ user, links }) => (
+    <TopBar user={user} links={links} />
+  )
+};
+
+
+export const TopBarUserSettings: Story = {
   parameters: {
     docs: {
       story: {
@@ -32,12 +43,12 @@ export const TopBarAccessoEffettuato: Story = {
     }
   },
   args: {
+    user: "Enzo Ferri",
     links: [
       { 'href': '#', 'content': 'Dati Profilo'},
       { 'href': '#', 'content': 'Impostazioni'},
       { 'href': '#', 'content': 'Disconnetti'}
     ],
-    user: "Enzo Ferri",
   },
   render: ({ user, links }) => (
     <TopBar user={user} links={links} />

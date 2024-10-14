@@ -1,9 +1,9 @@
-import React, { FC, HTMLAttributes } from 'react';
+import React, { FC, HTMLAttributes, ReactNode } from 'react';
 import classNames from 'classnames';
 
 export interface MenuVerticaleProps extends HTMLAttributes<HTMLElement> {
   /** Inserire la Sidebar che deve comparire automaticamente su schermi ampi o premendo il bottone hamburger nella barra ist. su quelli piccoli */
-  children?: object | string | React.jsx;
+  children?: ReactNode;
   /** Stato iniziale del "collapse" del componente **/
   collapse?: boolean;
   /** Classi aggiuntive da usare per il componente Sidebar */

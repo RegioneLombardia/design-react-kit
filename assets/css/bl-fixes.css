@@ -18,3 +18,8 @@
 .valid-feedback {
   display: inline;
 }
+small.it25-valid-info-text-patch {
+  position: relative;
+  top: -3rem;
+  margin-left: 8px;
+}

@@ -1,19 +1,24 @@
 import React, { FC, HTMLAttributes } from 'react';
-import { Col, Container, Icon, Row } from '../../';
+import { Col, Container, Icon, Row, Dropdown, DropdownToggle, DropdownMenu, LinkList, LinkListItem } from '../../';
 
 export interface TopBarProps extends HTMLAttributes<HTMLElement> {
   /** Bottone di Accesso (autenticazione) */
-  access?: boolean;
+  access?: string;
   /** Dati utente autenticato (es. Nome, Ruolo) */
   user?: string;
   /** Lista di link per dropdwon opzioni profilo */
-  links?: object[];
+  links?: myLink[],
+}
+
+interface myLink {
+  href: string;
+  content: string;
 }
 
 export const TopBar: FC<TopBarProps> = ({
   access = false,
-  user = "Accesso Effettuato",
-  links = [],
+  user = "",
+  links,
 }) => {
   return (
     <div className="it-header-slim-wrapper it25-top-bar">
@@ -24,8 +29,8 @@ export const TopBar: FC<TopBarProps> = ({
               <a className="navbar-brand" href="#">
                 <img src="../static/img/logo-rl-bianco.png" alt="logo regione lombardia" className="d-md-none" />
               </a>
-              <AccessButton access={access} />
-              <Impostazioni user={user} links={links} />
+              {access && <AccessButton />}
+              {user && <UserSettings user={user} links={links}/>}
             </div>
           </Col>
         </Row>
@@ -34,11 +39,10 @@ export const TopBar: FC<TopBarProps> = ({
   )
 };
 
-function AccessButton(access) {
-  if (access.access === false) return ""
+const AccessButton: React.FC<TopBarProps> = ({access}) => {
 	return (
     <div className="header-slim-right-zone">
-      <a className="btn btn-primary btn-icon btn-full" href="#" title="Accedi all'area personale" aria-label="Accedi all'area personale">
+      <a className="btn btn-primary btn-icon btn-full" href={access} title="Accedi all'area personale" aria-label="Accedi all'area personale">
         <Icon icon="it-key" className="icon-white"/>
         <span className="d-none d-md-block">Accedi</span>
       </a>
@@ -46,28 +50,38 @@ function AccessButton(access) {
   )
 }
 
-function Impostazioni(props) {
-  if (props.links.length == 0) return ""
-  let keyN = 0
-	const linkItems = props.links.map(link =>
-    <li key={++keyN}>
-      <a className="list-item" href={link.href}><span>{link.content}</span></a>
-    </li>
-	)
-	return (
-    <div className="header-slim-right-zone">
-      <div className="nav-item dropdown">
-        <a aria-expanded="false" className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" href="#" data-bs-display="static">
-          <span>{props.user}</span>
-          <Icon icon="it-user" className="icon-white"/>
-          <Icon icon="it-expand" className="icon-white"/>
-        </a>
-        <div className="dropdown-menu" data-popper-placement="bottom-end">
-          <div className="link-list-wrapper">
-            <ul className="link-list">{linkItems}</ul>
-          </div>
-        </div>
+const UserSettings: React.FC<TopBarProps> = ({ user, links }) => {
+  if (links) {
+    const linkItems = links.map(link =>
+      <LinkListItem href={link.href} inDropdown>
+        <span>{link.content}</span>
+      </LinkListItem>
+    )
+    return (
+      <div className="header-slim-right-zone">
+        <Dropdown inNavbar>
+          <DropdownToggle caret inNavbar>
+            <Icon icon="it-user" size="xs" className="icon-white"/>
+            {user}
+          </DropdownToggle>
+          <DropdownMenu>
+            <Row>
+              <Col size="12">
+                <LinkList>
+                  {linkItems}
+                </LinkList>
+              </Col>
+            </Row>
+          </DropdownMenu>
+        </Dropdown>
       </div>
-    </div>
-  )
+    )
+  } else {
+    return (
+      <div className="header-slim-right-zone">
+        <Icon icon="it-user" size="xs" className="icon-white"/>
+        <span className="text-white">{user}</span>
+      </div>
+    )
+  }
 }

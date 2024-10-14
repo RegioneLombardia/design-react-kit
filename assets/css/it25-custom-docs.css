@@ -68,6 +68,10 @@
 .css-orh2az :where(table:not(.sb-anchor, .sb-unstyled, .sb-unstyled table)) {
   font-size: 18px !important;
 }
+.css-orh2az :where(a:not(.sb-anchor, .sb-unstyled, .sb-unstyled a)) {
+  text-decoration: underline !important;
+}
+
 .css-1wizkyk {
   width: 20rem !important;
 }

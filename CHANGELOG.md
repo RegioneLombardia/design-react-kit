@@ -1,3 +1,34 @@
+# [5.2.0](https://github.com/italia/design-react-kit/compare/v5.1.0...v5.2.0) (2024-08-05)
+
+
+### Bug Fixes
+
+* thumbnav is a navigation component ([501417e](https://github.com/italia/design-react-kit/commit/501417eda9006de9ea1931d7809aed33125fd90f))
+
+
+### Features
+
+* add list component ([e4c9e14](https://github.com/italia/design-react-kit/commit/e4c9e14f6295343bce7262665fa54ba4085cad30))
+
+
+
+# [5.1.0](https://github.com/italia/design-react-kit/compare/v5.0.4...v5.1.0) (2024-07-02)
+
+
+### Bug Fixes
+
+* alert default props ([39821d9](https://github.com/italia/design-react-kit/commit/39821d93a4b68bf0edd60953e940ebed2c1d5775))
+* dimmer ios bug ([315760a](https://github.com/italia/design-react-kit/commit/315760a217541f9a5b73dc9ea92b8c559f4be362))
+
+
+### Features
+
+* add icon and button to input ([7ad4ca9](https://github.com/italia/design-react-kit/commit/7ad4ca948ee52f35835b6efc19fc424976cd818c))
+* **deps:** update to react 18 ([ac0b4d5](https://github.com/italia/design-react-kit/commit/ac0b4d597442e6045d771be55a1437131b90b305))
+* new dropdown based on reactstrap ([3e4eda6](https://github.com/italia/design-react-kit/commit/3e4eda671f89436587fc315ade8dff0deb2919f2))
+
+
+
 ## [5.0.4](https://github.com/italia/design-react-kit/compare/v5.0.3...v5.0.4) (2024-05-02)
 
 
@@ -107,5 +138,4 @@
 ### Features
 
 * numeric input component ([d4a299c](https://github.com/italia/design-react-kit/commit/d4a299cb43ad138352deab45d552bd33a3be3b19))
-
 

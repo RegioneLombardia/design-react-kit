@@ -1,0 +1,148 @@
+import { Canvas, Controls, Meta, Story } from '@storybook/blocks';
+import { Code } from '@storybook/components';
+import { Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as PopoverStories from './Popover.stories';
+
+<Meta of={PopoverStories} />
+
+# Popover
+Il **Popover** è una componente che viene richiamato al click e fornisce informazioni su un determinato elemento, comando o interazione.
+
+### Posizionamento
+<Canvas of={PopoverStories.Posizionamento} />
+
+<div className='docs'>
+  <Callout color='warning' highlight>
+    <CalloutTitle>
+      <Icon aria-hidden icon="it-warning-circle" size="lg" />
+      <span className='text'>Posizione del Popover</span>
+    </CalloutTitle>
+    <CalloutText>
+      Può essere **diversa** da quella impostata con l'attributo `placement` qualora non ci sia **sufficiente spazio per disegnare il componente**.\
+      Nell'esempio qui sopra infatti, se si preme il tasto _Popover in alto_ e poi si fa scorrere la pagina verso il basso, si vedrà il popover spostarsi al di sotto del bottone.
+    </CalloutText>
+  </Callout>
+</div>
+
+```tsx
+const PosizionamentoWithHooks = () => {
+  const [popoverOpenSx, setPopoverOpenSx] = useState(false);
+  const [popoverOpenDx, setPopoverOpenDx] = useState(false);
+  const [popoverOpenAlto, setPopoverOpenAlto] = useState(false);
+  const [popoverOpenBasso, setPopoverOpenBasso] = useState(false);
+
+  const targetRefSx = useRef(null);
+  const targetRefDx = useRef(null);
+  const targetRefAlto = useRef(null);
+  const targetRefBasso = useRef(null);
+
+  return (
+    <Container>
+      <Row>
+        <Col xs={12} md={{ size: 4, offset: 4 }}>
+          <span>
+            <Button className='me-1' color='secondary' innerRef={targetRefAlto}
+              onClick={() => {
+                setPopoverOpenAlto(!popoverOpenAlto);
+              }}
+            >
+              Popover {'in alto'}
+            </Button>
+            <Popover placement={'top'} isOpen={popoverOpenAlto} target={targetRefAlto}
+              toggle={() => {
+                setPopoverOpenAlto(!popoverOpenAlto);
+              }}
+            >
+              <PopoverHeader>Titolo del popover</PopoverHeader>
+              <PopoverBody>Vivamus sagittis lacus vel augue laoreet rutrum faucibus
+                <a href='#' className='popover-inner-link'> altro ... </a>
+              </PopoverBody>
+            </Popover>
+          </span>
+        </Col>
+      </Row>
+      <Row>
+        <Col xs={12} md={4}>
+          <span>
+            <Button className='me-1' color='secondary' innerRef={targetRefDx}
+              onClick={() => {
+                setPopoverOpenDx(!popoverOpenDx);
+              }}
+            >
+              Popover {'a destra'}
+            </Button>
+            <Popover placement={'right'} isOpen={popoverOpenDx} target={targetRefDx}
+              toggle={() => {
+                setPopoverOpenDx(!popoverOpenDx);
+              }}
+            >
+              <PopoverBody>Vivamus sagittis lacus vel augue laoreet rutrum faucibus</PopoverBody>
+            </Popover>
+          </span>
+        </Col>
+        <Col xs={12} md={{ size: 4, offset: 4 }}>
+          <span>
+            <Button className='me-1' color='secondary' innerRef={targetRefSx}
+              onClick={() => {
+                setPopoverOpenSx(!popoverOpenSx);
+              }}
+            >
+              Popover {'a sinistra'}
+            </Button>
+            <Popover placement={'left'} isOpen={popoverOpenSx} target={targetRefSx}
+              toggle={() => {
+                setPopoverOpenSx(!popoverOpenSx);
+              }}
+            >
+              <PopoverHeader>
+                <Icon icon='it-help-circle' aria-hidden />
+                Titolo con icona
+              </PopoverHeader>
+              <PopoverBody>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel finibus augue.
+                <a href='#' className='popover-inner-link'> altro ...
+                  <Icon icon='it-arrow-right' aria-hidden />
+                </a>
+              </PopoverBody>
+            </Popover>
+          </span>
+        </Col>
+      </Row>
+      <Row>
+        <Col xs={12} md={{ size: 4, offset: 4 }}>
+          <span>
+            <Button className='me-1' color='secondary' innerRef={targetRefBasso}
+              onClick={() => {
+                setPopoverOpenBasso(!popoverOpenBasso);
+              }}
+            >
+              Popover {'in basso'}
+            </Button>
+            <Popover placement={'bottom'} isOpen={popoverOpenBasso} target={targetRefBasso}
+              toggle={() => {
+                setPopoverOpenBasso(!popoverOpenBasso);
+              }}
+            >
+              <PopoverHeader>Titolo del popover</PopoverHeader>
+              <PopoverBody>Vivamus sagittis lacus vel augue laoreet rutrum faucibus
+                <a href='#' className='popover-inner-link'> altro ... </a>
+              </PopoverBody>
+            </Popover>
+          </span>
+        </Col>
+      </Row>
+    </Container>
+  );
+}
+```
+
+<div className='docs'>
+  <Callout color='info' highlight>
+    <CalloutTitle>
+      <span className='text'>Documentazione tecnica</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per le altre modalità possibili sia di abilitazione dei popover sia di impostazione del tipo di comparsa e scomparsa di questi componenti, si veda la **[relativa pagina](/docs/documentazione-componenti-popover--documentazione#documentazione-ed-esempi-per-aggiungere-popover-tooltip-informativi-a-qualsiasi-elemento-del-tuo-sito)**
+    </CalloutText>
+  </Callout>
+</div>

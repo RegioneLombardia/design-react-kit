@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /*
  * This work derives from the React Use Navscroll library
  * Released under the MIT license by Marco Liberati
@@ -122,23 +123,24 @@ export function useNavScroll(args: useNavScrollArgs = {}): useNavScrollResult {
     forceRecompute
   ]);
 
-  const refresh = useCallback(() => {
+  const refresh = useCallback(
     debounce(() => {
       setCounter(counter + 1);
-    }, REGISTER_DELAY);
-  }, [counter]);
+    }, REGISTER_DELAY),
+    [counter]
+  );
 
   const register = useCallback(
-    (id, options = {}) => {
+    (id: string, options = {}) => {
       if (!hasWindow) {
         return { id, ref: null };
       }
       const alreadyRegistered = id in elsLookup;
-      const entry = alreadyRegistered ? els.current.find(({ id: existingId }) => existingId === id) : options;
+      const entry = (alreadyRegistered ? els.current.find(({ id: existingId }) => existingId === id) : options) as any;
       const ref = (entry && entry.ref) || createRef();
 
       if (!alreadyRegistered) {
-        els.current = [...els.current, { id, ref, parent: options.parent }];
+        els.current = [...els.current, { id, ref, parent: (options as any).parent }];
         refresh();
       }
       return { id, ref };

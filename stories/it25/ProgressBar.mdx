@@ -1,0 +1,40 @@
+import { Canvas, Controls, Meta, Story } from '@storybook/blocks';
+import { Code } from '@storybook/components';
+import { Callout, CalloutText, CalloutTitle, Icon } from '../../src';
+import * as ProgressBarStories from './ProgressBar.stories';
+
+<Meta of={ProgressBarStories} />
+
+# Progress Bar
+La **Progress bar** è una componente utile per stabilire la percentuale di completamento di un task all’interno di una pagina.\
+Questo elemento può essere utilizzato per indicarne la percentuale di completamento, oppure come elemento aggiuntivo della componente wizard, come indicatore di una procedura.
+
+<Canvas of={ProgressBarStories.Esempio} />
+
+<div className='docs'>
+  <Callout color='warning' highlight>
+    <CalloutTitle>
+      <Icon aria-hidden icon="it-warning-circle" size="lg" />
+      <span className='text'>Importazione Progress da reactstrap</span>
+    </CalloutTitle>
+    <CalloutText>
+      L'implementazione della Progress Bar da parte del design-react-kit italia non consente di regolare lo spessore della stessa.\
+      Per questo l'esempio fornito in questa pagina è stato costruito importando il componente **direttamente da reactstrap**:
+      ```tsx
+      import {Progress} from "reactstrap"
+      ```
+    </CalloutText>
+  </Callout>
+</div>
+&nbsp;
+
+<div className='docs'>
+  <Callout color='info' highlight>
+    <CalloutTitle>
+      <span className='text'>Documentazione tecnica</span>
+    </CalloutTitle>
+    <CalloutText>
+      Per i dettagli tecnici sulla costruzione delle progress bar si veda la **[documentazione di reactstrap](https://reactstrap.github.io/?path=/docs/components-progress--progress)**
+    </CalloutText>
+  </Callout>
+</div>

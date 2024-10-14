@@ -1,17 +1,22 @@
-import React, { FC, HTMLAttributes } from 'react';
+import React, { FC, HTMLAttributes, ReactNode } from 'react';
 import { Col, Row } from '../../';
 
 export interface FooterProps extends HTMLAttributes<HTMLElement> {
   /** Eventuali loghi in negaivo (massimo 4) */
-  logos?: object | string | React.jsx;
+  logos?: ReactNode;
   /** Acronimo dell'applicativo */
   acronym?: string;
   /** Nome dell'applicativo */
   applicationName: string;
   /** Inserire righe nel container con contenuto personalizzato */
-  children?: object | string | React.jsx;
+  children?: ReactNode;
   /** Lista di link per Privacy, Contatti, ecc. */
-  links?: object[];
+  links?: myLink[],
+}
+
+interface myLink {
+  href: string;
+  content: string;
 }
 
 export const Footer: FC<FooterProps> = ({
@@ -19,7 +24,7 @@ export const Footer: FC<FooterProps> = ({
   acronym = "",
   applicationName,
   children = "",
-  links = [],
+  links,
 }) => {
   return (
     <footer className="footer">
@@ -31,7 +36,7 @@ export const Footer: FC<FooterProps> = ({
           </Col>
         </Row>
         {children}
-        <LinkList links={links} />
+        {links && <HorLinkList links={links} />}
         <Row>
           <Col sm={12} className="my-3 copyright">
             <span className="d-inline-block">&copy; Copyright Regione Lombardia</span>
@@ -46,10 +51,14 @@ export const Footer: FC<FooterProps> = ({
   )
 };
 
-function LinkList(links) {
-  if (links.links.length === 0) return ""
+interface HorLinkListProps extends HTMLAttributes<HTMLElement> {
+  /** Lista di link per Privacy, Contatti, ecc. */
+  links: myLink[],
+}
+
+const HorLinkList: FC<HorLinkListProps> = ({ links }) => {
   let keyN = 0
-	const linkItems = links.links.map(link =>
+	const linkItems = links.map(link =>
     <span className="d-inline-block mt-3 me-2" key={++keyN}>
 			<a href={link.href}>{link.content}</a>
     </span>

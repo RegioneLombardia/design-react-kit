@@ -11,7 +11,7 @@ export interface BarraIstituzionaleProps extends HTMLAttributes<HTMLElement> {
   /** Bottone apertura/chiusura menù verticale **/
   hamburgerButton?: boolean;
   /** Voci del menù verticale */
-  verticalMenu?: object[];
+//   verticalMenu?: object[];
 }
 
 export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
@@ -27,13 +27,13 @@ export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
           <Col sm={12}>
             <div className="it-header-center-content-wrapper">
               <div className="it-brand-wrapper">
-                <HamburgerButton hamburgerButton={hamburgerButton} />
+                {hamburgerButton && <HamburgerButton />}
                 <a href="#">
                   <img src="../static/img/logo-rl.png" alt="logo regione lombardia" className="it25-header-logo d-none d-md-block" />
                   <div className="it-brand-text">{acronym} {applicationName}</div>
                 </a>
               </div>
-              <Search search={search} />
+              {search && <Search />}
             </div>
           </Col>
         </Row>
@@ -42,8 +42,7 @@ export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
   )
 };
 
-function Search(search) {
-  if (search.search === false) return ""
+const Search = () => {
 	return (
     <div className="it-right-zone">
       <form>
@@ -58,8 +57,7 @@ function Search(search) {
   )
 }
 
-function HamburgerButton(hamburgerButton) {
-  if (hamburgerButton.hamburgerButton === false) return ""
+const HamburgerButton = () => {
 	return (
     <div className="it25-hamburger-btn-wrapper">
       <button
