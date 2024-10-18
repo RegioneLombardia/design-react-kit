@@ -1,45 +1,35 @@
-<h1 align="center">Design React Kit</h1>
-<h1> NON UTILIZZARE! - FORK PER INIZIO LAVORI - SVILUPPO APPENA INIZIATO! </h1>
+<h1 align="center">Design React Kit - Regione Lombardia</h1>
+<h1> NON UTILIZZARE! - PRIMA VERSIONE - DA VERIFICARE! </h1>
 
 <p align="center">
   <img src=".github/react-logo.png" alt="react-logo" width="120px" height="auto"/>
   <br>
-  <i>Design React Kit è un toolkit basato su Bootstrap Italia 
+  <i>Design React Kit è un toolkit basato su Bootstrap Regione Lombardia 
     <br> per la creazione di applicazioni web sviluppate con React.</i>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://italia.github.io/design-react-kit"><strong>italia.github.io/design-react-kit</strong></a>
+  <a href="https://github.com/RegioneLombardia/design-react-kit"><strong>regionelombardia.github.io/design-react-kit</strong></a>
   <br>
 </p>
 
 <p align="center">
-    <a href="https://www.npmjs.com/package/design-react-kit"><img src="https://img.shields.io/npm/v/design-react-kit.svg" alt="NPM"></a>
-    <a href="https://github.com/italia/design-react-kit/actions"><img src="https://github.com/italia/design-react-kit/actions/workflows/ci.yml/badge.svg" alt="Build"></a>
-    <a href="https://codecov.io/gh/italia/design-react-kit"><img src="https://codecov.io/gh/italia/design-react-kit/branch/main/graph/badge.svg?token=0Ud6YSFi0r" alt="codecov"></a>
-    <a href="https://github.com/italia/design-react-kit/blob/main/LICENSE"><img src="https://img.shields.io/github/license/italia/design-react-kit.svg" alt="License"></a>
-    <a href="https://github.com/italia/design-react-kit/issues"><img src="https://img.shields.io/github/issues/italia/design-react-kit.svg" alt="GitHub issues"></a>
+<!--      <a href="https://www.npmjs.com/package/design-react-kit"><img src="https://img.shields.io/npm/v/design-react-kit.svg" alt="NPM"></a> -->
+    <a href="https://github.com/RegioneLombardia/design-react-kit/actions"><img src="https://github.com/italia/design-react-kit/actions/workflows/ci.yml/badge.svg" alt="Build"></a>
+    <a href="https://github.com/RegioneLombardia/design-react-kit/blob/main/LICENSE"><img src="https://img.shields.io/github/license/italia/design-react-kit.svg" alt="License"></a>
+    <a href="https://github.com/RegioneLombardia/design-react-kit/issues"><img src="https://img.shields.io/github/issues/italia/design-react-kit.svg" alt="GitHub issues"></a>
 </p>
 
-<p align="center">
-  <a href="https://developersitalia.slack.com/messages/C04J92F9XM2/">
-    <img src="https://img.shields.io/badge/Slack%20channel-%23design--dev--react-blue.svg" alt="Join the #design-system-react channel" />
-  </a>
-  <a href="https://slack.developers.italia.it/">
-    <img src="https://slack.developers.italia.it/badge.svg" alt="Get invited" />
-  </a>
-</p>
-
-_Read this in other languages: [English 🇬🇧](README.EN.md)._
-
-_⚠️ Attenzione: questo kit è stato progettato per funzionare con la versione 2.x di Bootstrap Italia. Il kit per la versione 1.x di Bootstrap Italia è stato deprecato e si trova sul branch [4.x](https://github.com/italia/design-react-kit/tree/4.x)._
+_⚠️ Attenzione: questo kit è stato progettato per funzionare con la versione 2.x di Bootstrap Regione Lombardia._
 
 ## Intro
 
 **Design React kit** è un set di componenti React che implementa [Bootstrap Italia](https://italia.github.io/bootstrap-italia/) e gli stili presenti su [Design UI Kit](https://github.com/italia/design-ui-kit).
 Per navigare la libreria e visualizzare i componenti, è stato utilizzato [Storybook](https://storybook.js.org/).
 La versione pubblica dello Storybook è disponibile [qui](https://italia.github.io/design-react-kit) per l'ultima release stabile pubblicata.
+
+<!--
 Per giocare con la libreria è disponibile il [Playground React Kit](https://github.com/italia/design-react-kit-playground).
 
 # Indice
@@ -66,7 +56,7 @@ Per giocare con la libreria è disponibile il [Playground React Kit](https://git
 Per utilizzare Design React come dipendenza in un'app è possibile installarla da [npm](https://www.npmjs.com/~italia). Suggeriamo di usare `create vite` per creare una nuova webapp React, come segue:
 
 ```sh
-yarn create vite my-react-app --template react
+yarn create vite nome-app --template react
 cd nome-app
 yarn add design-react-kit --save
 ```
@@ -261,3 +251,4 @@ Tutti i contributor (_made with [contributors-img](https://contrib.rocks)_)
 <a href = "https://github.com/italia/design-react-kit/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=italia/design-react-kit"/>
 </a>
+-->

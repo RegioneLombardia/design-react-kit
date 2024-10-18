@@ -1,8 +1,8 @@
 /* eslint jsx-a11y/anchor-is-valid: 0 */
 import { Meta, StoryObj } from '@storybook/react';
-import React from 'react';
-import { Col, Container, Dropdown, DropdownMenu, DropdownToggle, Icon, LinkList, LinkListItem,
-  MegamenuItem, Nav, Navbar, NavItem, NavLink, Row } from '../../src';
+import React, { useState } from 'react';
+import { Col, Collapse, Container, Dropdown, DropdownMenu, DropdownToggle, Icon, LinkList, LinkListItem,
+  MegamenuItem, Nav, Navbar, NavbarToggler, NavItem, NavLink, Row } from '../../src';
 
 //Non esiste un componente specifico per cui uso Container come riferimento per la storia
 const meta: Meta<typeof Container> = {
@@ -13,6 +13,7 @@ const meta: Meta<typeof Container> = {
       story: {
         height: '350px'
       },
+      canvas: { sourceState: 'none' }
     }
   },
   args: {
@@ -23,28 +24,34 @@ export default meta;
 
 type Story = StoryObj<typeof Container>;
 
-export const MenuOrizzontale: Story = {
-  args: {
-  },
-  render: () => (
+
+function showCloser(show, id) {
+  const closer = document.getElementById(id)
+  if (show) {
+    closer.classList.add("show")
+  } else {
+    closer.classList.remove("show")
+  }
+  document.activeElement.blur()
+}
+
+const MenuOrizzontaleHooks = () => {
+  const [openNav, setOpenNav] = useState(false);
+  const toggle = () => {
+    setOpenNav(!openNav)
+    showCloser(!openNav, "closer01");
+  };
+  return (
     <div className='it-header-navbar-wrapper theme-light-desk it25-menu-orizzontale'>
       <Navbar expand="lg" className='has-megamenu'>
-        <div className="d-inline-flex">
-          <button className="custom-navbar-toggler" type="button" aria-controls="nav1" aria-expanded="false"
-          aria-label="Mostra/Nascondi la navigazione" data-bs-toggle="navbarcollapsible" data-bs-target="#nav1">
-            <Icon color="primary" icon="it-burger" />
-          </button>
+        <NavbarToggler className='custom-navbar-toggler d-flex d-lg-none' onClick={toggle}>
+          <Icon icon='it-burger' color='primary' size='md'/>
           <div className="d-block d-lg-none align-self-center text-primary fw-semibold ms-2">Apri Menu</div>
-        </div>
-        <div className="navbar-collapsable" id="nav1">
-          <div className="overlay"></div>
-          <div className="close-div">
-            <button className="btn close-menu" type="button">
-              <span className="visually-hidden">Nascondi la navigazione</span>
-              <Icon icon="it-close-big" />
-            </button>
-          </div>
-          <div className="menu-wrapper">
+        </NavbarToggler>
+        <NavbarToggler className='custom-navbar-toggler it25-megamenu-closer' id="closer01" onClick={toggle}>
+          <Icon icon='it-close-big' size='md'/>
+        </NavbarToggler>
+        <Collapse isOpen={openNav} navbar header megamenu>
             <Nav navbar>
               <NavItem>
                 <NavLink href="#"><span>Link</span></NavLink>
@@ -61,7 +68,7 @@ export const MenuOrizzontale: Story = {
                 </NavLink>
               </NavItem>
               <Dropdown inNavbar tag="li" theme="">
-                <DropdownToggle caret inNavbar>
+                <DropdownToggle caret inNavbar className="text-start">
                   <span>Dropdown</span>
                 </DropdownToggle>
                 <DropdownMenu>
@@ -126,9 +133,14 @@ export const MenuOrizzontale: Story = {
                 </Row>
               </MegamenuItem>
             </Nav>
-          </div>
-        </div>
-      </Navbar>
-    </div>
-  )
+      </Collapse>
+    </Navbar>
+  </div>
+  );
+};
+
+export const MenuOrizzontale: Story = {
+  render: () => {
+    return <MenuOrizzontaleHooks />;
+  }
 };

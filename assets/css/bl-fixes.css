@@ -1,7 +1,7 @@
 .footer a {
 	 text-decoration: none;
 }
- .footer a:hover {
+.footer a:hover {
 	 text-decoration: underline;
 }
 .footer .list-inline-item {
@@ -22,4 +22,23 @@ small.it25-valid-info-text-patch {
   position: relative;
   top: -3rem;
   margin-left: 8px;
+}
+.megamenu {
+  a {
+    &.dropdown-toggle{
+      &.btn {
+        text-align: left;
+      }
+    }
+  }
+}
+.it25-megamenu-closer {
+  position: absolute;
+  right:  -1rem;
+  z-index:  1000;
+  top: 1rem;
+  display: none;
+  &.show {
+    display: block;
+  }
 }

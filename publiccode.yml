@@ -7,31 +7,27 @@ categories:
   - website-builder
 description:
   it:
-    documentation: 'https://italia.github.io/design-react-kit'
+    documentation: 'https://RegioneLombardia.github.io/design-react-kit'
     features:
       - responsive
       - accessibility
       - inclusion
       - web development
-      - PNRR
-      - PNRR/Misura/1.4.1
-      - PNRR/Beneficiari/Comuni
-      - PNRR/Beneficiari/Scuole
-    genericName: Design React Kit
+    genericName: Design React Kit Lombardia
     longDescription: |
       La libreria **Design React Kit** è il modo più semplice e sicuro per
       costruire interfacce web **moderne**, **inclusive** e **semplici da
       mantenere** utilizzando il framework React.
 
-      Completamente **open-source**, costruita sulle fondamenta di 
-      [Bootstrap Italia 2.x](https://github.com/italia/bootstrap-italia "Repository GitHub di Bootstrap Italia") 
+      Completamente **open-source**, costruita sulle fondamenta di
+      [Bootstrap Lombardia 2.x](https://github.com/RegioneLombardia/bootstrap-lombardia "Repository GitHub di Bootstrap Regione Lombardia")
       di cui eredita tutte le funzionalità, componenti, griglie e classi di utilità.
     shortDescription: |-
       La libreria Design React Kit è il modo più semplice e sicuro per costruire
       interfacce web moderne, inclusive e semplici da mantenere utilizzando React.
-developmentStatus: stable
+developmentStatus: beta
 isBasedOn:
-  - Bootstrap Italia
+  - Bootstrap Regione Lombardia
 it:
   conforme:
     gdpr: false
@@ -46,24 +42,24 @@ it:
     spid: false
   riuso:
     codiceIPA: pcm
-landingURL: 'https://italia.github.io/design-react-kit'
+landingURL: 'https://RegioneLombardia.github.io/design-react-kit'
 legal:
-  authorsFile: 'https://github.com/italia/design-react-kit/blob/main/AUTHORS'
+  authorsFile: 'https://github.com/RegioneLombardia/design-react-kit/blob/main/AUTHORS'
   license: BSD-3-Clause
-  mainCopyrightOwner: Presidenza del Consiglio dei Ministri
+  mainCopyrightOwner: Agenzia Regionale Innovazione e Acquisti
 localisation:
   availableLanguages:
     - it
   localisationReady: false
 maintenance:
   contacts:
-    - name: Designers Italia
+    - name: Agenzia Regionale Innovazione e Acquisti
   type: community
-name: Design React Kit
+name: Design React Kit Lombardia
 platforms:
   - web
 releaseDate: '2024-08-05'
-roadmap: 'https://github.com/italia/design-react-kit/issues'
+roadmap: 'https://github.com/RegioneLombardia/design-react-kit/issues'
 softwareType: library
-softwareVersion: v5.2.0
-url: 'https://github.com/italia/design-react-kit'
+softwareVersion: v0.1.0
+url: 'https://github.com/RegioneLombardia/design-react-kit'

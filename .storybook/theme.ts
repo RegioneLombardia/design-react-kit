@@ -15,7 +15,7 @@ const theme = create({
   appBorderRadius: 4,
 
   brandTitle: 'Design React Kit Lombardia',
-  brandUrl: 'https://github.com/italia/design-react-kit'
+  brandUrl: 'https://github.com/RegioneLombardia/design-react-kit'
 });
 
 export default theme;

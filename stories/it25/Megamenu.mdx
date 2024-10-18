@@ -18,9 +18,156 @@ Il megamenu ha una struttura colonnare in cui ogni colonna richiama al suo inter
 
 <Canvas of={MegamenuStories.Classico} />
 
+```tsx
+const ClassicoHooks = () => {
+  const [openNav, setOpenNav] = useState(false);
+  const toggle = () => {
+    setOpenNav(!openNav)
+    showCloser(!openNav, "closer01");
+  };
+  return (
+    <Navbar expand="lg" className='has-megamenu'>
+      <NavbarToggler className='custom-navbar-toggler' onClick={toggle}>
+        <Icon icon='it-burger' size='md'/>
+      </NavbarToggler>
+      <NavbarToggler className='custom-navbar-toggler it25-megamenu-closer' id="closer01" onClick={toggle}>
+        <Icon icon='it-close-big' size='md'/>
+      </NavbarToggler>
+      <Collapse isOpen={openNav} navbar header megamenu>
+          <Nav className='mt-0' navbar>
+            <MegamenuItem itemName="Megamenu">
+              <Row>
+                <Col xs='12' lg='4'>
+                  <LinkList>
+                    <LinkListItem inDropdown href='#'>
+                      <span>Link list 1</span>
+                    </LinkListItem>
+                    <LinkListItem inDropdown href='#'>
+                      <span>Link list 2</span>
+                    </LinkListItem>
+                    <LinkListItem inDropdown href='#'>
+                      <span>Link list 3</span>
+                    </LinkListItem>
+                  </LinkList>
+                </Col>
+                <Col xs='12' lg='4'>
+                  <LinkList>
+                    <LinkListItem inDropdown href='#' active>
+                      <span>Link list 1</span>
+                    </LinkListItem>
+                    <LinkListItem inDropdown href='#'>
+                      <span>Link list 2</span>
+                    </LinkListItem>
+                    <LinkListItem inDropdown href='#'>
+                      <span>Link list 3</span>
+                    </LinkListItem>
+                  </LinkList>
+                </Col>
+                <Col xs='12' lg='4'>
+                  <LinkList>
+                    <LinkListItem inDropdown href='#'>
+                      <span>Link list 1</span>
+                    </LinkListItem>
+                    <LinkListItem inDropdown href='#' disabled>
+                      <span>Link list 2</span>
+                    </LinkListItem>
+                    <LinkListItem inDropdown href='#'>
+                      <span>Link list 3</span>
+                    </LinkListItem>
+                  </LinkList>
+                </Col>
+              </Row>
+            </MegamenuItem>
+          </Nav>
+      </Collapse>
+    </Navbar>
+  );
+};
+
+```
+
+Per gestire il bottone di chiusura:
+```tsx
+function showCloser(show, id) {
+  const closer = document.getElementById(id)
+  if (show) {
+    closer.classList.add("show")
+  } else {
+    closer.classList.remove("show")
+  }
+  document.activeElement.blur()
+}
+```
 
 ## Con intestazione colonne
 
 Questo megamenu viene utilizzato per facilitare la ricerca dei contenuti, raggruppando le voci di menu in liste per categoria.
 
 <Canvas of={MegamenuStories.ConIntestazioneColonne} />
+
+```tsx
+const ConIntestazioneColonneHooks = () => {
+  const [openNav, setOpenNav] = useState(false);
+  const toggle = () => {
+    setOpenNav(!openNav)
+    showCloser(!openNav, "closer02");
+  };
+  return (
+    <Navbar expand="lg" className='has-megamenu'>
+      <NavbarToggler className='custom-navbar-toggler' onClick={toggle}>
+        <Icon icon='it-burger' size='md'/>
+      </NavbarToggler>
+      <NavbarToggler className='custom-navbar-toggler it25-megamenu-closer' id="closer02" onClick={toggle}>
+        <Icon icon='it-close-big' size='md'/>
+      </NavbarToggler>
+      <Collapse isOpen={openNav} navbar header megamenu>
+        <Nav className='mt-0' navbar>
+          <MegamenuItem itemName="Megamenu">
+            <Row>
+              <Col xs='12' lg='4'>
+                <LinkList header={<div className="link-list-heading text-primary fw-bold">Sezione 1</div>}>
+                  <LinkListItem inDropdown href='#'>
+                    <span>Link list 1</span>
+                  </LinkListItem>
+                  <LinkListItem inDropdown href='#'>
+                    <span>Link list 2</span>
+                  </LinkListItem>
+                  <LinkListItem inDropdown href='#'>
+                    <span>Link list 3</span>
+                  </LinkListItem>
+                </LinkList>
+              </Col>
+              <Col xs='12' lg='4'>
+                <LinkList header={<div className="link-list-heading text-primary fw-bold">Sezione 2</div>}>
+                  <LinkListItem inDropdown href='#' active>
+                    <span>Link list 1</span>
+                  </LinkListItem>
+                  <LinkListItem inDropdown href='#'>
+                    <span>Link list 2</span>
+                  </LinkListItem>
+                  <LinkListItem inDropdown href='#'>
+                    <span>Link list 3</span>
+                  </LinkListItem>
+                </LinkList>
+              </Col>
+              <Col xs='12' lg='4'>
+                <LinkList header={<div className="link-list-heading text-primary fw-bold">Sezione 3</div>}>
+                  <LinkListItem inDropdown href='#'>
+                    <span>Link list 1</span>
+                  </LinkListItem>
+                  <LinkListItem inDropdown href='#' disabled>
+                    <span>Link list 2</span>
+                  </LinkListItem>
+                  <LinkListItem inDropdown href='#'>
+                    <span>Link list 3</span>
+                  </LinkListItem>
+                </LinkList>
+              </Col>
+            </Row>
+          </MegamenuItem>
+        </Nav>
+      </Collapse>
+    </Navbar>
+  );
+};
+```
