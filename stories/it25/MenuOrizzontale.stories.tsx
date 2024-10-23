@@ -1,4 +1,3 @@
-/* eslint jsx-a11y/anchor-is-valid: 0 */
 import { Meta, StoryObj } from '@storybook/react';
 import React, { useState } from 'react';
 import { Col, Collapse, Container, Dropdown, DropdownMenu, DropdownToggle, Icon, LinkList, LinkListItem,

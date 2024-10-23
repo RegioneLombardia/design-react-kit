@@ -1,8 +1,7 @@
 import { Meta, StoryObj } from "@storybook/react";
-// @ts-ignore per il momento questo modulo non ha types
 import Autocomplete from "accessible-autocomplete/react"; // Reference to https://www.npmjs.com/package/accessible-autocomplete
 import React, { useState } from "react";
-import { FormGroup, Icon, Input, TextArea, Form, Container, Row, Col, Select } from "../../src";
+import { FormGroup, Icon, Input, Form, Container, Row, Col, Select } from "../../src";
 
 const meta: Meta<typeof Input> = {
     title: "Linee Guida/Inserimento/Input fields",
@@ -338,9 +337,9 @@ export const SearchField: Story = {
         { value: "19", label: "Valle d'Aosta" },
         { value: "20", label: "Veneto" },
     ];
-    const suggest = (query: any, populateResults: any) => {
+    const suggest = (query: "", populateResults: "") => {
         const filteredResults = multiOptions.filter((i) => i.label.toLowerCase().includes(query.toLowerCase()));
-        let data = filteredResults.map((item) => {
+        const data = filteredResults.map((item) => {
             return item.label;
         });
         populateResults(data);

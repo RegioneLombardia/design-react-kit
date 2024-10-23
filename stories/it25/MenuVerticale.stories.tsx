@@ -1,4 +1,3 @@
-/* eslint jsx-a11y/anchor-is-valid: 0 */
 import { Meta, StoryObj } from '@storybook/react';
 import React, { useState } from "react";
 import { Sidebar, LinkList, LinkListItem, Icon, Collapse } from "../../src";

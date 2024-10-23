@@ -1,6 +1,5 @@
 import { Meta } from '@storybook/react';
 import React from 'react';
-import { Col, Row } from '../../src';
 
 const meta: Meta = {
   title: "Linee Guida/Utilità/Divisori",

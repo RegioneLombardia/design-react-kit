@@ -1,4 +1,3 @@
-/* eslint jsx-a11y/anchor-is-valid: 0 */
 import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { Col, Row, LinkList, LinkListItem } from '../../src';

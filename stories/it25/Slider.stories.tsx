@@ -1,9 +1,7 @@
 import { Meta } from '@storybook/react';
 import React from 'react';
-import { Form, FormGroup, Input, Label } from '../../src';
-import RangeSlider from 'react-range-slider-input';
+import { Form, FormGroup, Input } from '../../src';
 import 'react-range-slider-input/dist/style.css';
-import It25 from 'bootstrap-lombardia/dist/js/bootstrap-lombardia.min.js';
 
 const meta: Meta = {
   title: "Linee Guida/Call to action/Slider",

@@ -1,13 +1,9 @@
 import type { Meta } from "@storybook/react";
 import React from "react";
 import {
-    Button,
-    Icon,
     StepperContainer,
-    StepperContent,
     StepperHeader,
     StepperHeaderElement,
-    StepperNav
 } from "../../src";
 
 const meta: Meta<typeof StepperContainer> = {

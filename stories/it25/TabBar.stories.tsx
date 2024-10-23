@@ -1,6 +1,6 @@
 import { Meta } from '@storybook/react';
 import React, { useRef, useState } from 'react';
-import { Nav, NavItem, NavLink, TabContent, TabPane, Icon, Tooltip, UncontrolledTooltip } from '../../src';
+import { Nav, NavItem, NavLink, TabContent, TabPane, Icon, UncontrolledTooltip } from '../../src';
 
 const meta: Meta = {
   title: "Linee Guida/Call to action/Tab Bar",

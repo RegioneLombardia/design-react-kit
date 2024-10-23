@@ -1,6 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
-import { LinkListItem } from "../../../src";
 import { TopBar } from '../../../src/it25/Header/TopBar.tsx';
 
 const meta: Meta<typeof TopBar> = {

@@ -1,6 +1,6 @@
 import { Meta, StoryObj } from "@storybook/react";
-import React, { useRef, useState } from 'react';
-import { Container, Row, Col, Button, Icon, Tooltip, TooltipProps, UncontrolledTooltip } from "../../src";
+import React, { useRef } from 'react';
+import { Container, Row, Col, Icon, Tooltip, UncontrolledTooltip } from "../../src";
 
 const meta: Meta = {
   title: "Linee Guida/Inserimento/Tooltip",

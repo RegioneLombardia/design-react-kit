@@ -1,11 +1,10 @@
-/* eslint jsx-a11y/anchor-is-valid: 0 */
 import { Meta, StoryObj } from '@storybook/react';
-import React, { useState } from 'react';
+import React from 'react';
 import { BarraIstituzionale } from '../../../src/it25/Header/BarraIstituzionale.tsx';
 import { TopBar } from '../../../src/it25/Header/TopBar.tsx';
 import { MenuVerticale } from '../../../src/it25/MenuVerticale/MenuVerticale.tsx';
 import { Footer } from '../../../src/it25/Footer/Footer.tsx';
-import { Container, Col, Row, Sidebar, LinkList, LinkListItem, Icon, Collapse, ResponsiveImage } from "../../../src";
+import { Container, Col, Row, Sidebar, LinkList, LinkListItem, ResponsiveImage } from "../../../src";
 
 const meta: Meta<typeof BarraIstituzionale> = {
   title: "Linee Guida/Componenti Principali/Header/BarraIstituzionale",
@@ -27,7 +26,7 @@ export const BarraBase: Story = {
 };
 
 export const BarraSearch: Story = {
-  render: ({ acronym, applicationName}) => (
+  render: ({ applicationName}) => (
     <BarraIstituzionale acronym={""} applicationName={applicationName} search={true} />
   )
 };

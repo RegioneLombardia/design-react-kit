@@ -9,8 +9,6 @@ const meta: Meta<typeof Container> = {
 
 export default meta;
 
-type Story = StoryObj<typeof Container>;
-
 export const TitilliumWeb = () => (
   <Row>
     <Col>
