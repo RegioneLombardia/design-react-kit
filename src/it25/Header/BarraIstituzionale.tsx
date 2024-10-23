@@ -41,6 +41,10 @@ export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
     setOpenNav(!openNav)
     showVertMenu(!openNav, "it25-main-nav");
   };
+  if (acronym == "") {
+    acronym = applicationName
+    applicationName = ""
+  }
   let HamburgerButton;
   if (hamburgerButton) {
     HamburgerButton = (

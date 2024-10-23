@@ -27,7 +27,7 @@ export const BarraBase: Story = {
 
 export const BarraSearch: Story = {
   render: ({ applicationName}) => (
-    <BarraIstituzionale acronym={""} applicationName={applicationName} search={true} />
+    <BarraIstituzionale applicationName={applicationName} search={true} />
   )
 };
 
