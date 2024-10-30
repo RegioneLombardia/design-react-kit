@@ -24,8 +24,8 @@ jobs:
       - name: Test
         run: yarn test:ci
 
-      - name: Upload coverage
-        uses: codecov/codecov-action@v2
-        with:
-          token: ${{ secrets.CODECOV_TOKEN }}
-          flags: unittests
+      #- name: Upload coverage
+        #uses: codecov/codecov-action@v2
+        #with:
+          #token: ${{ secrets.CODECOV_TOKEN }}
+          #flags: unittests
