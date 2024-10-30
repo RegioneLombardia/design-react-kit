@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Outputs
+storybook-static
+dist/
+.DS_Store
+.idea
+.cache
+coverage
+
+# Logs
+*.log
+
+*storybook.log

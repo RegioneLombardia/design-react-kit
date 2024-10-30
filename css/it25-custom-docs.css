@@ -1,0 +1,79 @@
+.callout.callout-highlight {
+  border-left-width: .25rem;
+}
+.callout.info.callout-highlight {
+  border-color: #0073e6;
+}
+.callout.warning.callout-highlight {
+  border-color: #f19937;
+}
+.callout.info {
+  .callout-title {
+    color: #0073e6;
+  }
+}
+.callout.warning {
+  .callout-title
+    color: #cc7900;
+  }
+.callout.danger {
+  .callout-title {
+    color: #c83a32;
+  }
+}
+.callout p {
+  font-family: "Titillium web", sans-serif;
+  line-height: 1.125;
+}
+.rounded-card {
+  box-shadow: 0px 8px 13px rgba(0, 51, 84, 0.1);
+  border-radius: 8px;
+  height: 90px;
+  background: #ffffff;
+}
+.rounded-card-negative {
+  border-radius: 8px;
+  height: 90px;
+  background: #ffffff;
+  color: #003354;  /* primary-blue */
+}
+.square-color {
+  margin-right: 15px !important;
+}
+.rounded-color {
+  height: 50px;
+  min-width: 150px;
+  box-sizing: border-box;
+  padding: 0.25rem;
+  margin-right: 15px;
+  border-radius: 8px;
+}
+
+.tipografia-example {
+  border: 1px dashed;
+  border-radius: 40px;
+  padding: 1.25em;
+}
+
+.css-orh2az :where(p:not(.sb-anchor, .sb-unstyled, .sb-unstyled p)) {
+  font-size: 18px !important;
+}
+.css-orh2az :where(li:not(.sb-anchor, .sb-unstyled, .sb-unstyled li)) {
+  font-size: 18px !important;
+}
+.css-orh2az :where(div:not(.sb-anchor, .sb-unstyled, .sb-unstyled div)) {
+  font-size: 18px !important;
+}
+.css-orh2az :where(table:not(.sb-anchor, .sb-unstyled, .sb-unstyled table)) {
+  font-size: 18px !important;
+}
+.css-orh2az :where(a:not(.sb-anchor, .sb-unstyled, .sb-unstyled a)) {
+  text-decoration: underline !important;
+}
+
+.css-1wizkyk {
+  width: 20rem !important;
+}
+.css-1a4hzmm {
+  width: 20rem !important;
+}
