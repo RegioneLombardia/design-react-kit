@@ -1,13 +1,15 @@
-import { Meta } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { Form, FormGroup, Input } from '../../src';
-import 'react-range-slider-input/dist/style.css';
+// import 'react-range-slider-input/dist/style.css';
 
 const meta: Meta = {
   title: "Linee Guida/Call to action/Slider",
 };
 
 export default meta;
+
+type Story = StoryObj<typeof Form>;
 
 export const Slider: Story = {
   render: () => {

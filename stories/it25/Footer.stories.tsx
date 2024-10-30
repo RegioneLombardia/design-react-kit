@@ -1,11 +1,10 @@
 import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { Col, Row, LinkList, LinkListItem } from '../../src';
-import { Footer } from '../../src/it25/Footer/Footer.tsx';
+import { Footer } from '../../src/it25/Footer/Footer';
 
 const meta: Meta<typeof Footer> = {
   title: "Linee Guida/Componenti Principali/Footer",
-  component: Footer,
   args: {
     acronym: 'ACCREDITAS',
     applicationName: 'Sistema di accreditamento',

@@ -60,18 +60,18 @@ export const RobotoMono = () => (
       <div className="tipografia-example">
         <Row>
           <Col md={4}>
-            <p class="h2 font-monospace">Roboto Mono</p>
+            <p className="h2 font-monospace">Roboto Mono</p>
           </Col>
           <Col md={8}>
-            <p class="h1 font-monospace">H1 Bold 40px</p>
-            <p class="h2 font-monospace">H2 Bold 32px</p>
-            <p class="h3 font-monospace">H3 Bold 28px</p>
-            <p class="h4 font-monospace">H4 Bold 24px</p>
-            <p class="h5 font-monospace">H5 Regular 20px</p>
-            <p class="h6 font-monospace">H6 Bold 16px</p>
-            <p class="font-monospace">Body Text Regular 18px</p>
-            <p class="fw-semibold font-monospace small">Caption Small bold 16px</p>
-            <p class="font-monospace x-small">Caption extra small Regular 14px</p>
+            <p className="h1 font-monospace">H1 Bold 40px</p>
+            <p className="h2 font-monospace">H2 Bold 32px</p>
+            <p className="h3 font-monospace">H3 Bold 28px</p>
+            <p className="h4 font-monospace">H4 Bold 24px</p>
+            <p className="h5 font-monospace">H5 Regular 20px</p>
+            <p className="h6 font-monospace">H6 Bold 16px</p>
+            <p className="font-monospace">Body Text Regular 18px</p>
+            <p className="fw-semibold font-monospace small">Caption Small bold 16px</p>
+            <p className="font-monospace x-small">Caption extra small Regular 14px</p>
           </Col>
         </Row>
       </div>

@@ -2,14 +2,14 @@ import { Meta, StoryObj } from "@storybook/react";
 import React from "react";
 import {Progress} from "reactstrap"
 
-const meta: Meta<typeof ProgressBar> = {
+const meta: Meta<typeof Progress> = {
   title: "Linee Guida/Inserimento/ProgressBar",
   component: Progress,
 };
 
 export default meta;
 
-type Story = StoryObj<typeof ProgressBar>;
+type Story = StoryObj<typeof Progress>;
 
 export const Esempio: Story = {
   render: () => (

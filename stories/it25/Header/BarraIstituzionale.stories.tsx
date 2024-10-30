@@ -1,9 +1,9 @@
 import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
-import { BarraIstituzionale } from '../../../src/it25/Header/BarraIstituzionale.tsx';
-import { TopBar } from '../../../src/it25/Header/TopBar.tsx';
-import { MenuVerticale } from '../../../src/it25/MenuVerticale/MenuVerticale.tsx';
-import { Footer } from '../../../src/it25/Footer/Footer.tsx';
+import { BarraIstituzionale } from '../../../src/it25/Header/BarraIstituzionale';
+import { TopBar } from '../../../src/it25/Header/TopBar';
+import { MenuVerticale } from '../../../src/it25/MenuVerticale/MenuVerticale';
+import { Footer } from '../../../src/it25/Footer/Footer';
 import { Container, Col, Row, Sidebar, LinkList, LinkListItem, ResponsiveImage } from "../../../src";
 
 const meta: Meta<typeof BarraIstituzionale> = {
@@ -31,8 +31,8 @@ export const BarraSearch: Story = {
   )
 };
 
-export const BottoneHamburger: Story = ({ acronym, applicationName}) => {
-  return (
+export const BottoneHamburger: Story = {
+  render: ({ acronym, applicationName}) => (
     < >
       <header className="it25-menu">
         <TopBar />

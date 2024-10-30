@@ -19,22 +19,22 @@ export const Semplice = () => {
       <div>
         <StepperContainer>
           <StepperHeader className="it25-wizard it25-wizard-pin">
-            <StepperHeaderElement variant="confirmed" prependIcon="it-calendar" title="Prenotazione" aria-label="Confermato" tabindex="0">
+            <StepperHeaderElement variant="confirmed" prependIcon="it-calendar" title="Prenotazione" aria-label="Confermato" tabIndex={0}>
             </StepperHeaderElement>
-            <StepperHeaderElement className="error" prependIcon="it-list" title="Opzioni" aria-label="errore" tabindex="0"></StepperHeaderElement>
-            <StepperHeaderElement variant="active" prependIcon="it-search"  title="Scelta alloggio" aria-label="attivo" tabindex="0">
+            <StepperHeaderElement className="error" prependIcon="it-list" title="Opzioni" aria-label="errore" tabIndex={0}></StepperHeaderElement>
+            <StepperHeaderElement variant="active" prependIcon="it-search"  title="Scelta alloggio" aria-label="attivo" tabIndex={0}>
             </StepperHeaderElement>
-            <StepperHeaderElement prependIcon="it-card" title="Pagamento" aria-label="da fare" tabindex="0"></StepperHeaderElement>
+            <StepperHeaderElement prependIcon="it-card" title="Pagamento" aria-label="da fare" tabIndex={0}></StepperHeaderElement>
           </StepperHeader>
         </StepperContainer>
       </div>
       <div>
         <StepperContainer>
           <StepperHeader className="it25-wizard it25-wizard-pin">
-            <StepperHeaderElement variant="confirmed" title="Prenotazione" aria-label="Confermato" tabindex="0">1</StepperHeaderElement>
-            <StepperHeaderElement className="error" title="Opzioni" aria-label="errore" tabindex="0">2</StepperHeaderElement>
-            <StepperHeaderElement variant="active" title="Scelta alloggio" aria-label="attivo" tabindex="0">3</StepperHeaderElement>
-            <StepperHeaderElement title="Pagamento" aria-label="da fare" tabindex="0">4</StepperHeaderElement>
+            <StepperHeaderElement variant="confirmed" title="Prenotazione" aria-label="Confermato" tabIndex={0}>1</StepperHeaderElement>
+            <StepperHeaderElement className="error" title="Opzioni" aria-label="errore" tabIndex={0}>2</StepperHeaderElement>
+            <StepperHeaderElement variant="active" title="Scelta alloggio" aria-label="attivo" tabIndex={0}>3</StepperHeaderElement>
+            <StepperHeaderElement title="Pagamento" aria-label="da fare" tabIndex={0}>4</StepperHeaderElement>
           </StepperHeader>
         </StepperContainer>
       </div>

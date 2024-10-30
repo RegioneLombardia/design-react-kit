@@ -23,15 +23,16 @@ export default meta;
 
 type Story = StoryObj<typeof Container>;
 
-
-function showCloser(show, id) {
-  const closer = document.getElementById(id)
-  if (show) {
-    closer.classList.add("show")
-  } else {
-    closer.classList.remove("show")
+function showCloser(show: boolean, id: string) {
+  const closer: HTMLElement | null = document.getElementById(id)
+  if (closer) {
+    if (show) {
+      closer.classList.add("show")
+    } else {
+      closer.classList.remove("show")
+    }
+    closer.blur()
   }
-  document.activeElement.blur()
 }
 
 const MenuOrizzontaleHooks = () => {
@@ -44,11 +45,11 @@ const MenuOrizzontaleHooks = () => {
     <div className='it-header-navbar-wrapper theme-light-desk it25-menu-orizzontale'>
       <Navbar expand="lg" className='has-megamenu'>
         <NavbarToggler className='custom-navbar-toggler d-flex d-lg-none' onClick={toggle}>
-          <Icon icon='it-burger' color='primary' size='md'/>
+          <Icon icon='it-burger' color='primary'/>
           <div className="d-block d-lg-none align-self-center text-primary fw-semibold ms-2">Apri Menu</div>
         </NavbarToggler>
         <NavbarToggler className='custom-navbar-toggler it25-megamenu-closer' id="closer01" onClick={toggle}>
-          <Icon icon='it-close-big' size='md'/>
+          <Icon icon='it-close-big'/>
         </NavbarToggler>
         <Collapse isOpen={openNav} navbar header megamenu>
             <Nav navbar>

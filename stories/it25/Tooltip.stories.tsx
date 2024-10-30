@@ -23,7 +23,7 @@ const EsempioBaseHook = () => {
 
   return (
     < >
-      <span ref={ref1} tabindex="0">Testo esempio base
+      <span ref={ref1} tabIndex={0}>Testo esempio base
         <sup>
           <Icon color="info" icon="it-info-circle" size="xs"/>
         </sup>
@@ -47,14 +47,14 @@ const PosizionamentoHooks = () => {
     <Container>
       <Row>
         <Col sm={4}>
-          <span ref={ref1} tabindex="0">Tooltip in alto
+          <span ref={ref1} tabIndex={0}>Tooltip in alto
             <sup>
               <Icon color="info" icon="it-info-circle" size="xs"/>
             </sup>
           </span>
         </Col>
         <Col sm={4}>
-          <span ref={ref2} tabindex="0">Tooltip a destra
+          <span ref={ref2} tabIndex={0}>Tooltip a destra
             <sup>
               <Icon color="info" icon="it-info-circle" size="xs"/>
             </sup>
@@ -63,14 +63,14 @@ const PosizionamentoHooks = () => {
       </Row>
       <Row className="mt-4">
         <Col sm={4}>
-          <span ref={ref3} tabindex="0">Tooltip in basso
+          <span ref={ref3} tabIndex={0}>Tooltip in basso
             <sup>
               <Icon color="info" icon="it-info-circle" size="xs"/>
             </sup>
           </span>
         </Col>
         <Col sm={4}>
-          <span ref={ref4} tabindex="0">Tooltip a sinistra
+          <span ref={ref4} tabIndex={0}>Tooltip a sinistra
             <sup>
               <Icon color="info" icon="it-info-circle" size="xs"/>
             </sup>

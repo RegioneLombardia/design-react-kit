@@ -1,4 +1,4 @@
-import { Meta } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { Container, Col, Form, FormGroup, Input, Label, Row } from "../../src";
 
@@ -8,6 +8,8 @@ const meta: Meta = {
 };
 
 export default meta;
+
+type Story = StoryObj<typeof Container>;
 
 export const CheckBox: Story = {
   render: () => {
@@ -35,13 +37,13 @@ export const CheckBox: Story = {
           <Row>
             <Col>
               <FormGroup check>
-              <input type="checkbox" class="semi-checked form-control" id="check3" value=""/>
+              <input type="checkbox" className="semi-checked form-control" id="check3" value=""/>
               <Label for="check3" check>Mixed</Label>
               </FormGroup>
             </Col>
             <Col>
               <FormGroup check>
-                <input type="checkbox" class="semi-checked form-control" id="check4" value="" disabled/>
+                <input type="checkbox" className="semi-checked form-control" id="check4" value="" disabled/>
                 <Label for="check4" check>Mixed</Label>
               </FormGroup>
             </Col>

@@ -1,6 +1,6 @@
 import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
-import { TopBar } from '../../../src/it25/Header/TopBar.tsx';
+import { TopBar } from '../../../src/it25/Header/TopBar';
 
 const meta: Meta<typeof TopBar> = {
   title: "Linee Guida/Componenti Principali/Header/TopBar",

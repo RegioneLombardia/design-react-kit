@@ -1,4 +1,6 @@
 import { Meta, StoryObj } from "@storybook/react";
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore non ci sono i types
 import Autocomplete from "accessible-autocomplete/react"; // Reference to https://www.npmjs.com/package/accessible-autocomplete
 import React, { useState } from "react";
 import { FormGroup, Icon, Input, Form, Container, Row, Col, Select } from "../../src";
@@ -27,13 +29,13 @@ export const InputSemplice: Story = {
             <Col sm={4}>
               <div className="mb-4">Stato attivo</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText2" value=" " />
+                <Input type="text" className="active" label="Etichetta di esempio" id="exampleInputText2" value=" " />
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Stato disabilitato</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText3" disabled value=" " />
+                <Input type="text" className="active" label="Etichetta di esempio" id="exampleInputText3" disabled value=" " />
               </FormGroup>
             </Col>
           </Row>
@@ -41,21 +43,21 @@ export const InputSemplice: Story = {
             <Col sm={4}>
               <div className="mb-4">Input corretto</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText4" name="exampleInputText4" value="Testo immesso"
+                <Input type="text" className="active" label="Etichetta di esempio" id="exampleInputText4" name="exampleInputText4" value="Testo immesso"
                   valid />
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Attenzione</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText5" name="exampleInputText5" value="Testo immesso"
-                  valid={false} className="warning" />
+                <Input type="text" className="active warning" label="Etichetta di esempio" id="exampleInputText5" name="exampleInputText5" value="Testo immesso"
+                  valid={false} />
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Errore</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText6" name="exampleInputText6" value="Testo immesso"
+                <Input type="text" className="active" label="Etichetta di esempio" id="exampleInputText6" name="exampleInputText6" value="Testo immesso"
                   valid={false} />
               </FormGroup>
             </Col>
@@ -75,21 +77,21 @@ export const conIstruzioni: Story = {
             <Col sm={4}>
               <div className="mb-4">Stato inattivo</div>
               <FormGroup>
-                <Input type="text" label="Etichetta di esempio" id="exampleInputText7" active
+                <Input type="text" label="Etichetta di esempio" id="exampleInputText7" className="active"
                   placeholder="Inserire dato..." infoText="Ulteriore testo informativo"/>
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Stato attivo</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText8" value="Testo in inserim|"
+                <Input type="text" className="active" label="Etichetta di esempio" id="exampleInputText8" value="Testo in inserim|"
                  infoText="Ulteriore testo informativo" />
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Stato disabilitato</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText9" disabled value="Testo non modificabile"
+                <Input type="text" className="active" label="Etichetta di esempio" id="exampleInputText9" disabled value="Testo non modificabile"
                   infoText="Dato derivante da anagrafica" />
               </FormGroup>
             </Col>
@@ -98,21 +100,21 @@ export const conIstruzioni: Story = {
             <Col sm={4}>
               <div className="mb-4">Input corretto</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText7" name="exampleInputText7" value="Testo immesso"
+                <Input type="text" className="active" label="Etichetta di esempio" id="exampleInputText7" name="exampleInputText7" value="Testo immesso"
                   valid validationText="Validato!"/>
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Attenzione</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText8" name="exampleInputText8" value="Testo immesso"
-                  valid={false} className="warning" validationText="Possibili problemi."/>
+                <Input type="text" label="Etichetta di esempio" id="exampleInputText8" name="exampleInputText8" value="Testo immesso"
+                  valid={false} className="active warning" validationText="Possibili problemi."/>
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Errore</div>
               <FormGroup>
-                <Input type="text" active label="Etichetta di esempio" id="exampleInputText9" name="exampleInputText9" value="Testo immesso"
+                <Input type="text" className="active" label="Etichetta di esempio" id="exampleInputText9" name="exampleInputText9" value="Testo immesso"
                   valid={false} validationText="Errore bloccante!" />
               </FormGroup>
             </Col>
@@ -141,7 +143,7 @@ export const conIcone: Story = {
               <div className="mb-4">Stato attivo</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  id="exampleInputText11" label="Etichetta di esempio" type="text" active value=" "/>
+                  id="exampleInputText11" label="Etichetta di esempio" type="text" className="active" value=" "/>
                   <small className="form-text info it25-valid-info-text-patch">Ulteriore testo informativo</small>
               </FormGroup>
             </Col>
@@ -149,7 +151,7 @@ export const conIcone: Story = {
               <div className="mb-4">Stato disabilitato</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  id="exampleInputText12" label="Etichetta di esempio" type="text" active
+                  id="exampleInputText12" label="Etichetta di esempio" type="text" className="active"
                   value=" " disabled />
                   <small className="form-text info it25-valid-info-text-patch">Dato derivante da anagrafica</small>
                 </FormGroup>
@@ -169,7 +171,7 @@ export const conIcone: Story = {
               <div className="mb-4">Stato attivo</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  id="exampleInputText14" label="Etichetta di esempio" type="text" active
+                  id="exampleInputText14" label="Etichetta di esempio" type="text" className="active"
                   value="Testo in inserim| "/>
                   <small className="form-text info it25-valid-info-text-patch">Ulteriore testo informativo</small>
               </FormGroup>
@@ -178,7 +180,7 @@ export const conIcone: Story = {
               <div className="mb-4">Stato disabilitato</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  id="exampleInputText15" label="Etichetta di esempio" type="text" active
+                  id="exampleInputText15" label="Etichetta di esempio" type="text" className="active"
                   value="Testo non modificabile" disabled />
                   <small className="form-text info it25-valid-info-text-patch">Dato derivante da anagrafica</small>
               </FormGroup>
@@ -189,7 +191,7 @@ export const conIcone: Story = {
               <div className="mb-4">Input corretto</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  type="text" active label="Etichetta di esempio" id="exampleInputText16" name="exampleInputText7" value="Testo immesso"
+                  type="text" className="active" label="Etichetta di esempio" id="exampleInputText16" name="exampleInputText7" value="Testo immesso"
                   valid/>
               </FormGroup>
             </Col>
@@ -197,15 +199,15 @@ export const conIcone: Story = {
               <div className="mb-4">Attenzione</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  type="text" active label="Etichetta di esempio" id="exampleInputText17" name="exampleInputText8" value="Testo immesso"
-                  valid={false} className="warning"/>
+                  type="text" label="Etichetta di esempio" id="exampleInputText17" name="exampleInputText8" value="Testo immesso"
+                  valid={false} className="active warning"/>
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Errore</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  type="text" active label="Etichetta di esempio" id="exampleInputText18" name="exampleInputText9" value="Testo immesso"
+                  type="text" className="active" label="Etichetta di esempio" id="exampleInputText18" name="exampleInputText9" value="Testo immesso"
                   valid={false} />
               </FormGroup>
             </Col>
@@ -215,7 +217,7 @@ export const conIcone: Story = {
               <div className="mb-4">Input corretto</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  type="text" active label="Etichetta di esempio" id="exampleInputText19" name="exampleInputText7" value="Testo immesso"
+                  type="text" className="active" label="Etichetta di esempio" id="exampleInputText19" name="exampleInputText7" value="Testo immesso"
                   valid validationText="Validato!"/>
               </FormGroup>
             </Col>
@@ -223,15 +225,15 @@ export const conIcone: Story = {
               <div className="mb-4">Attenzione</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  type="text" active label="Etichetta di esempio" id="exampleInputText20" name="exampleInputText8" value="Testo immesso"
-                  valid={false} className="warning" validationText="Possibili problemi."/>
+                  type="text" label="Etichetta di esempio" id="exampleInputText20" name="exampleInputText8" value="Testo immesso"
+                  valid={false} className="active warning" validationText="Possibili problemi."/>
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Errore</div>
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
-                  type="text" active label="Etichetta di esempio" id="exampleInputText21" name="exampleInputText9" value="Testo immesso"
+                  type="text" className="active" label="Etichetta di esempio" id="exampleInputText21" name="exampleInputText9" value="Testo immesso"
                   valid={false} validationText="Errore bloccante!" />
               </FormGroup>
             </Col>
@@ -259,14 +261,14 @@ export const PasswordField: Story = {
               <div className="mb-4">Stato attivo</div>
               <FormGroup>
                 <Input id="exampleInputPassword2" infoText="Inserisci almeno 8 caratteri"
-                  label="Password" type="password" active value="abcdefg12"/>
+                  label="Password" type="password" className="active" value="abcdefg12"/>
               </FormGroup>
             </Col>
             <Col sm={4}>
               <div className="mb-4">Stato disabilitato</div>
               <FormGroup>
                 <Input id="exampleInputPassword3" infoText="Inserisci almeno 8 caratteri"
-                  label="Password" type="password" active disabled value="abcdefg12"/>
+                  label="Password" type="password" className="active" disabled value="abcdefg12"/>
               </FormGroup>
             </Col>
           </Row>
@@ -294,7 +296,7 @@ export const PasswordConIcone: Story = {
               <div className="mb-4">Stato attivo</div>
               <FormGroup>
                 <Input  hasIconLeft iconLeft={<Icon aria-hidden icon="it-key" size="sm"/>}
-                  id="exampleInputPassword5" label="Password" type="password" active value="abcdefg12"/>
+                  id="exampleInputPassword5" label="Password" type="password" className="active" value="abcdefg12"/>
                   <small className="form-text info it25-valid-info-text-patch">Inserisci almeno 8 caratteri</small>
               </FormGroup>
             </Col>
@@ -302,7 +304,7 @@ export const PasswordConIcone: Story = {
               <div className="mb-4">Stato disabilitato</div>
               <FormGroup>
                 <Input  hasIconLeft iconLeft={<Icon aria-hidden icon="it-key" size="sm"/>}
-                  id="exampleInputPassword6" label="Password" type="password" active disabled value="abcdefg12"/>
+                  id="exampleInputPassword6" label="Password" type="password" className="active" disabled value="abcdefg12"/>
                   <small className="form-text info it25-valid-info-text-patch">Inserisci almeno 8 caratteri</small>
               </FormGroup>
             </Col>
@@ -337,14 +339,6 @@ export const SearchField: Story = {
         { value: "19", label: "Valle d'Aosta" },
         { value: "20", label: "Veneto" },
     ];
-    const suggest = (query: "", populateResults: "") => {
-        const filteredResults = multiOptions.filter((i) => i.label.toLowerCase().includes(query.toLowerCase()));
-        const data = filteredResults.map((item) => {
-            return item.label;
-        });
-        populateResults(data);
-    };
-
     return (
       <Form>
         <Container>
@@ -366,7 +360,7 @@ export const SearchField: Story = {
               <div className="mb-4">Suggerimenti</div>
               <FormGroup className="select-wrapper">
                   <label htmlFor="autocomplete">Regione</label>
-                  <Autocomplete id="autocomplete" source={suggest} placeholder={"Testo da cercare"} defaultValue={""}
+                  <Autocomplete id="autocomplete" source={multiOptions} placeholder={"Testo da cercare"} defaultValue={""}
                       displayMenu={"inline"} tNoResults={() => "Nessun risultato"}/>
               </FormGroup>
             </Col>
@@ -396,7 +390,7 @@ const SelectClassicaHooks = () => {
 };
 
 const InputNumerico1Hook = () => {
-  const [value1, setValue1] = useState();
+  const [value1, setValue1] = useState("0");
   return (
     <Input id="numerico1" type="number" label="Lorem ipsum" value={value1}
       incrementLabel="Aumenta il valore di 1" decrementLabel="Diminuisci il valore di 1"

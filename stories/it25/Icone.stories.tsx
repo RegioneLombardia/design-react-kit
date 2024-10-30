@@ -1,4 +1,4 @@
-import { Meta } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { Col, Icon, Row, icons } from '../../src';
 
@@ -7,6 +7,8 @@ const meta: Meta = {
 };
 
 export default meta;
+
+type Story = StoryObj<typeof Icon>;
 
 export const ListaIcone: Story = {
   render: () => {

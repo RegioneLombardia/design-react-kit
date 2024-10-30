@@ -1,4 +1,4 @@
-import { Meta } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { Container, Col, Form, FormGroup, Input, Label, Row } from "../../src";
 
@@ -8,6 +8,8 @@ const meta: Meta = {
 };
 
 export default meta;
+
+type Story = StoryObj<typeof Container>;
 
 export const RadioButton: Story = {
   render: () => {

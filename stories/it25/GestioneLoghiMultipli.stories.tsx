@@ -1,7 +1,7 @@
 import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { Col, Container, Row } from '../../src';
-import { Footer } from '../../src/it25/Footer/Footer.tsx';
+import { Footer } from '../../src/it25/Footer/Footer';
 
 //Non esiste un componente specifico per cui uso Container come riferimento per la storia
 const meta: Meta<typeof Container> = {

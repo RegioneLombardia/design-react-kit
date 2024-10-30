@@ -1,7 +1,7 @@
 import { Meta, StoryObj } from '@storybook/react';
 import React, { useState } from "react";
 import { Sidebar, LinkList, LinkListItem, Icon, Collapse } from "../../src";
-import { MenuVerticale } from '../../src/it25/MenuVerticale/MenuVerticale.tsx';
+import { MenuVerticale } from '../../src/it25/MenuVerticale/MenuVerticale';
 
 
 const meta: Meta<typeof MenuVerticale> = {

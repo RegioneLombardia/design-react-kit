@@ -1,4 +1,4 @@
-import { Meta } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { Button, Icon, Container, Col, Row } from '../../src';
 
@@ -7,6 +7,8 @@ const meta: Meta = {
 };
 
 export default meta;
+
+type Story = StoryObj<typeof Container>;
 
 export const Dimensioni: Story = {
   parameters: {
@@ -64,13 +66,13 @@ export const Dimensioni: Story = {
             <strong>Due righe</strong>
           </Col>
           <Col sm={3} className="text-center">
-            <Button color="primary" size="lg" style={{'max-width': "160px"}}>Lorem ipsum dolor sit</Button>
+            <Button color="primary" size="lg" style={{width: "160px"}}>Lorem ipsum dolor sit</Button>
           </Col>
           <Col sm={3} className="text-center">
-            <Button color="primary" size="lg" outline style={{'max-width': "160px"}}>Lorem ipsum dolor sit</Button>
+            <Button color="primary" size="lg" outline style={{width: "160px"}}>Lorem ipsum dolor sit</Button>
           </Col>
           <Col sm={3} className="text-center">
-            <Button color="secondary" size="lg" style={{'max-width': "160px"}} >Lorem ipsum dolor sit</Button>
+            <Button color="secondary" size="lg" style={{width: "160px"}} >Lorem ipsum dolor sit</Button>
           </Col>
         </Row>
       </Container>
@@ -231,7 +233,7 @@ export const BottoniConIcona: Story = {
         </Row>
         <Row className="my-3">
           <Col sm={4} className="text-center">
-            <Button color="primary" size="lg" style={{'max-width': "200px"}} >
+            <Button color="primary" size="lg" style={{width: "200px"}} >
               <div className="d-flex justify-content-center">
                 <Icon
                   color="white"
@@ -244,7 +246,7 @@ export const BottoniConIcona: Story = {
             </Button>
           </Col>
           <Col sm={4} className="text-center">
-            <Button color="primary" size="lg" outline style={{'max-width': "200px"}}>
+            <Button color="primary" size="lg" outline style={{width: "200px"}}>
               <div className="d-flex justify-content-center">
                 <Icon
                   color="primary"
@@ -257,7 +259,7 @@ export const BottoniConIcona: Story = {
             </Button>
           </Col>
           <Col sm={4} className="text-center">
-            <Button color="secondary" size="lg" style={{'max-width': "200px"}}>
+            <Button color="secondary" size="lg" style={{width: "200px"}}>
               <div className="d-flex justify-content-center">
                 <Icon
                   color="white"

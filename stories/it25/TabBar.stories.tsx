@@ -1,4 +1,4 @@
-import { Meta } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react';
 import React, { useRef, useState } from 'react';
 import { Nav, NavItem, NavLink, TabContent, TabPane, Icon, UncontrolledTooltip } from '../../src';
 
@@ -7,6 +7,8 @@ const meta: Meta = {
 };
 
 export default meta;
+
+type Story = StoryObj<typeof Nav>;
 
 export const TabBar: Story = {
   render: () => {

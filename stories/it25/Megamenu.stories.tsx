@@ -30,15 +30,16 @@ export default meta;
 
 type Story = StoryObj<typeof MegamenuItem>;
 
-
-function showCloser(show, id) {
-  const closer = document.getElementById(id)
-  if (show) {
-    closer.classList.add("show")
-  } else {
-    closer.classList.remove("show")
+function showCloser(show: boolean, id: string) {
+  const closer: HTMLElement | null = document.getElementById(id)
+  if (closer) {
+    if (show) {
+      closer.classList.add("show")
+    } else {
+      closer.classList.remove("show")
+    }
+    closer.blur()
   }
-  document.activeElement.blur()
 }
 
 const ClassicoHooks = () => {
@@ -50,10 +51,10 @@ const ClassicoHooks = () => {
   return (
     <Navbar expand="lg" className='has-megamenu'>
       <NavbarToggler className='custom-navbar-toggler' onClick={toggle}>
-        <Icon icon='it-burger' size='md'/>
+        <Icon icon='it-burger'/>
       </NavbarToggler>
       <NavbarToggler className='custom-navbar-toggler it25-megamenu-closer' id="closer01" onClick={toggle}>
-        <Icon icon='it-close-big' size='md'/>
+        <Icon icon='it-close-big'/>
       </NavbarToggler>
       <Collapse isOpen={openNav} navbar header megamenu>
           <Nav className='mt-0' navbar>
@@ -121,10 +122,10 @@ const ConIntestazioneColonneHooks = () => {
   return (
     <Navbar expand="lg" className='has-megamenu'>
       <NavbarToggler className='custom-navbar-toggler' onClick={toggle}>
-        <Icon icon='it-burger' size='md'/>
+        <Icon icon='it-burger'/>
       </NavbarToggler>
       <NavbarToggler className='custom-navbar-toggler it25-megamenu-closer' id="closer02" onClick={toggle}>
-        <Icon icon='it-close-big' size='md'/>
+        <Icon icon='it-close-big'/>
       </NavbarToggler>
       <Collapse isOpen={openNav} navbar header megamenu>
         <Nav className='mt-0' navbar>
