@@ -41954,7 +41954,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Footer LoghiMultipl
             <img
               alt="logo scuola alta formazione lombardia"
               class="img-fluid"
-              src="../static/img/logo-saf-lombardia.png"
+              src="/img/logo-saf-lombardia.png"
             />
           </div>
         </div>
@@ -41967,7 +41967,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Footer LoghiMultipl
             <img
               alt="logo scuola alta formazione lombardia"
               class="img-fluid"
-              src="../static/img/logo-cna-lombardia-bianco.png"
+              src="/img/logo-cna-lombardia-bianco.png"
             />
           </div>
         </div>
