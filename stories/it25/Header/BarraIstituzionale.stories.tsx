@@ -76,7 +76,7 @@ export const BottoneHamburger: Story = {
             <Col xs={12} md={9} className="p-3">
               <ResponsiveImage
                 alt="Alternative Text"
-                src="../static/img/bike-sharing.jpg"
+                src="img/bike-sharing.jpg"
                 title="Image Title"
               />
             </Col>

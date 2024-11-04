@@ -81,7 +81,7 @@ export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
               <div className="it-brand-wrapper">
                 {HamburgerButton}
                 <a href="#">
-                  <img src="../static/img/logo-rl.png" alt="logo regione lombardia" className="it25-header-logo d-none d-md-block" />
+                  <img src="img/logo-rl.png" alt="logo regione lombardia" className="it25-header-logo d-none d-md-block" />
                   <div className="it-brand-text">{acronym} <span className="d-none d-md-inline">{applicationName}</span></div>
                 </a>
               </div>

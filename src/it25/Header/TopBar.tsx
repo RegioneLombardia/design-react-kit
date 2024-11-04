@@ -27,7 +27,7 @@ export const TopBar: FC<TopBarProps> = ({
           <Col sm={12}>
             <div className="it-header-slim-wrapper-content">
               <a className="navbar-brand" href="#">
-                <img src="../static/img/logo-rl-bianco.png" alt="logo regione lombardia" className="d-md-none" />
+                <img src="img/logo-rl-bianco.png" alt="logo regione lombardia" className="d-md-none" />
               </a>
               {access && <AccessButton />}
               {user && <UserSettings user={user} links={links}/>}

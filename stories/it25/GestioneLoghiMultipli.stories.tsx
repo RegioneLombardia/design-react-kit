@@ -34,22 +34,22 @@ export const GestioneLoghiMultipli: Story = {
       <Row className="my-2">
         <Col md={3}>
           <div className="it25-footer-logo d-flex justify-content-center align-items-center">
-            <img src="../static/img/logo-aria.png" alt="logo azienda regionale innovazione acquisti" className="img-fluid p-3"/>
+            <img src="img/logo-aria.png" alt="logo azienda regionale innovazione acquisti" className="img-fluid p-3"/>
           </div>
         </Col>
         <Col md={3}>
           <div className="it25-footer-logo d-flex justify-content-center align-items-center">
-            <img src="../static/img/logo_inlombardia.svg" alt="logo inlombardia" className="img-fluid p-3"/>
+            <img src="img/logo_inlombardia.svg" alt="logo inlombardia" className="img-fluid p-3"/>
           </div>
         </Col>
         <Col md={3}>
           <div className="it25-footer-logo d-flex justify-content-center align-items-center">
-            <img src="../static/img/logo_sost_RL.jpg" alt="logo sostenibilità" className="img-fluid p-3"/>
+            <img src="img/logo_sost_RL.jpg" alt="logo sostenibilità" className="img-fluid p-3"/>
           </div>
         </Col>
         <Col md={3}>
           <div className="it25-footer-logo d-flex justify-content-center align-items-center">
-            <img src="../static/img/logo-difensore-regionale.jpg" alt="logo difensore regionale" className="img-fluid"/>
+            <img src="img/logo-difensore-regionale.jpg" alt="logo difensore regionale" className="img-fluid"/>
           </div>
         </Col>
       </Row>
@@ -76,22 +76,22 @@ export const VersioneOttoLoghi: Story = {
       <Row className="my-2">
         <Col md={3}>
           <div className="it25-footer-logo d-flex justify-content-center align-items-center">
-            <img src="../static/img/logo-aria.png" alt="logo azienda regionale innovazione acquisti" className="img-fluid p-3"/>
+            <img src="img/logo-aria.png" alt="logo azienda regionale innovazione acquisti" className="img-fluid p-3"/>
           </div>
         </Col>
         <Col md={3}>
           <div className="it25-footer-logo d-flex justify-content-center align-items-center">
-            <img src="../static/img/logo_inlombardia.svg" alt="logo inlombardia" className="img-fluid p-3"/>
+            <img src="img/logo_inlombardia.svg" alt="logo inlombardia" className="img-fluid p-3"/>
           </div>
         </Col>
         <Col md={3}>
           <div className="it25-footer-logo d-flex justify-content-center align-items-center">
-            <img src="../static/img/logo_sost_RL.jpg" alt="logo sostenibilità" className="img-fluid p-3"/>
+            <img src="img/logo_sost_RL.jpg" alt="logo sostenibilità" className="img-fluid p-3"/>
           </div>
         </Col>
         <Col md={3}>
           <div className="it25-footer-logo d-flex justify-content-center align-items-center">
-            <img src="../static/img/logo-difensore-regionale.jpg" alt="logo difensore regionale" className="img-fluid"/>
+            <img src="img/logo-difensore-regionale.jpg" alt="logo difensore regionale" className="img-fluid"/>
           </div>
         </Col>
       </Row>

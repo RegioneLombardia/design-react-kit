@@ -41954,7 +41954,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Footer LoghiMultipl
             <img
               alt="logo scuola alta formazione lombardia"
               class="img-fluid"
-              src="/img/logo-saf-lombardia.png"
+              src="img/logo-saf-lombardia.png"
             />
           </div>
         </div>
@@ -41967,7 +41967,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Footer LoghiMultipl
             <img
               alt="logo scuola alta formazione lombardia"
               class="img-fluid"
-              src="/img/logo-cna-lombardia-bianco.png"
+              src="img/logo-cna-lombardia-bianco.png"
             />
           </div>
         </div>
@@ -42620,7 +42620,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Gestione Loghi Mult
           <img
             alt="logo azienda regionale innovazione acquisti"
             class="img-fluid p-3"
-            src="../static/img/logo-aria.png"
+            src="img/logo-aria.png"
           />
         </div>
       </div>
@@ -42633,7 +42633,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Gestione Loghi Mult
           <img
             alt="logo inlombardia"
             class="img-fluid p-3"
-            src="../static/img/logo_inlombardia.svg"
+            src="img/logo_inlombardia.svg"
           />
         </div>
       </div>
@@ -42646,7 +42646,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Gestione Loghi Mult
           <img
             alt="logo sostenibilità"
             class="img-fluid p-3"
-            src="../static/img/logo_sost_RL.jpg"
+            src="img/logo_sost_RL.jpg"
           />
         </div>
       </div>
@@ -42659,7 +42659,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Gestione Loghi Mult
           <img
             alt="logo difensore regionale"
             class="img-fluid"
-            src="../static/img/logo-difensore-regionale.jpg"
+            src="img/logo-difensore-regionale.jpg"
           />
         </div>
       </div>
@@ -42799,7 +42799,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Gestione Loghi Mult
           <img
             alt="logo azienda regionale innovazione acquisti"
             class="img-fluid p-3"
-            src="../static/img/logo-aria.png"
+            src="img/logo-aria.png"
           />
         </div>
       </div>
@@ -42812,7 +42812,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Gestione Loghi Mult
           <img
             alt="logo inlombardia"
             class="img-fluid p-3"
-            src="../static/img/logo_inlombardia.svg"
+            src="img/logo_inlombardia.svg"
           />
         </div>
       </div>
@@ -42825,7 +42825,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Gestione Loghi Mult
           <img
             alt="logo sostenibilità"
             class="img-fluid p-3"
-            src="../static/img/logo_sost_RL.jpg"
+            src="img/logo_sost_RL.jpg"
           />
         </div>
       </div>
@@ -42838,7 +42838,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Gestione Loghi Mult
           <img
             alt="logo difensore regionale"
             class="img-fluid"
-            src="../static/img/logo-difensore-regionale.jpg"
+            src="img/logo-difensore-regionale.jpg"
           />
         </div>
       </div>
@@ -43035,7 +43035,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Header/BarraIstituz
                 <img
                   alt="logo regione lombardia"
                   class="it25-header-logo d-none d-md-block"
-                  src="../static/img/logo-rl.png"
+                  src="img/logo-rl.png"
                 />
                 <div
                   class="it-brand-text"
@@ -43084,7 +43084,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Header/BarraIstituz
                 <img
                   alt="logo regione lombardia"
                   class="it25-header-logo d-none d-md-block"
-                  src="../static/img/logo-rl.png"
+                  src="img/logo-rl.png"
                 />
                 <div
                   class="it-brand-text"
@@ -43167,7 +43167,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Header/BarraIstituz
                 <img
                   alt="logo regione lombardia"
                   class="d-md-none"
-                  src="../static/img/logo-rl-bianco.png"
+                  src="img/logo-rl-bianco.png"
                 />
               </a>
             </div>
@@ -43240,7 +43240,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Header/BarraIstituz
                   <img
                     alt="logo regione lombardia"
                     class="it25-header-logo d-none d-md-block"
-                    src="../static/img/logo-rl.png"
+                    src="img/logo-rl.png"
                   />
                   <div
                     class="it-brand-text"
@@ -43395,7 +43395,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Header/BarraIstituz
               >
                 <img
                   alt="Alternative Text"
-                  src="../static/img/bike-sharing.jpg"
+                  src="img/bike-sharing.jpg"
                   title="Image Title"
                 />
               </div>
@@ -43484,7 +43484,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Header/TopBar TopBa
               <img
                 alt="logo regione lombardia"
                 class="d-md-none"
-                src="../static/img/logo-rl-bianco.png"
+                src="img/logo-rl-bianco.png"
               />
             </a>
             <div
@@ -43546,7 +43546,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Header/TopBar TopBa
               <img
                 alt="logo regione lombardia"
                 class="d-md-none"
-                src="../static/img/logo-rl-bianco.png"
+                src="img/logo-rl-bianco.png"
               />
             </a>
             <div
@@ -43602,7 +43602,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Header/TopBar TopBa
               <img
                 alt="logo regione lombardia"
                 class="d-md-none"
-                src="../static/img/logo-rl-bianco.png"
+                src="img/logo-rl-bianco.png"
               />
             </a>
           </div>
@@ -43637,7 +43637,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Header/TopBar TopBa
               <img
                 alt="logo regione lombardia"
                 class="d-md-none"
-                src="../static/img/logo-rl-bianco.png"
+                src="img/logo-rl-bianco.png"
               />
             </a>
             <div
@@ -43760,7 +43760,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Logo Logo 1`] = `
       <img
         alt="logo regione lombardia"
         class="it25-header-logo d-none d-md-block"
-        src="../static/img/logo-rl.png"
+        src="img/logo-rl.png"
       />
     </div>
     <div
@@ -43769,7 +43769,7 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Logo Logo 1`] = `
       <img
         alt="logo regione lombardia"
         class="it25-header-logo d-none d-md-block"
-        src="../static/img/logo-rl-bianco.png"
+        src="img/logo-rl-bianco.png"
         style="height: 65px;"
       />
     </div>
