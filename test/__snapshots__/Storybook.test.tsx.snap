@@ -47270,6 +47270,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Toggle Esempio 1`] = `
               >
                 Selezionato
                 <input
+                  aria-describedby=""
                   checked=""
                   class="form-check-input"
                   type="checkbox"
@@ -47291,6 +47292,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Toggle Esempio 1`] = `
               >
                 Non Selezionato
                 <input
+                  aria-describedby=""
                   class="form-check-input"
                   type="checkbox"
                 />
@@ -47318,6 +47320,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Toggle Esempio 1`] = `
               >
                 Selezionato
                 <input
+                  aria-describedby=""
                   checked=""
                   class="form-check-input"
                   disabled=""
@@ -47340,6 +47343,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Toggle Esempio 1`] = `
               >
                 Non Selezionato
                 <input
+                  aria-describedby=""
                   class="form-check-input"
                   disabled=""
                   type="checkbox"
