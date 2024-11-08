@@ -1,8 +1,9 @@
 import { Preview } from "@storybook/react";
 import "bootstrap-lombardia/dist/css/bootstrap-lombardia.min.css";
 import "../assets/css/bl-fixes.css";
-import "../assets/css/bi-fonts.scss";
 import "../assets/css/storybook-fixes.css";
+import "../assets/docs/scss/bi-fonts.scss";
+import "../assets/docs/scss/docs.scss";
 import "../assets/css/it25-custom-docs.css";
 import theme from "./theme";
 
