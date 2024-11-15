@@ -1,3 +1,7 @@
+# [1.0.0-alpha.1](https://github.com/RegioneLombardia/design-react-kit/compare/v1.0.0-alpha...v1.0.0-alpha.1) (2024-11-15)
+
+* add npm_token
+
 # 1.0.0-alpha (2024-11-15)
 
 Pre-release 1.0.0-alpha
