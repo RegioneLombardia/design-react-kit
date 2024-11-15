@@ -1,3 +1,9 @@
+# 1.0.0-alpha (2024-11-15)
+
+Pre-release 1.0.0-alpha
+
+
+
 # [5.3.0](https://github.com/italia/design-react-kit/compare/v5.2.0...v5.3.0) (2024-10-31)
 
 
