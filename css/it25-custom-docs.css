@@ -55,7 +55,7 @@
   padding: 1.25em;
 }
 
-.css-orh2az :where(p:not(.sb-anchor, .sb-unstyled, .sb-unstyled p)) {
+.css-orh2az :where(p:not(.sb-anchor, .sb-unstyled, .sb-unstyled p, .small)) {
   font-size: 18px !important;
 }
 .css-orh2az :where(li:not(.sb-anchor, .sb-unstyled, .sb-unstyled li)) {
