@@ -339,6 +339,14 @@ export const SearchField: Story = {
         { value: "19", label: "Valle d'Aosta" },
         { value: "20", label: "Veneto" },
     ];
+    const suggest = (query: string, populateResults: (data: string[]) => void ) => {
+      const filteredResults = multiOptions.filter((i) => i.label.toLowerCase().includes(query.toLowerCase()));
+      const data = filteredResults.map((item) => {
+        return item.label;
+      });
+      populateResults(data);
+    };
+
     return (
       <Form>
         <Container>
@@ -359,17 +367,32 @@ export const SearchField: Story = {
             <Col sm={4}>
               <div className="mb-4">Suggerimenti</div>
               <FormGroup className="select-wrapper">
-                  <label htmlFor="autocomplete">Regione</label>
-                  <Autocomplete id="autocomplete" source={multiOptions} placeholder={"Testo da cercare"} defaultValue={""}
-                      displayMenu={"inline"} tNoResults={() => "Nessun risultato"}/>
+                <label htmlFor="autocomplete">Regione</label>
+                <Autocomplete
+                    id="autocomplete"
+                    source={suggest}
+                    placeholder={"Testo da cercare"}
+                    defaultValue={""}
+                    displayMenu={"inline"}
+                    tNoResults={() => "Nessun risultato"}
+                />
               </FormGroup>
             </Col>
           </Row>
         </Container>
       </Form>
     );
-  }
+  },
+  parameters: {
+    docs: {
+      story: {
+        height: '350px'
+      },
+      canvas: { sourceState: "none" },
+    },
+  },
 };
+
 
 const SelectClassicaHooks = () => {
     const [, setValue] = useState<string>();
