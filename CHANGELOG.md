@@ -1,3 +1,6 @@
+# [1.0.0-beta](https://github.com/RegioneLombardia/design-react-kit/compare/v1.0.0-alpha.1...v1.0.0-beta) (2024-12-05)
+
+Pre-release 1.0.0-beta
 
 ---
 # Merge 5.3.0 -> 5.4.1 design-reat-kit italia - INIZIO
