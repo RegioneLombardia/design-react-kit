@@ -1,3 +1,40 @@
+
+---
+# Merge 5.3.0 -> 5.4.1 design-reat-kit italia - INIZIO
+
+
+## [5.4.1](https://github.com/italia/design-react-kit/compare/v5.4.0...v5.4.1) (2024-11-11)
+
+
+### Bug Fixes
+
+* form control class missing for text area ([be15805](https://github.com/italia/design-react-kit/commit/be15805128978bb02a3ed537f52f5427c9a8e990))
+* remove classname from input wrapper ([5fe3186](https://github.com/italia/design-react-kit/commit/5fe3186574a5b33adf5d1085f01320dcc4b8abf5))
+
+
+
+# [5.4.0](https://github.com/italia/design-react-kit/compare/v5.3.0...v5.4.0) (2024-11-07)
+
+
+### Bug Fixes
+
+* **a11y:** toolbar divider ([5785c9c](https://github.com/italia/design-react-kit/commit/5785c9c288743186eca4ad36294caba86c044f7f))
+* thumbnail extra space ([7c06f04](https://github.com/italia/design-react-kit/commit/7c06f0492b0c78f3c96ed99398748fd20df66995))
+* timeline headers ([6e24aae](https://github.com/italia/design-react-kit/commit/6e24aae08d3a8e5df8483f761d77f0a7dac1c83e))
+* visually hidden in toolbar ([ad00131](https://github.com/italia/design-react-kit/commit/ad00131ded6a8dfbb291f60f11dc77e28bd841ae))
+
+
+### Features
+
+* add text and date description to card category component ([39925bd](https://github.com/italia/design-react-kit/commit/39925bdb4b11cd2c7f2e2515ba8d6a57f5de2833))
+* new lists ([5021fd1](https://github.com/italia/design-react-kit/commit/5021fd120a629f7fb12e818f4e2dcc53a0fda064))
+* new responsive images ([99cf472](https://github.com/italia/design-react-kit/commit/99cf4721822a20f9f69eebfdc84f472fa4131b3b))
+* use href in forward component ([9e20c53](https://github.com/italia/design-react-kit/commit/9e20c5359b7aa68af083984fe3c554cd7c0c0241))
+
+
+# Merge 5.3.0 -> 5.4.1 design-reat-kit italia - FINE
+---
+
 # [1.0.0-alpha.1](https://github.com/RegioneLombardia/design-react-kit/compare/v1.0.0-alpha...v1.0.0-alpha.1) (2024-11-15)
 
 * add npm_token
@@ -5,7 +42,6 @@
 # 1.0.0-alpha (2024-11-15)
 
 Pre-release 1.0.0-alpha
-
 
 
 # [5.3.0](https://github.com/italia/design-react-kit/compare/v5.2.0...v5.3.0) (2024-10-31)
