@@ -34,9 +34,8 @@ small.it25-valid-info-text-patch {
 }
 .it25-megamenu-closer {
   position: absolute;
-  right:  -1rem;
+  right:  -1.25rem;
   z-index:  1000;
-  top: 1rem;
   display: none;
   &.show {
     display: block;
