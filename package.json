@@ -23,7 +23,13 @@
       "main": "./dist/index.cjs"
     }
   },
-  "sideEffects": false,
+  "sideEffects": [
+    "dist/track-focus.js",
+    "src/track-focus.js",
+    "dist/index.ts",
+    "dist/index.js",
+    "src/index.ts"
+  ],
   "files": [
     "dist",
     "src"
@@ -51,7 +57,7 @@
     "postversion": "echo \"You can now publish your version using 'git push --follow-tags'\""
   },
   "peerDependencies": {
-    "bootstrap-lombardia": "2.5.0",
+    "bootstrap-lombardia": "2.5.1",
     "react": ">=18.2.0"
   },
   "browserslist": [
@@ -86,7 +92,8 @@
     "@types/react": "^18.2.75",
     "@types/react-dom": "^18.2.24",
     "@types/react-transition-group": "^4.4.10",
-    "bootstrap-lombardia": "^2.5.0",
+    "bootstrap": "5.2.3",
+    "bootstrap-lombardia": "^2.5.1",
     "browserslist-config-design-italia": "^1.0.0",
     "eslint": "^9.10.0",
     "eslint-plugin-mdx": "^3.1.5",

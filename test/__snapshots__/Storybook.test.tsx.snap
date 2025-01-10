@@ -2164,19 +2164,18 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop Dark 1`] = `
   <div
     class="d-flex align-items-center"
   >
-    <button
-      aria-hidden="true"
-      class="back-to-top dark btn btn-"
+    <a
+      aria-label="Torna su"
+      class="back-to-top dark"
+      color=""
       id="back-to-top-btn"
       style="padding: 0px;"
-      tabindex="-1"
-      type="button"
     >
       <svg
         class="icon icon-secondary"
         enable-background="new 0 0 24 24"
         role="img"
-        style="top: 0px;"
+        style="cursor: pointer;"
         viewBox="0 0 24 24"
         xml:space="preserve"
         xmlns="http://www.w3.org/2000/svg"
@@ -2185,20 +2184,19 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop Dark 1`] = `
           d="M18.6 10.1 12 3.5l-6.6 6.6.7.7 5.4-5.3V21h1V5.5l5.4 5.3.7-.7z"
         />
       </svg>
-    </button>
-    <button
-      aria-hidden="true"
-      class="back-to-top back-to-top-small dark btn btn-"
+    </a>
+    <a
+      aria-label="Torna su"
+      class="back-to-top back-to-top-small dark"
+      color=""
       id="back-to-top-btn"
       style="padding: 0px;"
-      tabindex="-1"
-      type="button"
     >
       <svg
         class="icon icon-secondary"
         enable-background="new 0 0 24 24"
         role="img"
-        style="top: 0px;"
+        style="cursor: pointer;"
         viewBox="0 0 24 24"
         xml:space="preserve"
         xmlns="http://www.w3.org/2000/svg"
@@ -2207,7 +2205,7 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop Dark 1`] = `
           d="M18.6 10.1 12 3.5l-6.6 6.6.7.7 5.4-5.3V21h1V5.5l5.4 5.3.7-.7z"
         />
       </svg>
-    </button>
+    </a>
   </div>
 </div>
 `;
@@ -2217,19 +2215,18 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop DarkShadow 1`] = 
   <div
     class="d-flex align-items-center"
   >
-    <button
-      aria-hidden="true"
-      class="back-to-top dark shadow btn btn-"
+    <a
+      aria-label="Torna su"
+      class="back-to-top dark shadow"
+      color=""
       id="back-to-top-btn"
       style="padding: 0px;"
-      tabindex="-1"
-      type="button"
     >
       <svg
         class="icon icon-secondary"
         enable-background="new 0 0 24 24"
         role="img"
-        style="top: 0px;"
+        style="cursor: pointer;"
         viewBox="0 0 24 24"
         xml:space="preserve"
         xmlns="http://www.w3.org/2000/svg"
@@ -2238,20 +2235,19 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop DarkShadow 1`] = 
           d="M18.6 10.1 12 3.5l-6.6 6.6.7.7 5.4-5.3V21h1V5.5l5.4 5.3.7-.7z"
         />
       </svg>
-    </button>
-    <button
-      aria-hidden="true"
-      class="back-to-top back-to-top-small dark shadow btn btn-"
+    </a>
+    <a
+      aria-label="Torna su"
+      class="back-to-top back-to-top-small dark shadow"
+      color=""
       id="back-to-top-btn"
       style="padding: 0px;"
-      tabindex="-1"
-      type="button"
     >
       <svg
         class="icon icon-secondary"
         enable-background="new 0 0 24 24"
         role="img"
-        style="top: 0px;"
+        style="cursor: pointer;"
         viewBox="0 0 24 24"
         xml:space="preserve"
         xmlns="http://www.w3.org/2000/svg"
@@ -2260,26 +2256,25 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop DarkShadow 1`] = 
           d="M18.6 10.1 12 3.5l-6.6 6.6.7.7 5.4-5.3V21h1V5.5l5.4 5.3.7-.7z"
         />
       </svg>
-    </button>
+    </a>
   </div>
 </div>
 `;
 
 exports[`Stories Snapshots Documentazione/Componenti/BackToTop Esempio 1`] = `
 <div>
-  <button
-    aria-hidden="true"
-    class="back-to-top btn btn-primary"
+  <a
+    aria-label="Torna su"
+    class="back-to-top"
+    color="primary"
     id="back-to-top-btn"
     style="padding: 0px;"
-    tabindex="-1"
-    type="button"
   >
     <svg
-      class="icon icon-white"
+      class="icon icon-light"
       enable-background="new 0 0 24 24"
       role="img"
-      style="top: 0px;"
+      style="cursor: pointer;"
       viewBox="0 0 24 24"
       xml:space="preserve"
       xmlns="http://www.w3.org/2000/svg"
@@ -2288,7 +2283,7 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop Esempio 1`] = `
         d="M18.6 10.1 12 3.5l-6.6 6.6.7.7 5.4-5.3V21h1V5.5l5.4 5.3.7-.7z"
       />
     </svg>
-  </button>
+  </a>
 </div>
 `;
 
@@ -2297,19 +2292,18 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop Shadow 1`] = `
   <div
     class="d-flex align-items-center"
   >
-    <button
-      aria-hidden="true"
-      class="back-to-top shadow btn btn-primary"
+    <a
+      aria-label="Torna su"
+      class="back-to-top shadow"
+      color="primary"
       id="back-to-top-btn"
       style="padding: 0px;"
-      tabindex="-1"
-      type="button"
     >
       <svg
-        class="icon icon-white"
+        class="icon icon-light"
         enable-background="new 0 0 24 24"
         role="img"
-        style="top: 0px;"
+        style="cursor: pointer;"
         viewBox="0 0 24 24"
         xml:space="preserve"
         xmlns="http://www.w3.org/2000/svg"
@@ -2318,20 +2312,19 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop Shadow 1`] = `
           d="M18.6 10.1 12 3.5l-6.6 6.6.7.7 5.4-5.3V21h1V5.5l5.4 5.3.7-.7z"
         />
       </svg>
-    </button>
-    <button
-      aria-hidden="true"
-      class="back-to-top back-to-top-small shadow btn btn-primary"
+    </a>
+    <a
+      aria-label="Torna su"
+      class="back-to-top back-to-top-small shadow"
+      color="primary"
       id="back-to-top-btn"
       style="padding: 0px;"
-      tabindex="-1"
-      type="button"
     >
       <svg
-        class="icon icon-white"
+        class="icon icon-light"
         enable-background="new 0 0 24 24"
         role="img"
-        style="top: 0px;"
+        style="cursor: pointer;"
         viewBox="0 0 24 24"
         xml:space="preserve"
         xmlns="http://www.w3.org/2000/svg"
@@ -2340,26 +2333,25 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop Shadow 1`] = `
           d="M18.6 10.1 12 3.5l-6.6 6.6.7.7 5.4-5.3V21h1V5.5l5.4 5.3.7-.7z"
         />
       </svg>
-    </button>
+    </a>
   </div>
 </div>
 `;
 
 exports[`Stories Snapshots Documentazione/Componenti/BackToTop Small 1`] = `
 <div>
-  <button
-    aria-hidden="true"
-    class="back-to-top back-to-top-small btn btn-primary"
+  <a
+    aria-label="Torna su"
+    class="back-to-top back-to-top-small"
+    color="primary"
     id="back-to-top-btn"
     style="padding: 0px;"
-    tabindex="-1"
-    type="button"
   >
     <svg
-      class="icon icon-white"
+      class="icon icon-light"
       enable-background="new 0 0 24 24"
       role="img"
-      style="top: 0px;"
+      style="cursor: pointer;"
       viewBox="0 0 24 24"
       xml:space="preserve"
       xmlns="http://www.w3.org/2000/svg"
@@ -2368,7 +2360,7 @@ exports[`Stories Snapshots Documentazione/Componenti/BackToTop Small 1`] = `
         d="M18.6 10.1 12 3.5l-6.6 6.6.7.7 5.4-5.3V21h1V5.5l5.4 5.3.7-.7z"
       />
     </svg>
-  </button>
+  </a>
 </div>
 `;
 
@@ -10512,6 +10504,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingBase 1`] = `
       for="star5a"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10542,6 +10535,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingBase 1`] = `
       for="star4a"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10572,6 +10566,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingBase 1`] = `
       for="star3a"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10602,6 +10597,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingBase 1`] = `
       for="star2a"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10632,6 +10628,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingBase 1`] = `
       for="star1a"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10686,6 +10683,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingConLabel 1`] =
       for="star5b"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10717,6 +10715,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingConLabel 1`] =
       for="star4b"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10747,6 +10746,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingConLabel 1`] =
       for="star3b"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10777,6 +10777,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingConLabel 1`] =
       for="star2b"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10807,6 +10808,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingConLabel 1`] =
       for="star1b"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10853,6 +10855,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingReadOnly 1`] =
       for="star5c"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10886,6 +10889,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingReadOnly 1`] =
       for="star4c"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10918,6 +10922,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingReadOnly 1`] =
       for="star3c"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10950,6 +10955,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingReadOnly 1`] =
       for="star2c"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -10982,6 +10988,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Rating RatingReadOnly 1`] =
       for="star1c"
     >
       <svg
+        aria-hidden="true"
         class="icon icon-sm"
         enable-background="new 0 0 24 24"
         role="img"
@@ -12143,20 +12150,47 @@ exports[`Stories Snapshots Documentazione/Componenti/Skiplinks _Esempi 1`] = `
     />
     <div
       class="skiplinks"
+    />
+  </section>
+</div>
+`;
+
+exports[`Stories Snapshots Documentazione/Componenti/Skiplinks _EsempiWithNav 1`] = `
+<div>
+  <section
+    tabindex="-1"
+  >
+    <div
+      id="#main"
+    />
+    <div
+      id="#footer"
+    />
+    <nav
+      aria-label="Scorciatoie di navigazione"
+      class="skiplinks"
     >
-      <a
-        class="visually-hidden-focusable"
-        href="#main"
-      >
-        Skip to main content
-      </a>
-      <a
-        class="visually-hidden-focusable"
-        href="#"
-      >
-        Skip to footer
-      </a>
-    </div>
+      <ul>
+        <li
+          class="visually-hidden-focusable"
+        >
+          <a
+            href="#main"
+          >
+            Skip to main content
+          </a>
+        </li>
+        <li
+          class="visually-hidden-focusable"
+        >
+          <a
+            href="#"
+          >
+            Skip to footer
+          </a>
+        </li>
+      </ul>
+    </nav>
   </section>
 </div>
 `;
@@ -20531,6 +20565,7 @@ exports[`Stories Snapshots Documentazione/Form/Input _InputAutocompleteConDatiAc
       class="autocomplete__wrapper"
     >
       <div
+        class="autocomplete__status"
         style="border: 0px; height: 1px; margin-bottom: -1px; margin-right: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
       >
         <div
@@ -20547,11 +20582,10 @@ exports[`Stories Snapshots Documentazione/Form/Input _InputAutocompleteConDatiAc
         />
       </div>
       <input
-        aria-activedescendant="false"
         aria-autocomplete="list"
+        aria-controls="autocomplete__listbox"
         aria-describedby="autocomplete__assistiveHint"
         aria-expanded="false"
-        aria-owns="autocomplete__listbox"
         autocomplete="off"
         class="autocomplete__input autocomplete__input--default"
         id="autocomplete"
@@ -20562,6 +20596,7 @@ exports[`Stories Snapshots Documentazione/Form/Input _InputAutocompleteConDatiAc
         value=""
       />
       <ul
+        aria-labelledby="autocomplete"
         class="autocomplete__menu autocomplete__menu--inline autocomplete__menu--hidden"
         id="autocomplete__listbox"
         role="listbox"
@@ -20570,7 +20605,7 @@ exports[`Stories Snapshots Documentazione/Form/Input _InputAutocompleteConDatiAc
         id="autocomplete__assistiveHint"
         style="display: none;"
       >
-        When autocomplete results are available use up and down arrows to review and enter to select.  Touch device users, explore by touch or with swipe gestures.
+        Quando i risultati del completamento automatico sono disponibili, usa le frecce su e giù per rivedere e Invio per selezionare. Utenti di dispositivi touch, esplora tramite tocco o con gesti di scorrimento
       </span>
     </div>
   </div>
@@ -28588,21 +28623,19 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
               >
                 <li>
                   <a
-                    aria-controls="collapseOne"
                     aria-expanded="false"
-                    class="list-item large medium right-icon collapsed undefined"
-                    data-toggle="collapse"
-                    href="#collapseOne"
+                    class="right-icon undefined large medium list-item"
+                    role="button"
                   >
                     <span
                       class="list-item-title-icon-wrapper"
                     >
                       <span>
-                        Link list 1
+                        Link list 1 
                       </span>
                       <svg
                         aria-hidden="true"
-                        class="icon icon-primary icon-sm"
+                        class="icon right icon-primary icon-xs"
                         enable-background="new 0 0 24 24"
                         role="img"
                         viewBox="0 0 24 24"
@@ -28615,13 +28648,17 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                       </svg>
                     </span>
                   </a>
+                </li>
+                <div
+                  class="collapse"
+                >
                   <ul
-                    class="collapse link-sublist"
-                    id="collapseOne"
+                    class="link-sublist"
                   >
                     <li>
                       <a
                         class="list-item"
+                        href="#1_1"
                       >
                         Link list 1.1
                       </a>
@@ -28629,6 +28666,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                     <li>
                       <a
                         class="list-item"
+                        href="#1_2"
                       >
                         Link list 1.2
                       </a>
@@ -28636,29 +28674,28 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                     <li>
                       <a
                         class="list-item"
+                        href="#1_3"
                       >
                         Link list 1.3
                       </a>
                     </li>
                   </ul>
-                </li>
+                </div>
                 <li>
                   <a
-                    aria-controls="collapseTwo"
                     aria-expanded="false"
-                    class="list-item large medium right-icon collapsed undefined"
-                    data-toggle="collapse"
-                    href="#collapseTwo"
+                    class="right-icon undefined large medium list-item"
+                    role="button"
                   >
                     <span
                       class="list-item-title-icon-wrapper"
                     >
                       <span>
-                        Link list 2
+                        Link list 2 
                       </span>
                       <svg
                         aria-hidden="true"
-                        class="icon icon-primary icon-sm"
+                        class="icon right icon-primary icon-xs"
                         enable-background="new 0 0 24 24"
                         role="img"
                         viewBox="0 0 24 24"
@@ -28671,13 +28708,17 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                       </svg>
                     </span>
                   </a>
+                </li>
+                <div
+                  class="collapse"
+                >
                   <ul
-                    class="collapse link-sublist"
-                    id="collapseTwo"
+                    class="link-sublist"
                   >
                     <li>
                       <a
                         class="list-item"
+                        href="#2_1"
                       >
                         Link list 2.1
                       </a>
@@ -28685,6 +28726,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                     <li>
                       <a
                         class="list-item"
+                        href="#2_2"
                       >
                         Link list 2.2
                       </a>
@@ -28692,29 +28734,28 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                     <li>
                       <a
                         class="list-item"
+                        href="#2_3"
                       >
                         Link list 2.3
                       </a>
                     </li>
                   </ul>
-                </li>
+                </div>
                 <li>
                   <a
-                    aria-controls="collapseThree"
                     aria-expanded="false"
-                    class="list-item large medium right-icon collapsed undefined"
-                    data-toggle="collapse"
-                    href="#collapseThree"
+                    class="right-icon undefined large medium list-item"
+                    role="button"
                   >
                     <span
                       class="list-item-title-icon-wrapper"
                     >
                       <span>
-                        Link list 3
+                        Link list 3 
                       </span>
                       <svg
                         aria-hidden="true"
-                        class="icon icon-primary icon-sm"
+                        class="icon right icon-primary icon-xs"
                         enable-background="new 0 0 24 24"
                         role="img"
                         viewBox="0 0 24 24"
@@ -28727,13 +28768,17 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                       </svg>
                     </span>
                   </a>
+                </li>
+                <div
+                  class="collapse"
+                >
                   <ul
-                    class="collapse link-sublist"
-                    id="collapseThree"
+                    class="link-sublist"
                   >
                     <li>
                       <a
                         class="list-item"
+                        href="#3_1"
                       >
                         Link list 3.1
                       </a>
@@ -28741,6 +28786,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                     <li>
                       <a
                         class="list-item"
+                        href="#3_2"
                       >
                         Link list 3.2
                       </a>
@@ -28748,12 +28794,13 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                     <li>
                       <a
                         class="list-item"
+                        href="#3_3"
                       >
                         Link list 3.3
                       </a>
                     </li>
                   </ul>
-                </li>
+                </div>
               </ul>
             </div>
           </div>
@@ -28891,7 +28938,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
         class="col-md-12 col-lg-4"
       >
         <nav
-          class="it-navscroll-wrapper navbar-expand-lg it-top-navscroll it-right-side affix-top theme-dark-desk theme-dark-mobile navbar navbar-expand-lg"
+          class="it-navscroll-wrapper it-top-navscroll it-right-side affix-top theme-dark-desk theme-dark-mobile navbar navbar-expand-lg"
         >
           <div
             class="container-fluid"
@@ -28942,7 +28989,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                 </button>
               </div>
               <button
-                class="it-back-button btn w-100 text-start"
+                class=" it-back-button btn w-100 text-start"
                 style="display: none;"
               >
                 <svg
@@ -28959,7 +29006,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Componen
                   />
                 </svg>
                 <span>
-                  Back 
+                  Indietro
                 </span>
               </button>
               <div
@@ -29315,7 +29362,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Posizion
         class="col-md-12 col-lg-4"
       >
         <nav
-          class="it-navscroll-wrapper it-bottom-navscroll it-left-side affix-top navbar navbar-expand-lg"
+          class="it-navscroll-wrapper it-bottom-navscroll it-right-side affix-top navbar navbar-expand-lg"
         >
           <div
             class="container-fluid"
@@ -29366,7 +29413,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Posizion
                 </button>
               </div>
               <button
-                class="it-back-button btn w-100 text-start"
+                class=" it-back-button btn w-100 text-start"
                 style="display: none;"
               >
                 <svg
@@ -29383,7 +29430,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Posizion
                   />
                 </svg>
                 <span>
-                  Back 
+                  Indietro
                 </span>
               </button>
               <div
@@ -29739,7 +29786,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Posizion
         class="col-md-12 col-lg-4"
       >
         <nav
-          class="it-navscroll-wrapper navbar-expand-lg it-top-navscroll it-right-side affix-top navbar navbar-expand-lg"
+          class="it-navscroll-wrapper it-top-navscroll it-right-side affix-top navbar navbar-expand-lg"
         >
           <div
             class="container-fluid"
@@ -29753,6 +29800,25 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Posizion
               <span
                 class="it-list"
               />
+              <div
+                class="custom-navbar-progressbar progress"
+              >
+                <div
+                  class="progress-bar-label"
+                >
+                  <span
+                    class="visually-hidden"
+                  />
+                </div>
+                <div
+                  aria-valuemax="100"
+                  aria-valuemin="0"
+                  aria-valuenow="0"
+                  class="progress-bar"
+                  role="progressbar"
+                  style="width: 0%;"
+                />
+              </div>
             </button>
             <div
               class="navbar-collapsable collapse navbar-collapsable"
@@ -29790,7 +29856,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Posizion
                 </button>
               </div>
               <button
-                class="it-back-button btn w-100 text-start"
+                class=" it-back-button btn w-100 text-start"
                 style="display: none;"
               >
                 <svg
@@ -29807,7 +29873,7 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Posizion
                   />
                 </svg>
                 <span>
-                  Back 
+                  Indietro
                 </span>
               </button>
               <div
@@ -29819,6 +29885,25 @@ exports[`Stories Snapshots Documentazione/Menu di navigazione/Navscroll Posizion
                   <h3>
                     header
                   </h3>
+                  <div
+                    class="progress"
+                  >
+                    <div
+                      class="progress-bar-label"
+                    >
+                      <span
+                        class="visually-hidden"
+                      />
+                    </div>
+                    <div
+                      aria-valuemax="100"
+                      aria-valuemin="0"
+                      aria-valuenow="0"
+                      class="progress-bar"
+                      role="progressbar"
+                      style="width: 0%;"
+                    />
+                  </div>
                   <ul
                     class="link-list"
                   >
@@ -34138,6 +34223,7 @@ exports[`Stories Snapshots Documentazione/Organizzare i contenuti/Liste di link 
     >
       <li>
         <a
+          aria-expanded="false"
           class="icon-right large medium list-item"
           role="button"
         >
@@ -34200,6 +34286,7 @@ exports[`Stories Snapshots Documentazione/Organizzare i contenuti/Liste di link 
       </div>
       <li>
         <a
+          aria-expanded="false"
           class="icon-right large medium list-item"
           role="button"
         >
@@ -34262,6 +34349,7 @@ exports[`Stories Snapshots Documentazione/Organizzare i contenuti/Liste di link 
       </div>
       <li>
         <a
+          aria-expanded="false"
           class="icon-right large medium list-item"
           role="button"
         >
@@ -41961,14 +42049,14 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Footer MultiLink 1`
               <div
                 class="pb-2 col-sm-6 col-md-3 col-lg-3"
               >
-                <h4>
+                <h5>
                   <a
                     href="#"
                     title="Vai alla pagina: Amministrazione"
                   >
                     Amministrazione
                   </a>
-                </h4>
+                </h5>
                 <div
                   class="link-list-wrapper"
                 >
@@ -42026,14 +42114,14 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Footer MultiLink 1`
               <div
                 class="pb-2 col-sm-6 col-md-3 col-lg-3"
               >
-                <h4>
+                <h5>
                   <a
                     href="#"
                     title="Vai alla pagina: Servizi"
                   >
                     Servizi
                   </a>
-                </h4>
+                </h5>
                 <div
                   class="link-list-wrapper"
                 >
@@ -42100,14 +42188,14 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Footer MultiLink 1`
               <div
                 class="pb-2 col-sm-6 col-md-3 col-lg-3"
               >
-                <h4>
+                <h5>
                   <a
                     href="#"
                     title="Vai alla pagina: Novità"
                   >
                     Novità
                   </a>
-                </h4>
+                </h5>
                 <div
                   class="link-list-wrapper"
                 >
@@ -42147,14 +42235,14 @@ exports[`Stories Snapshots Linee Guida/Componenti Principali/Footer MultiLink 1`
               <div
                 class="col-sm-6 col-md-3 col-lg-3"
               >
-                <h4>
+                <h5>
                   <a
                     href="#"
                     title="Vai alla pagina: Documenti"
                   >
                     Documenti
                   </a>
-                </h4>
+                </h5>
                 <div
                   class="link-list-wrapper"
                 >
@@ -45185,11 +45273,6 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields PasswordConIcone
                 />
               </div>
             </div>
-            <small
-              class="form-text info it25-valid-info-text-patch"
-            >
-              Inserisci almeno 8 caratteri
-            </small>
           </div>
         </div>
         <div
@@ -45261,11 +45344,6 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields PasswordConIcone
                 />
               </div>
             </div>
-            <small
-              class="form-text info it25-valid-info-text-patch"
-            >
-              Inserisci almeno 8 caratteri
-            </small>
           </div>
         </div>
         <div
@@ -45338,11 +45416,6 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields PasswordConIcone
                 />
               </div>
             </div>
-            <small
-              class="form-text info it25-valid-info-text-patch"
-            >
-              Inserisci almeno 8 caratteri
-            </small>
           </div>
         </div>
       </div>
@@ -45678,6 +45751,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields SearchField 1`] 
               class="autocomplete__wrapper"
             >
               <div
+                class="autocomplete__status"
                 style="border: 0px; height: 1px; margin-bottom: -1px; margin-right: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;"
               >
                 <div
@@ -45694,11 +45768,10 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields SearchField 1`] 
                 />
               </div>
               <input
-                aria-activedescendant="false"
                 aria-autocomplete="list"
+                aria-controls="autocomplete__listbox"
                 aria-describedby="autocomplete__assistiveHint"
                 aria-expanded="false"
-                aria-owns="autocomplete__listbox"
                 autocomplete="off"
                 class="autocomplete__input autocomplete__input--default"
                 id="autocomplete"
@@ -45709,6 +45782,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields SearchField 1`] 
                 value=""
               />
               <ul
+                aria-labelledby="autocomplete"
                 class="autocomplete__menu autocomplete__menu--inline autocomplete__menu--hidden"
                 id="autocomplete__listbox"
                 role="listbox"
@@ -45945,11 +46019,6 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields conIcone 1`] = `
                 />
               </div>
             </div>
-            <small
-              class="form-text info it25-valid-info-text-patch"
-            >
-              Ulteriore testo informativo
-            </small>
           </div>
         </div>
         <div
@@ -46004,11 +46073,6 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields conIcone 1`] = `
                 />
               </div>
             </div>
-            <small
-              class="form-text info it25-valid-info-text-patch"
-            >
-              Ulteriore testo informativo
-            </small>
           </div>
         </div>
         <div
@@ -46064,11 +46128,6 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields conIcone 1`] = `
                 />
               </div>
             </div>
-            <small
-              class="form-text info it25-valid-info-text-patch"
-            >
-              Dato derivante da anagrafica
-            </small>
           </div>
         </div>
       </div>
@@ -46128,11 +46187,6 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields conIcone 1`] = `
                 />
               </div>
             </div>
-            <small
-              class="form-text info it25-valid-info-text-patch"
-            >
-              Ulteriore testo informativo
-            </small>
           </div>
         </div>
         <div
@@ -46187,11 +46241,6 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields conIcone 1`] = `
                 />
               </div>
             </div>
-            <small
-              class="form-text info it25-valid-info-text-patch"
-            >
-              Ulteriore testo informativo
-            </small>
           </div>
         </div>
         <div
@@ -46247,11 +46296,6 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields conIcone 1`] = `
                 />
               </div>
             </div>
-            <small
-              class="form-text info it25-valid-info-text-patch"
-            >
-              Dato derivante da anagrafica
-            </small>
           </div>
         </div>
       </div>

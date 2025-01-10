@@ -28,6 +28,7 @@ function showCloser(show: boolean, id: string) {
   if (closer) {
     if (show) {
       closer.classList.add("show")
+      closer.setAttribute("style", "border-color:transparent !important;");
     } else {
       closer.classList.remove("show")
     }

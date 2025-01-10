@@ -136,7 +136,6 @@ export const conIcone: Story = {
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
                   id="exampleInputText10" label="Etichetta di esempio" type="text"/>
-                  <small className="form-text info it25-valid-info-text-patch">Ulteriore testo informativo</small>
               </FormGroup>
             </Col>
             <Col sm={4}>
@@ -144,7 +143,6 @@ export const conIcone: Story = {
               <FormGroup>
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
                   id="exampleInputText11" label="Etichetta di esempio" type="text" className="active" value=" "/>
-                  <small className="form-text info it25-valid-info-text-patch">Ulteriore testo informativo</small>
               </FormGroup>
             </Col>
             <Col sm={4}>
@@ -153,7 +151,6 @@ export const conIcone: Story = {
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
                   id="exampleInputText12" label="Etichetta di esempio" type="text" className="active"
                   value=" " disabled />
-                  <small className="form-text info it25-valid-info-text-patch">Dato derivante da anagrafica</small>
                 </FormGroup>
             </Col>
           </Row>
@@ -164,7 +161,6 @@ export const conIcone: Story = {
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
                   id="exampleInputText13" label="Etichetta di esempio" type="text"
                   placeholder="Inserire dato..."/>
-                  <small className="form-text info it25-valid-info-text-patch">Ulteriore testo informativo</small>
               </FormGroup>
             </Col>
             <Col sm={4}>
@@ -173,7 +169,6 @@ export const conIcone: Story = {
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
                   id="exampleInputText14" label="Etichetta di esempio" type="text" className="active"
                   value="Testo in inserim| "/>
-                  <small className="form-text info it25-valid-info-text-patch">Ulteriore testo informativo</small>
               </FormGroup>
             </Col>
             <Col sm={4}>
@@ -182,7 +177,6 @@ export const conIcone: Story = {
                 <Input hasIconLeft iconLeft={<Icon aria-hidden icon="it-mail" size="sm"/>}
                   id="exampleInputText15" label="Etichetta di esempio" type="text" className="active"
                   value="Testo non modificabile" disabled />
-                  <small className="form-text info it25-valid-info-text-patch">Dato derivante da anagrafica</small>
               </FormGroup>
             </Col>
           </Row>
@@ -289,7 +283,6 @@ export const PasswordConIcone: Story = {
               <FormGroup>
                 <Input  hasIconLeft iconLeft={<Icon aria-hidden icon="it-key" size="sm"/>}
                   id="exampleInputPassword4" label="Password" type="password"/>
-                  <small className="form-text info it25-valid-info-text-patch">Inserisci almeno 8 caratteri</small>
               </FormGroup>
             </Col>
             <Col sm={4}>
@@ -297,7 +290,6 @@ export const PasswordConIcone: Story = {
               <FormGroup>
                 <Input  hasIconLeft iconLeft={<Icon aria-hidden icon="it-key" size="sm"/>}
                   id="exampleInputPassword5" label="Password" type="password" className="active" value="abcdefg12"/>
-                  <small className="form-text info it25-valid-info-text-patch">Inserisci almeno 8 caratteri</small>
               </FormGroup>
             </Col>
             <Col sm={4}>
@@ -305,7 +297,6 @@ export const PasswordConIcone: Story = {
               <FormGroup>
                 <Input  hasIconLeft iconLeft={<Icon aria-hidden icon="it-key" size="sm"/>}
                   id="exampleInputPassword6" label="Password" type="password" className="active" disabled value="abcdefg12"/>
-                  <small className="form-text info it25-valid-info-text-patch">Inserisci almeno 8 caratteri</small>
               </FormGroup>
             </Col>
           </Row>

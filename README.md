@@ -43,9 +43,9 @@ Maggiori informazioni per crere una nuova app con React:
 - [Documentazione ufficiale](https://react.dev/learn/start-a-new-react-project)
 - [Vitejs](https://vitejs.dev/guide/#getting-started)
 
-### Aggiungere bootstrap-italia ed i font
+### Aggiungere bootstrap-lombardia ed i font
 
-Il `design-react-kit` non include il CSS ed i file font, ed è quindi necessario installarli a parte:
+Il `design-react-kit-lombardia` non include il CSS ed i file font, ed è quindi necessario installarli a parte:
 
 ```sh
 yarn add bootstrap-lombardia typeface-lora typeface-roboto-mono typeface-titillium-web --save
@@ -58,7 +58,7 @@ A questo punto, è sufficiente importare esplicitamente nella app CSS e font se 
 ```tsx
 import React from 'react';
 import './App.css';
-import { Alert } from 'design-react-kit';
+import { Alert } from 'design-react-kit-lombardia';
 import 'bootstrap-lombardia/dist/css/bootstrap-lombardia.min.css';
 import 'typeface-titillium-web';
 import 'typeface-roboto-mono';

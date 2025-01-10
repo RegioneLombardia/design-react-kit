@@ -97,14 +97,14 @@ export const MultiLink: Story = {  args: {
                 md={3}
                 sm={6}
               >
-                <h4>
+                <h5>
                   <a
                     href="#"
                     title="Vai alla pagina: Amministrazione"
                   >
                     Amministrazione
                   </a>
-                </h4>
+                </h5>
                 <LinkList className="footer-list clearfix">
                   <LinkListItem
                     href="#"
@@ -144,14 +144,14 @@ export const MultiLink: Story = {  args: {
                 md={3}
                 sm={6}
               >
-                <h4>
+                <h5>
                   <a
                     href="#"
                     title="Vai alla pagina: Servizi"
                   >
                     Servizi
                   </a>
-                </h4>
+                </h5>
                 <LinkList className="footer-list clearfix">
                   <LinkListItem
                     href="#"
@@ -197,14 +197,14 @@ export const MultiLink: Story = {  args: {
                 md={3}
                 sm={6}
               >
-                <h4>
+                <h5>
                   <a
                     href="#"
                     title="Vai alla pagina: Novità"
                   >
                     Novità
                   </a>
-                </h4>
+                </h5>
                 <LinkList className="footer-list clearfix">
                   <LinkListItem
                     href="#"
@@ -231,14 +231,14 @@ export const MultiLink: Story = {  args: {
                 md={3}
                 sm={6}
               >
-                <h4>
+                <h5>
                   <a
                     href="#"
                     title="Vai alla pagina: Documenti"
                   >
                     Documenti
                   </a>
-                </h4>
+                </h5>
                 <LinkList className="footer-list clearfix">
                   <LinkListItem
                     href="#"
