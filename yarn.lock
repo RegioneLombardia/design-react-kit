@@ -3143,10 +3143,10 @@ better-opn@^3.0.2:
   dependencies:
     open "^8.0.4"
 
-bootstrap-lombardia@^2.5.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/bootstrap-lombardia/-/bootstrap-lombardia-2.5.1.tgz#deba67971c286e282e080132938a4648ba53c416"
-  integrity sha512-Z8vsTKKKnmUjjV99/9j1Nf7crVhBfNxndivTvSI8ZwSLtc6m5QHLyiTvANS9tBTeeZmLyMBzxWe824+4FfKw1w==
+bootstrap-lombardia@2.5.2:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/bootstrap-lombardia/-/bootstrap-lombardia-2.5.2.tgz#9b825488f45f3b6748b4bdbb0712f0d4414dda88"
+  integrity sha512-sJIur32Et5dYQSCFCdDgeeg/l9TfnZMV9lD/8Q6SKLliFUo/tCM8NmW/7Z/19ChawNpcZu0Hq5FECzUyHM2fbg==
   dependencies:
     "@popperjs/core" "^2.11.6"
     "@splidejs/splide" "^3.6.12"

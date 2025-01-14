@@ -1,6 +1,14 @@
 
 ---
-# Merge 5.5.0 design-reat-kit italia - INIZIO
+# Merge 5.5.0 -> 5.5.1 design-reat-kit italia - INIZIO
+
+## [5.5.1](https://github.com/italia/design-react-kit/compare/v5.5.0...v5.5.1) (2025-01-09)
+
+
+### Bug Fixes
+
+* remove dropdown menu offset in slim headers ([52a1149](https://github.com/italia/design-react-kit/commit/52a1149c48303d8e9389000441badf9394c0c674))
+
 
 
 # [5.5.0](https://github.com/italia/design-react-kit/compare/v5.4.1...v5.5.0) (2024-12-18)
@@ -21,7 +29,7 @@
 * navscroll refactoring with progressbar ([d0cfd5b](https://github.com/italia/design-react-kit/commit/d0cfd5bc90daed5616ced16b767a94bb5abeba59))
 * new autocomplete component with italian default messages ([b076b91](https://github.com/italia/design-react-kit/commit/b076b912d888682b497f356e69b9a73f6ed98f52))
 
-# Merge 5.5.0 design-reat-kit italia - FINE
+# Merge 5.5.0 -> 5.5.1 design-reat-kit italia - FINE
 ---
 
 # [1.0.0-beta](https://github.com/RegioneLombardia/design-react-kit/compare/v1.0.0-alpha.1...v1.0.0-beta) (2024-12-05)
@@ -58,6 +66,7 @@ Pre-release 1.0.0-beta
 * new lists ([5021fd1](https://github.com/italia/design-react-kit/commit/5021fd120a629f7fb12e818f4e2dcc53a0fda064))
 * new responsive images ([99cf472](https://github.com/italia/design-react-kit/commit/99cf4721822a20f9f69eebfdc84f472fa4131b3b))
 * use href in forward component ([9e20c53](https://github.com/italia/design-react-kit/commit/9e20c5359b7aa68af083984fe3c554cd7c0c0241))
+
 
 
 # Merge 5.3.0 -> 5.4.1 design-reat-kit italia - FINE
