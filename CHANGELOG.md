@@ -1,6 +1,3 @@
-# [1.1.0](https://github.com/RegioneLombardia/design-react-kit/compare/v1.0.0-beta...v1.1.0) (2025-01-14)
-
-Primo rilascio
 
 ---
 # Merge 5.5.0 -> 5.5.1 design-reat-kit italia - INIZIO
