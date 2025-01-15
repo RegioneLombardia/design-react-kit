@@ -1,3 +1,23 @@
+# [1.0.0](https://github.com/RegioneLombardia/design-react-kit/compare/v1.0.0-beta...v1.0.0) (2025-01-15)
+
+Primo rilascio
+
+### Bug Fixes
+
+* add aria hidden to rating icons ([7d62963](https://github.com/RegioneLombardia/design-react-kit/commit/7d62963443023350799438a6d3e948d1c7ed0b0d))
+* focus tracking ([27d3714](https://github.com/RegioneLombardia/design-react-kit/commit/27d37148f4493e1231a4f671101f118c3b10fdbb))
+* improvements on back to top component ([08fb4c7](https://github.com/RegioneLombardia/design-react-kit/commit/08fb4c750f76b5db5ca9a10005a532804d141957))
+* remove dropdown menu offset in slim headers ([52a1149](https://github.com/RegioneLombardia/design-react-kit/commit/52a1149c48303d8e9389000441badf9394c0c674))
+
+
+### Features
+
+* nav mode for skiplinks ([2dc384e](https://github.com/RegioneLombardia/design-react-kit/commit/2dc384eea89caaad426ff46613429226b9eba21b))
+* navscroll refactoring with progressbar ([d0cfd5b](https://github.com/RegioneLombardia/design-react-kit/commit/d0cfd5bc90daed5616ced16b767a94bb5abeba59))
+* new autocomplete component with italian default messages ([b076b91](https://github.com/RegioneLombardia/design-react-kit/commit/b076b912d888682b497f356e69b9a73f6ed98f52))
+
+
+
 
 ---
 # Merge 5.5.0 -> 5.5.1 design-reat-kit italia - INIZIO
