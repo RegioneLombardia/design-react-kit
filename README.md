@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src=".github/react-logo.png" alt="react-logo" width="120px" height="auto"/>
+  <img src=".github/Regione-Lombardia-Stemma.png" alt="Regione-Lombardia-logo" width="120px" height="auto"/>
   <br>
   <i>Design React Kit Lombardia è un toolkit basato su Bootstrap Regione Lombardia 
     <br> per la creazione di applicazioni web sviluppate con React.</i>
