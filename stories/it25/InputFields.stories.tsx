@@ -440,30 +440,28 @@ const InputNumerico3Hook = () => {
 export const InputNumerico: Story = {
   render: () => {
     return (
-      <Form>
-        <Container>
-          <Row>
-            <Col sm={4}>
-              <div className="mb-4">Stato inattivo</div>
-              <FormGroup>
-                <InputNumerico1Hook />
-              </FormGroup>
-            </Col>
-            <Col sm={4}>
-              <div className="mb-4">Stato attivo</div>
-              <FormGroup>
-                <InputNumerico2Hook />
-              </FormGroup>
-            </Col>
-            <Col sm={4}>
-              <div className="mb-4">Stato disabilitato</div>
-              <FormGroup>
-                <InputNumerico3Hook />
-              </FormGroup>
-            </Col>
-          </Row>
-        </Container>
-      </Form>
+      <Container>
+        <Row>
+          <Col sm={4}>
+            <div className="mb-4">Stato inattivo</div>
+            <FormGroup>
+              <InputNumerico1Hook />
+            </FormGroup>
+          </Col>
+          <Col sm={4}>
+            <div className="mb-4">Stato attivo</div>
+            <FormGroup>
+              <InputNumerico2Hook />
+            </FormGroup>
+          </Col>
+          <Col sm={4}>
+            <div className="mb-4">Stato disabilitato</div>
+            <FormGroup>
+              <InputNumerico3Hook />
+            </FormGroup>
+          </Col>
+        </Row>
+      </Container>
     )
   },
 }
@@ -473,7 +471,7 @@ const InputValutaHooks = () => {
   return (
     <Input id="example-currency" addonText="€" type="currency" label="Currency"
       incrementLabel="Aumenta il valore di 1 euro" decrementLabel="Diminuisci il valore di 1 euro"
-      value={value} step="any" min={3.5} max={100}
+      value={value} step="any" min={5}
       onChange={(ev) => {
           setValue(ev.target.value);
       }}
@@ -496,24 +494,22 @@ const InputPercentualeHooks = () => {
 export const ValutaEPercentuale: Story = {
   render: () => {
     return (
-      <Form>
-        <Container>
-          <Row>
-            <Col sm={4}>
-              <div className="mb-4">Valuta</div>
-              <FormGroup>
-                <InputValutaHooks />
-              </FormGroup>
-            </Col>
-            <Col sm={4}>
-              <div className="mb-4">Percentuale</div>
-              <FormGroup>
-                <InputPercentualeHooks />
-              </FormGroup>
-            </Col>
-          </Row>
-        </Container>
-      </Form>
+      <Container>
+        <Row>
+          <Col sm={4}>
+            <div className="mb-4">Valuta</div>
+            <FormGroup>
+              <InputValutaHooks />
+            </FormGroup>
+          </Col>
+          <Col sm={4}>
+            <div className="mb-4">Percentuale</div>
+            <FormGroup>
+              <InputPercentualeHooks />
+            </FormGroup>
+          </Col>
+        </Row>
+      </Container>
     )
   },
 }

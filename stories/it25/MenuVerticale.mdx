@@ -12,9 +12,65 @@ Lo si preferisce per garantire la leggibilità degli item nella lista, che potr�
 
 Questo tipo di menu è sempre **collocato a sinistra dello schermo** per facilitare una lettura consequenziale delle informazioni.
 
+
+Due esempi di utilizzo possono essere visti in:
+* **[Header/Menu Principale/Menu Verticale](/docs/linee-guida-componenti-principali-header--documentazione#menu-verticale)**.
+* **[Header/Menu Principale/Menu Sidebar](/docs/linee-guida-componenti-principali-header--documentazione#menu-sidebar)**.
+
+
 ## Semplice
 <Canvas of={MenuVerticaleStories.Semplice} />
 
 
-## Innestata
+## Innestato
 <Canvas of={MenuVerticaleStories.Innestata} />
+
+
+```tsx
+const _AnnidataWithHooks = () => {
+  const [collapseOpen1, toggleCollapse1] = useState(false);
+  const [collapseOpen2, toggleCollapse2] = useState(true);
+  const [collapseOpen3, toggleCollapse3] = useState(true);
+  const [collapseOpen4, toggleCollapse4] = useState(true);
+  const [collapseOpen5, toggleCollapse5] = useState(true);
+
+  return (
+    <MenuVerticale>
+      <Sidebar>
+        <LinkList>
+          <LinkListItem
+            large
+            bold
+            className="right-icon"
+            onClick={(e) => {
+              e.preventDefault();
+              toggleCollapse1(!collapseOpen1);
+            }}
+            aria-expanded={collapseOpen1}
+          >
+            <LinkListItem.TitleIconWrapper>
+              <span className="fw-bold">Lorem ipsum dolor</span>
+              <Icon className="right" icon="it-expand" color="primary" aria-hidden />
+            </LinkListItem.TitleIconWrapper>
+          </LinkListItem>
+          <Collapse isOpen={collapseOpen1}>
+            <LinkList sublist>
+              <LinkListItem>
+                <span>Lorem ipsum dolor</span>
+              </LinkListItem>
+              <LinkListItem>
+                <span>Lorem ipsum dolor</span>
+              </LinkListItem>
+              <LinkListItem>
+                <span>Lorem ipsum dolor</span>
+              </LinkListItem>
+            </LinkList>
+          </Collapse>
+          . . .
+          . . .
+        </LinkList>
+      </Sidebar>
+    </MenuVerticale>
+  );
+};
+```

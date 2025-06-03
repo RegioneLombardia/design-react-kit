@@ -1,7 +1,7 @@
 import { Meta, StoryObj } from '@storybook/react';
-import React, { useState } from 'react';
-import { Col, Collapse, Container, Dropdown, DropdownMenu, DropdownToggle, Icon, LinkList, LinkListItem,
-  MegamenuItem, Nav, Navbar, NavbarToggler, NavItem, NavLink, Row } from '../../src';
+import React from 'react';
+import { Col, Collapse, Container, Dropdown, DropdownMenu, DropdownToggle, LinkList, LinkListItem,
+  MegamenuItem, Nav, Navbar, NavItem, NavLink, Row } from '../../src';
 
 //Non esiste un componente specifico per cui uso Container come riferimento per la storia
 const meta: Meta<typeof Container> = {
@@ -12,7 +12,6 @@ const meta: Meta<typeof Container> = {
       story: {
         height: '350px'
       },
-      canvas: { sourceState: 'none' }
     }
   },
   args: {
@@ -23,36 +22,12 @@ export default meta;
 
 type Story = StoryObj<typeof Container>;
 
-function showCloser(show: boolean, id: string) {
-  const closer: HTMLElement | null = document.getElementById(id)
-  if (closer) {
-    if (show) {
-      closer.classList.add("show")
-      closer.setAttribute("style", "border-color:transparent !important;");
-    } else {
-      closer.classList.remove("show")
-    }
-    closer.blur()
-  }
-}
-
-const MenuOrizzontaleHooks = () => {
-  const [openNav, setOpenNav] = useState(false);
-  const toggle = () => {
-    setOpenNav(!openNav)
-    showCloser(!openNav, "closer01");
-  };
-  return (
-    <div className='it-header-navbar-wrapper theme-light-desk it25-menu-orizzontale'>
-      <Navbar expand="lg" className='has-megamenu'>
-        <NavbarToggler className='custom-navbar-toggler d-flex d-lg-none' onClick={toggle}>
-          <Icon icon='it-burger' color='primary'/>
-          <div className="d-block d-lg-none align-self-center text-primary fw-semibold ms-2">Apri Menu</div>
-        </NavbarToggler>
-        <NavbarToggler className='custom-navbar-toggler it25-megamenu-closer' id="closer01" onClick={toggle}>
-          <Icon icon='it-close-big'/>
-        </NavbarToggler>
-        <Collapse isOpen={openNav} navbar header megamenu>
+export const MenuOrizzontale: Story = {
+  render: () => {
+    return (
+      <div className="it-header-navbar-wrapper theme-light-desk it25-menu-orizzontale">
+        <Navbar expand="lg" className='has-megamenu'>
+          <Collapse navbar header megamenu id="nav1">
             <Nav navbar>
               <NavItem>
                 <NavLink href="#"><span>Link</span></NavLink>
@@ -134,14 +109,9 @@ const MenuOrizzontaleHooks = () => {
                 </Row>
               </MegamenuItem>
             </Nav>
-      </Collapse>
-    </Navbar>
-  </div>
-  );
-};
-
-export const MenuOrizzontale: Story = {
-  render: () => {
-    return <MenuOrizzontaleHooks />;
+          </Collapse>
+        </Navbar>
+      </div>
+    );
   }
 };

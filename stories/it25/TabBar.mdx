@@ -29,18 +29,25 @@ Ogni bar deve contenere tab **dello stesso tipo**.
     </CalloutTitle>
     <CalloutText>
       Nel caso di di Tab bar con solo icone è **obbligatorio fornire una descrizione** con un testo alternativo, in modo che possa essere utilizzato anche da i non vedenti.\
-      Inoltre, poichè il significato dell'icona non sempre risulta chiaro per gli utenti anche per gli utenti normodotati, è fortemente consigliato aggiungere un **[tooltip](/docs/documentazione-inserimento-tooltip--documentazione#tooltip)** per aiutare la comprensione.
+      Inoltre, poichè il significato dell'icona non sempre risulta chiaro per gli utenti anche per gli utenti normodotati, è fortemente consigliato aggiungere un **[tooltip](/docs/linee-guida-inserimento-tooltip--documentazione#tooltip)** per aiutare la comprensione.
 ```tsx
 const ref1 = useRef(null);
 . . .
-<span ref={ref1}>
-  <Icon icon="it-link" aria-hidden title=""/>
-  <i className="it-ico-lg it-link d-block text-center" aria-label="Descrizione per non vedenti" />
-</span>
+<TabNavItem>
+  <TabNavLink eventKey='1'>
+    <span ref={ref1}>
+      <Icon icon='it-link' aria-hidden />
+      <span className='visually-hidden'>Descrizione per non vedenti Tab 1</span>
+    </span>
+  </TabNavLink>
+</TabNavItem>
 . . .
-<UncontrolledTooltip placement='top' target={ref1}>
-  Spiegazione icona 1 (per tutti)
-</UncontrolledTooltip>
+  </TabContent>
+  <UncontrolledTooltip placement='top' target={ref1}>
+    Spiegazione icona 1 (per tutti)
+  </UncontrolledTooltip>
+. . .
+</TabContainer>
 ```
       (estratto del codice dell'esempio sopra)
     </CalloutText>

@@ -2,41 +2,95 @@ import { ArgTypes, Canvas, Controls, Meta, Story } from '@storybook/blocks';
 import { Code } from '@storybook/components';
 import * as TopBarStories from './Header/TopBar.stories';
 import * as BarraIstituzionaleStories from './Header/BarraIstituzionale.stories';
+import * as BottoneHamburgerStories from './Header/BottoneHamburger.stories';
+import * as MenuPrincipaleStories from './Header/MenuPrincipale.stories';
 
 <Meta title='Linee Guida/Componenti Principali/Header' />
 
 # Header
-L'Header – posto sempre nella testata del layout – si ottiene dall’unione di due componenti:
+L'Header – posto sempre nella testata del layout – si ottiene dall’unione di più componenti:
 
+
+## TopBar
 - La **topbar**, la barra soprastante, verrà sempre utilizzata come componente identitaria di Regione Lombardia e, anche nel caso non contenga alcuna funzionalità, essa sarà presente sotto forma di banda colorata. In alcuni casi tale componente può essere impiegata come toolbar di servizio per l’inserimento di link quali **login, cambio lingua, assistenza**, ecc.
 
 - La **barra istituzionale** conterrà loghi e titolazioni dei servizi ed, eventualmente, un campo di ricerca.
 
 **N.B.: I link di servizio e informazioni di governance** relative all’Ente **non sono mai presenti nell’header**, ma sono contenute unicamente nel **footer**.
 
-## TopBar Base
+### TopBar Base
 <Canvas of={TopBarStories.TopBarBase} />
 
-## TopBar Accesso
+### TopBar Accesso
 La topbar può accogliere informazioni o, ad esempio, il pulsante per l’accesso utente.
 <Canvas of={TopBarStories.TopBarAccesso} />
 
-## TopBar Accesso Effettuato
+### TopBar Accesso Effettuato
 Il menu dropdown può contenere informazioni utili per il login, il logout e la gestione del profilo utente e delle impostazioni. Queste info possono essere relative all’utente e all’operatore che sta utilizzando il servizio.
 
 La dimensione del menu dropdown può variare a seconda delle esigenze, come ad esempio per accogliere una maggiore lunghezza delle voci al suo interno.
 <Canvas of={TopBarStories.TopBarUserSettings} />
 
-## Barra Istituzionale Base
-Contiene il logo di Regione Lombardia e il nome del servizio, preceduto dall'**Acronimo** (facoltativo).
+
+
+## Barra Istituzionale
+Contiene
+* il **logo** di Regione Lombardia
+* il **nome del servizio**
+* l'**acronimo** (facoltativo), che precede il nome del servizio.
+* il **bottone hamburger** (facoltativo), a sinistra del logo, per aprire/chiudere il menù principale di navigazione.
+
+### Barra Istituzionale Base
 <Canvas of={BarraIstituzionaleStories.BarraBase} />
 
-## Barra Istituzionale Search
+### Barra Istituzionale Search
 Nel caso in cui il servizio lo richieda, è possibile aggiungere un campo di ricerca generico all’interno della barra istituzionale nella parte destra.
 <Canvas of={BarraIstituzionaleStories.BarraSearch} />
 
-## Bottone Hamburger
-Il bottone hamburger serve per aprire e chiudere il [menu verticale](?path=/docs/linee-guida-componenti-principali-menuverticale--documentazione).\
-**Compare automaticamente sugli schermi di piccole dimensioni** a sinistra nella barra istituzionale.
-<Canvas of={BarraIstituzionaleStories.BottoneHamburger} />
+
+### Bottone Hamburger
+Normalmente la pagina di un applicativo ha un menù di navigazione principale, orizzontale o verticale.
+
+Su schermi di piccole dimensioni tale menù scompare per ragioni di spazio.\
+Compare però un bottone hamburger per poter aprire e chiudere il menù.
+
+Il Bottone Hamburger è un componente React specifico per la Regione Lombardia da inserire (facoltativamente) nella Barra Istituzionale.
+<Canvas of={BottoneHamburgerStories.BottoneHamburgerBase} />
+
+Vanno specificati
+* `data-bs-target` che deve corrsipondere all'*id* del *div* contenitore del menù da aprire/chiudere
+* `menuType`: *horizontal*, *vertical* o *sidebar*.
+
+
+## Menu Principale di navigazione
+Pur non essendo strettamente obbligatorio, quasi sempre ne serve uno.\
+Può essere **orizzontale**, **verticale** o **sidebar**.
+
+Il tipo va scelto in base al **numero di voci** che deve contenere e alla **quantità di informazioni da mostrare** a video.\
+I tre esempi che seguono servono a chiarire il concetto.
+
+### Menu Orizzontale
+Il menù orizzontale **occupa poco spazio**, ma può contenere solo pochi link.\
+Con i dropdown o i megamenù è possibile aumentarli, ma l'utente deve cliccare per vederli.
+
+Il menù scompare automaticamente sugli schermi medio-piccoli e nella Barra Istituzionale appare il bottone hamburger.
+
+<Canvas of={MenuPrincipaleStories.MenuOrizzontale} />
+
+### Menu Verticale
+Il menù verticale a comparsa è utile se le **voci di menù** sono **molto numerose**.\
+**Non occupa spazio**, quindi è adatto se anche le informazioni da mostrare a video sono molte, ma l'utente deve aprirlo e chiuderlo manualmente.
+
+In questo caso il BottoneHamburger è sempre presente nella Barra Istituzionale
+
+<Canvas of={MenuPrincipaleStories.MenuVerticaleComparsa} />
+
+### Menu Sidebar
+La sidebar permette di visualizzare **molte voci di menù immediatamente**, ma occupa spazio.\
+Quindi è opportuno utilizzarlo solo se la quantità di informazioni da mostrare contemporaneamente a video lo consente.
+
+La sidebar scompare automaticamente sugli schermi piccoli e nella Barra Istituzionale appare il bottone hamburger.\
+Quando viene riaperta si espande dall'alto verso il basso, appena sotto la Barra Istituzionale.
+
+<Canvas of={MenuPrincipaleStories.MenuSidebar} />
 

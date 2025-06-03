@@ -1,5 +1,6 @@
-import React, {FC, HTMLAttributes, useState } from 'react';
+import React, {FC, HTMLAttributes, ReactNode } from 'react';
 import { Button, Col, Container, Icon, Row } from '../../';
+import { BottoneHamburger } from './BottoneHamburger';
 
 export interface BarraIstituzionaleProps extends HTMLAttributes<HTMLElement> {
   /** Acronimo dell'applicativo */
@@ -10,24 +11,12 @@ export interface BarraIstituzionaleProps extends HTMLAttributes<HTMLElement> {
   search?: boolean;
   /** Bottone apertura/chiusura menù verticale **/
   hamburgerButton?: boolean;
-}
-
-function showVertMenu(show: boolean, id: string) {
-  const vMenu: (HTMLElement | null) = document.getElementById(id)
-  const opener: (HTMLElement | null) = document.getElementById("it25-btn-vmenu-opener")
-  const closer: (HTMLElement | null) = document.getElementById("it25-btn-vmenu-closer")
-  if (vMenu && opener && closer) {
-    if (show) {
-      vMenu.classList.add("show")
-      opener.classList.replace("d-block", "d-none")
-      closer.classList.replace("d-none", "d-block")
-    } else {
-      vMenu.classList.remove("show")
-      closer.classList.replace("d-block", "d-none")
-      opener.classList.replace("d-none", "d-block")
-    }
-    (document.activeElement as HTMLElement).blur()!
-  }
+  /** id del data-bs-target**/
+  data_bs_target?: string;
+  /** Tipo di menu che il bottone dve aprire **/
+  menuType?: "horizontal" | "vertical" | "sidebar" ;
+  /** Nodo per il menù verticale */
+  children?: ReactNode;
 }
 
 export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
@@ -35,12 +24,10 @@ export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
   applicationName,
   search = false,
   hamburgerButton = false,
+  data_bs_target,
+  menuType,
+  children = "",
 }) => {
-  const [openNav, setOpenNav] = useState(false);
-  const toggle = () => {
-    setOpenNav(!openNav)
-    showVertMenu(!openNav, "it25-main-nav");
-  };
   if (acronym == "") {
     acronym = applicationName
     applicationName = ""
@@ -48,31 +35,13 @@ export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
   let HamburgerButton;
   if (hamburgerButton) {
     HamburgerButton = (
-      <div className="it25-hamburger-btn-wrapper">
-        <button
-          id="btn-hamburger"
-          aria-controls="it25-main-nav"
-          aria-expanded="false"
-          aria-label="Apri menù"
-          className="btn btn-xs d-md-none"
-          data-bs-toggle="collapse"
-          data-bs-target="#it25-main-nav"
-          type="button"
-          onClick={toggle}
-        >
-          <Icon className="d-block" id="it25-btn-vmenu-opener"
-            color="primary"
-            icon="it-burger"
-          />
-          <Icon className="d-none" id="it25-btn-vmenu-closer"
-            color="primary"
-            icon="it-close-big"
-          />
-        </button>
-      </div>
+      <BottoneHamburger
+        menuType={menuType} data_bs_target={data_bs_target}
+      />
     );
   }
   return (
+    < >
     <div className="it-header-center-wrapper it25-barra-ist">
       <Container fluid>
         <Row>
@@ -91,6 +60,8 @@ export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
         </Row>
       </Container>
     </div>
+    {children}
+    </ >
   )
 };
 

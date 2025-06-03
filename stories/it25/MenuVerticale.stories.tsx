@@ -208,6 +208,11 @@ const _AnnidataWithHooks = () => {
 };
 
 export const Innestata: Story = {
+  parameters: {
+    docs: {
+      canvas: { sourceState: 'none' }
+    }
+  },
   render: () => <_AnnidataWithHooks/>
 };
 
