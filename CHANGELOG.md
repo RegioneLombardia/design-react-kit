@@ -1,6 +1,13 @@
+# [1.1.0](https://github.com/RegioneLombardia/design-react-kit/compare/v1.0.0...v1.1.0) (2025-06-04)
+
+### Features
+
+* Allineamento a versione 5.7.3 di design-react-kit italia
+* Allineamento a versione 2.5.3 di bootstrap-lombardia
+
 
 ---
-# Merge 5.6.0 -> 5.7.3 design-reat-kit italia - INIZIO
+# Merge 5.6.0 -> 5.7.3 design-react-kit italia - INIZIO
 
 ## [5.7.3](https://github.com/italia/design-react-kit/compare/v5.7.2...v5.7.3) (2025-05-16)
 
