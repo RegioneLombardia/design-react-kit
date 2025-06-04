@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/RegioneLombardia/design-react-kit/compare/v1.1.0...v1.1.1) (2025-06-04)
+
+
+### Bug Fixes
+
+* previously published npm version ([4785a78](https://github.com/RegioneLombardia/design-react-kit/commit/4785a787ac9027e3e905e1f78b1e3a1d064d7708))
+
+
+
 # [1.1.0](https://github.com/RegioneLombardia/design-react-kit/compare/v1.0.0...v1.1.0) (2025-06-04)
 
 ### Features
