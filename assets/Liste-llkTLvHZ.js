@@ -1,0 +1,77 @@
+import { j as jsxRuntimeExports } from "./jsx-runtime-85EhGj5b.js";
+import { useMDXComponents } from "./index-P7YjaiZ-.js";
+import { M as Meta, C as Canvas } from "./index-DoFZ2GT_.js";
+import { L as ListeStories, D as Default, S as SenzaDivider, C as ConHeader, N as Nested } from "./Liste.stories-DlSXAxba.js";
+import "./index-CkHlViRq.js";
+import "./_commonjsHelpers-CcAunmGO.js";
+import "./iframe-CkfUY0Fy.js";
+import "./index-CHqOcmVC.js";
+import "./index-rIQx-mDE.js";
+import "./index-9xAnpW0o.js";
+import "./index-BdOSk9or.js";
+import "./Collapse-DQ64-E85.js";
+import "./index-xoeSAV6i.js";
+import "./utils-o7gD2GSt.js";
+import "./Transition-DlYKBBR1.js";
+import "./Icon-F0eg8ks0.js";
+import "./LinkListItem-BXSHz39N.js";
+import "./track-focus-DbJ2CO43.js";
+function _createMdxContent(props) {
+  const _components = {
+    br: "br",
+    h1: "h1",
+    h2: "h2",
+    h3: "h3",
+    p: "p",
+    ...useMDXComponents(),
+    ...props.components
+  };
+  return jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, {
+    children: [jsxRuntimeExports.jsx(Meta, {
+      of: ListeStories
+    }), "\n", jsxRuntimeExports.jsx(_components.h1, {
+      id: "liste",
+      children: "Liste"
+    }), "\n", jsxRuntimeExports.jsxs(_components.p, {
+      children: ["Le Liste sono composte da voci attraverso le quali è possibile effettuare sessioni di navigazione all’interno di un’interfaccia.", jsxRuntimeExports.jsx(_components.br, {}), "\n", "Troviamo spesso questo elemento all’interno dei menu verticali, ma possono essere presenti in diverse modalità, come ad esempio all’interno di menu fissi laterali."]
+    }), "\n", jsxRuntimeExports.jsx(_components.h2, {
+      id: "base",
+      children: "Base"
+    }), "\n", jsxRuntimeExports.jsx(_components.h3, {
+      id: "default",
+      children: "Default"
+    }), "\n", jsxRuntimeExports.jsx(Canvas, {
+      of: Default
+    }), "\n", jsxRuntimeExports.jsx(_components.h3, {
+      id: "senza-divider",
+      children: "Senza divider"
+    }), "\n", jsxRuntimeExports.jsx(Canvas, {
+      of: SenzaDivider
+    }), "\n", jsxRuntimeExports.jsx(_components.h3, {
+      id: "con-header",
+      children: "Con Header"
+    }), "\n", jsxRuntimeExports.jsx(Canvas, {
+      of: ConHeader
+    }), "\n", jsxRuntimeExports.jsx(_components.h3, {
+      id: "nested",
+      children: "Nested"
+    }), "\n", jsxRuntimeExports.jsx(Canvas, {
+      of: Nested
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const { wrapper: MDXLayout } = {
+    ...useMDXComponents(),
+    ...props.components
+  };
+  return MDXLayout ? jsxRuntimeExports.jsx(MDXLayout, {
+    ...props,
+    children: jsxRuntimeExports.jsx(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+export {
+  MDXContent as default
+};
