@@ -1,4 +1,4 @@
-import { Meta, StoryObj } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react-vite';
 import React from 'react';
 import { Col, Row, LinkList, LinkListItem } from '../../src';
 import { Footer } from '../../src/it25/Footer/Footer';

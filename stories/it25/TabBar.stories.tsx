@@ -1,4 +1,4 @@
-import { Meta, StoryObj } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react-vite';
 import React, { useRef } from 'react';
 import { Icon, TabContainer, TabContent, TabNav, TabNavItem, TabNavLink, TabPane, Nav, UncontrolledTooltip } from '../../src';
 

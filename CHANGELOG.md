@@ -1,3 +1,48 @@
+
+---
+# Merge 5.8.0 -> 5.8.3 design-react-kit italia - INIZIO
+
+## [5.8.3](https://github.com/italia/design-react-kit/compare/v5.8.2...v5.8.3) (2025-07-15)
+
+* fix: initialize video player component only once ([1d95757](https://github.com/italia/design-react-kit/commit/1d95757))
+
+
+
+## [5.8.2](https://github.com/italia/design-react-kit/compare/v5.8.1...v5.8.2) (2025-06-28)
+
+* fix: upload image svg not found ([877db17](https://github.com/italia/design-react-kit/commit/877db17))
+
+
+
+## [5.8.1](https://github.com/italia/design-react-kit/compare/v5.8.0...v5.8.1) (2025-06-24)
+
+
+### Bug Fixes
+
+* **build:** asset drag n drop icon ([b5b0fd8](https://github.com/italia/design-react-kit/commit/b5b0fd8a26e8ef7d13bd235c7171e1d649c89bf1))
+* dropdown menu in header ([2d6588b](https://github.com/italia/design-react-kit/commit/2d6588b09d4f4c8d45dda2cecc416b00eeee12cf))
+
+
+
+# [5.8.0](https://github.com/italia/design-react-kit/compare/v5.7.3...v5.8.0) (2025-06-20)
+
+
+### Bug Fixes
+
+* put pagination form controls outside list ([419cded](https://github.com/italia/design-react-kit/commit/419cded94a8d13d6e7cdc48052c95f58ded98fb8))
+* remove useless pagination ul element ([66eeceb](https://github.com/italia/design-react-kit/commit/66eeceb4d2165739d522c7a846c23267af72b063))
+
+
+### Features
+
+* add upload component ([2798b78](https://github.com/italia/design-react-kit/commit/2798b7834ba44f54e0b82f0500e4a6ef598122b8))
+
+
+
+# Merge 5.8.0 -> 5.8.3 design-reat-kit italia - FINE
+---
+
+
 ## [1.1.1](https://github.com/RegioneLombardia/design-react-kit/compare/v1.1.0...v1.1.1) (2025-06-04)
 
 

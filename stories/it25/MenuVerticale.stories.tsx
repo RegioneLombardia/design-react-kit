@@ -1,4 +1,4 @@
-import { Meta, StoryObj } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react-vite';
 import React, { useState } from "react";
 import { Sidebar, LinkList, LinkListItem, Icon, Collapse } from "../../src";
 import { MenuVerticale } from '../../src/it25/MenuVerticale/MenuVerticale';

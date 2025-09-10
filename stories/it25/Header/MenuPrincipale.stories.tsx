@@ -1,4 +1,4 @@
-import { Meta, StoryObj } from '@storybook/react';
+import { Meta, StoryObj } from '@storybook/react-vite';
 import React from 'react';
 import { BarraIstituzionale } from '../../../src/it25/Header/BarraIstituzionale';
 import { TopBar } from '../../../src/it25/Header/TopBar';

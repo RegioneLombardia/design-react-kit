@@ -58,8 +58,8 @@ maintenance:
 name: Design React Kit Lombardia
 platforms:
   - web
-releaseDate: '2025-05-xx'
+releaseDate: '2025-09-10'
 roadmap: 'https://github.com/RegioneLombardia/design-react-kit/issues'
 softwareType: library
-softwareVersion: v1.1.0
+softwareVersion: v1.2.0
 url: 'https://github.com/RegioneLombardia/design-react-kit'

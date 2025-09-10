@@ -55,19 +55,19 @@
   padding: 1.25em;
 }
 
-.css-orh2az :where(p:not(.sb-anchor, .sb-unstyled, .sb-unstyled p, .small)) {
+.css-f0rcjj :where(p:not(.sb-anchor, .sb-unstyled, .sb-unstyled p, .small)) {
   font-size: 18px !important;
 }
-.css-orh2az :where(li:not(.sb-anchor, .sb-unstyled, .sb-unstyled li)) {
+.css-f0rcjj :where(li:not(.sb-anchor, .sb-unstyled, .sb-unstyled li)) {
   font-size: 18px !important;
 }
-.css-orh2az :where(div:not(.sb-anchor, .sb-unstyled, .sb-unstyled div)) {
+.css-f0rcjj :where(div:not(.sb-anchor, .sb-unstyled, .sb-unstyled div)) {
   font-size: 18px !important;
 }
-.css-orh2az :where(table:not(.sb-anchor, .sb-unstyled, .sb-unstyled table)) {
+.css-f0rcjj :where(table:not(.sb-anchor, .sb-unstyled, .sb-unstyled table)) {
   font-size: 18px !important;
 }
-.css-orh2az :where(a:not(.sb-anchor, .sb-unstyled, .sb-unstyled a)) {
+.css-f0rcjj :where(a:not(.sb-anchor, .sb-unstyled, .sb-unstyled a)) {
   text-decoration: underline !important;
 }
 
