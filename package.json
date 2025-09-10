@@ -34,6 +34,7 @@
     "dist",
     "src"
   ],
+  "homepage": "https://regionelombardia.github.io/design-react-kit/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RegioneLombardia/design-react-kit.git"
