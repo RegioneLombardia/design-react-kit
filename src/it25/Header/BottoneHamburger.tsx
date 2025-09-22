@@ -6,6 +6,10 @@ export interface BottoneHamburgerProps extends HTMLAttributes<HTMLElement> {
   data_bs_target?: string;
   /** Tipo di menu che il bottone deve aprire **/
   menuType?: "horizontal" | "vertical" | "sidebar" ;
+  /** Stato del menu a comparsa **/
+  isOpenSide?: boolean;
+  /** Funzione per il menu a comparsa **/
+  toggleMenu?: CallableFunction;
 }
 
 function showVertMenu(show: boolean, id: string) {
@@ -36,9 +40,11 @@ function setIcon(show: boolean) {
 export const BottoneHamburger: FC<BottoneHamburgerProps> = ({
   data_bs_target = "#it25-main-nav",
   menuType = "horizontal",
+  isOpenSide,
+  toggleMenu
 }) => {
   const aria_controls = data_bs_target.substring(1, data_bs_target.length);
-  const [openNav, setOpenNav] = useState(false);
+  const [openNav, setOpenNav] = useState(isOpenSide);
   const toggle = () => {
     setOpenNav(!openNav)
     if (menuType=='vertical') {
@@ -46,7 +52,11 @@ export const BottoneHamburger: FC<BottoneHamburgerProps> = ({
       setIcon(!openNav);
     }
     if (menuType=='sidebar') {
+      toggleMenu?.(!isOpenSide);
       setIcon(!openNav);
+    }
+    if (menuType=='horizontal') {
+      toggleMenu?.(!isOpenSide);
     }
   };
   let data_bs_toggle = "collapse";

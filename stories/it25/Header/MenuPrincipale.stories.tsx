@@ -1,5 +1,6 @@
+import React, { useState } from 'react';
+
 import { Meta, StoryObj } from '@storybook/react-vite';
-import React from 'react';
 import { BarraIstituzionale } from '../../../src/it25/Header/BarraIstituzionale';
 import { TopBar } from '../../../src/it25/Header/TopBar';
 import { MenuVerticale } from '../../../src/it25/MenuVerticale/MenuVerticale';
@@ -153,30 +154,92 @@ const _sidebar = () => {
         <LinkListItem href="#">
           <span>Lorem ipsum dolor</span>
         </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
+        <LinkListItem href="#">
+          <span>Lorem ipsum dolor</span>
+        </LinkListItem>
       </LinkList>
     </Sidebar>
   );
 };
 
 
-export const MenuOrizzontale: Story = {
-  render: ({ acronym, applicationName}) => (
-    < >
-      <header>
-        <TopBar />
-        <BarraIstituzionale acronym={acronym} applicationName={applicationName}
-            hamburgerButton={true} menuType="horizontal" data_bs_target="#nav1"
-        />
+const HorHeader = () => {
+  const [isOpenSide, setIsOpenSide] = useState(false);
+  const acronym = 'ACCREDITAS';
+  const applicationName = 'Sistema di accreditamento';
+  return (
+    <header>
+      <TopBar />
+      <BarraIstituzionale acronym={acronym} applicationName={applicationName}
+          hamburgerButton={true} menuType="horizontal" data_bs_target="#nav1" isOpenSide={isOpenSide} toggleMenu={setIsOpenSide}>
         <div className="it-header-navbar-wrapper theme-light-desk it25-menu-orizzontale">
           <Navbar expand="lg" className='has-megamenu'>
-            <Collapse navbar header megamenu id="nav1">
+            <Collapse navbar header megamenu id="nav1"
+              isOpen={isOpenSide}
+              onOverlayClick={() => {
+                setIsOpenSide(!isOpenSide);
+              }}
+            >
               <Nav navbar>
                 <_navItems/>
               </Nav>
             </Collapse>
           </Navbar>
         </div>
-      </header>
+      </BarraIstituzionale>
+    </header>
+  );
+};
+
+export const MenuOrizzontale: Story = {
+  render: ({ acronym, applicationName}) => (
+    < >
+      <HorHeader/>
       <main>
         <_mainContent/>
       </main>
@@ -185,24 +248,46 @@ export const MenuOrizzontale: Story = {
   )
 };
 
+
+const SideHeader = () => {
+  const [isOpenSide, setIsOpenSide] = useState(false);
+  const acronym = 'ACCREDITAS';
+  const applicationName = 'Sistema di accreditamento';
+  return (
+    <header>
+      <TopBar />
+      <BarraIstituzionale acronym={acronym} applicationName={applicationName}
+        hamburgerButton={true} menuType="sidebar" data_bs_target="#nav1" isOpenSide={isOpenSide} toggleMenu={setIsOpenSide}>
+        <div className="it-header-navbar-wrapper theme-light-desk">
+          <Collapse id="nav1"
+            isOpen={isOpenSide}
+            onOverlayClick={() => {
+              setIsOpenSide(!isOpenSide);
+            }}
+          >
+            <MenuVerticale>
+              <_sidebar/>
+            </MenuVerticale>
+          </Collapse>
+        </div>
+      </BarraIstituzionale>
+    </header>
+  );
+};
+
 export const MenuSidebar: Story = {
   render: ({ acronym, applicationName}) => (
     < >
-      <header>
-        <TopBar />
-        <BarraIstituzionale acronym={acronym} applicationName={applicationName}
-            hamburgerButton={true} menuType="sidebar" data_bs_target="#it25-main-nav"
-        />
-      </header>
+      <SideHeader/>
       <main>
         <Container fluid>
           <Row className="flex-xl-nowrap">
-            <Col xs={12} md={3}>
+            <Col md={4} lg={3} xxl={2}>
               <MenuVerticale className="collapse">
                 <_sidebar/>
               </MenuVerticale>
             </Col>
-            <Col xs={12} md={9} className="p-3">
+            <Col xs={12} md={8} lg={9} xxl={10} className="p-3">
               <ResponsiveImage
                 alt="Alternative Text"
                 src="img/bike-sharing.jpg"
@@ -238,3 +323,5 @@ export const MenuVerticaleComparsa: Story = {
     </ >
   )
 };
+
+

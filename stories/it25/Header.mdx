@@ -77,6 +77,38 @@ Il menù scompare automaticamente sugli schermi medio-piccoli e nella Barra Isti
 
 <Canvas of={MenuPrincipaleStories.MenuOrizzontale} />
 
+```tsx
+const HorHeader = () => {
+  const [isOpenSide, setIsOpenSide] = useState(false);
+  const acronym = 'ACCREDITAS';
+  const applicationName = 'Sistema di accreditamento';
+  return (
+    <header>
+      <TopBar />
+      <BarraIstituzionale acronym={acronym} applicationName={applicationName}
+          hamburgerButton={true} menuType="horizontal" data_bs_target="#nav1"
+          isOpenSide={isOpenSide} toggleMenu={setIsOpenSide}>
+        <div className="it-header-navbar-wrapper theme-light-desk it25-menu-orizzontale">
+          <Navbar expand="lg" className='has-megamenu'>
+            <Collapse navbar header megamenu id="nav1"
+              isOpen={isOpenSide}
+              onOverlayClick={() => {
+                setIsOpenSide(!isOpenSide);
+              }}
+            >
+              <Nav navbar>
+                <_navItems/>
+              </Nav>
+            </Collapse>
+          </Navbar>
+        </div>
+      </BarraIstituzionale>
+    </header>
+  );
+};
+```
+
+
 ### Menu Verticale
 Il menù verticale a comparsa è utile se le **voci di menù** sono **molto numerose**.\
 **Non occupa spazio**, quindi è adatto se anche le informazioni da mostrare a video sono molte, ma l'utente deve aprirlo e chiuderlo manualmente.
@@ -84,6 +116,7 @@ Il menù verticale a comparsa è utile se le **voci di menù** sono **molto nume
 In questo caso il BottoneHamburger è sempre presente nella Barra Istituzionale
 
 <Canvas of={MenuPrincipaleStories.MenuVerticaleComparsa} />
+
 
 ### Menu Sidebar
 La sidebar permette di visualizzare **molte voci di menù immediatamente**, ma occupa spazio.\
@@ -94,3 +127,31 @@ Quando viene riaperta si espande dall'alto verso il basso, appena sotto la Barra
 
 <Canvas of={MenuPrincipaleStories.MenuSidebar} />
 
+```tsx
+const SideHeader = () => {
+  const [isOpenSide, setIsOpenSide] = useState(false);
+  const acronym = 'ACCREDITAS';
+  const applicationName = 'Sistema di accreditamento';
+  return (
+    <header>
+      <TopBar />
+      <BarraIstituzionale acronym={acronym} applicationName={applicationName}
+        hamburgerButton={true} menuType="sidebar" data_bs_target="#nav1"
+        isOpenSide={isOpenSide} toggleMenu={setIsOpenSide}>
+        <div className="it-header-navbar-wrapper theme-light-desk">
+          <Collapse id="nav1"
+            isOpen={isOpenSide}
+            onOverlayClick={() => {
+              setIsOpenSide(!isOpenSide);
+            }}
+          >
+            <MenuVerticale>
+              <_sidebar/>
+            </MenuVerticale>
+          </Collapse>
+        </div>
+      </BarraIstituzionale>
+    </header>
+  );
+};
+```

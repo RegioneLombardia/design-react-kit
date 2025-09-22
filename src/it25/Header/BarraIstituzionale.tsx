@@ -13,6 +13,10 @@ export interface BarraIstituzionaleProps extends HTMLAttributes<HTMLElement> {
   hamburgerButton?: boolean;
   /** id del data-bs-target**/
   data_bs_target?: string;
+  /** Stato del menu a comparsa **/
+  isOpenSide?: boolean;
+  /** Funzione per il menu a comparsa **/
+  toggleMenu?: CallableFunction;
   /** Tipo di menu che il bottone dve aprire **/
   menuType?: "horizontal" | "vertical" | "sidebar" ;
   /** Nodo per il menù verticale */
@@ -25,6 +29,8 @@ export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
   search = false,
   hamburgerButton = false,
   data_bs_target,
+  isOpenSide = false,
+  toggleMenu,
   menuType,
   children = "",
 }) => {
@@ -36,7 +42,7 @@ export const BarraIstituzionale: FC<BarraIstituzionaleProps> = ({
   if (hamburgerButton) {
     HamburgerButton = (
       <BottoneHamburger
-        menuType={menuType} data_bs_target={data_bs_target}
+        menuType={menuType} data_bs_target={data_bs_target} isOpenSide={isOpenSide} toggleMenu={toggleMenu}
       />
     );
   }
