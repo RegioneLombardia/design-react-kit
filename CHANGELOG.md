@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/RegioneLombardia/design-react-kit/compare/v1.2.0...v1.2.1) (2025-09-23)
+
+
+### Bug Fixes
+
+* BottoneHamburger production environment ([b627be6](https://github.com/RegioneLombardia/design-react-kit/commit/b627be6a6ffa911e3e73ac377981959e8cacc36f))
+
+
+
 # [1.2.0](https://github.com/RegioneLombardia/design-react-kit/compare/v1.1.1...v1.2.0) (2025-09-11)
 
 ### Features
