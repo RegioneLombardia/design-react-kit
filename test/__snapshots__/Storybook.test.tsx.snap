@@ -16968,12 +16968,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rc:-tabpane-1"
+          aria-controls="react-aria9685917329-:rc:-tabpane-1"
           aria-selected="true"
           class="nav-link active"
           data-rr-ui-event-key="1"
           href="#"
-          id="react-aria775687664-:rc:-tab-1"
+          id="react-aria9685917329-:rc:-tab-1"
           role="tab"
           tabindex="0"
         >
@@ -16985,12 +16985,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rc:-tabpane-2"
+          aria-controls="react-aria9685917329-:rc:-tabpane-2"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="2"
           href="#"
-          id="react-aria775687664-:rc:-tab-2"
+          id="react-aria9685917329-:rc:-tab-2"
           role="tab"
           tabindex="-1"
         >
@@ -17002,12 +17002,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rc:-tabpane-3"
+          aria-controls="react-aria9685917329-:rc:-tabpane-3"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="3"
           href="#"
-          id="react-aria775687664-:rc:-tab-3"
+          id="react-aria9685917329-:rc:-tab-3"
           role="tab"
           tabindex="-1"
         >
@@ -17019,12 +17019,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rc:-tabpane-4"
+          aria-controls="react-aria9685917329-:rc:-tabpane-4"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="4"
           href="#"
-          id="react-aria775687664-:rc:-tab-4"
+          id="react-aria9685917329-:rc:-tab-4"
           role="tab"
           tabindex="-1"
         >
@@ -17036,12 +17036,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rc:-tabpane-5"
+          aria-controls="react-aria9685917329-:rc:-tabpane-5"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="5"
           href="#"
-          id="react-aria775687664-:rc:-tab-5"
+          id="react-aria9685917329-:rc:-tab-5"
           role="tab"
           tabindex="-1"
         >
@@ -17053,12 +17053,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rc:-tabpane-6"
+          aria-controls="react-aria9685917329-:rc:-tabpane-6"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="6"
           href="#"
-          id="react-aria775687664-:rc:-tab-6"
+          id="react-aria9685917329-:rc:-tab-6"
           role="tab"
           tabindex="-1"
         >
@@ -17070,12 +17070,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rc:-tabpane-7"
+          aria-controls="react-aria9685917329-:rc:-tabpane-7"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="7"
           href="#"
-          id="react-aria775687664-:rc:-tab-7"
+          id="react-aria9685917329-:rc:-tab-7"
           role="tab"
           tabindex="-1"
         >
@@ -17087,12 +17087,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rc:-tabpane-8"
+          aria-controls="react-aria9685917329-:rc:-tabpane-8"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="8"
           href="#"
-          id="react-aria775687664-:rc:-tab-8"
+          id="react-aria9685917329-:rc:-tab-8"
           role="tab"
           tabindex="-1"
         >
@@ -17115,12 +17115,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Icona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r9:-tabpane-1"
+        aria-controls="react-aria9685917329-:r9:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r9:-tab-1"
+        id="react-aria9685917329-:r9:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -17150,12 +17150,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Icona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r9:-tabpane-2"
+        aria-controls="react-aria9685917329-:r9:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r9:-tab-2"
+        id="react-aria9685917329-:r9:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -17185,12 +17185,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Icona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r9:-tabpane-3"
+        aria-controls="react-aria9685917329-:r9:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r9:-tab-3"
+        id="react-aria9685917329-:r9:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -17220,12 +17220,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Icona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r9:-tabpane-4"
+        aria-controls="react-aria9685917329-:r9:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r9:-tab-4"
+        id="react-aria9685917329-:r9:-tab-4"
         role="tab"
       >
         <span>
@@ -17264,12 +17264,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r5:-tabpane-1"
+        aria-controls="react-aria9685917329-:r5:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r5:-tab-1"
+        id="react-aria9685917329-:r5:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -17299,12 +17299,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r5:-tabpane-2"
+        aria-controls="react-aria9685917329-:r5:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r5:-tab-2"
+        id="react-aria9685917329-:r5:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -17334,12 +17334,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r5:-tabpane-3"
+        aria-controls="react-aria9685917329-:r5:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r5:-tab-3"
+        id="react-aria9685917329-:r5:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -17369,12 +17369,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r5:-tabpane-4"
+        aria-controls="react-aria9685917329-:r5:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r5:-tab-4"
+        id="react-aria9685917329-:r5:-tab-4"
         role="tab"
       >
         <span>
@@ -17413,12 +17413,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrande 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:ra:-tabpane-1"
+        aria-controls="react-aria9685917329-:ra:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:ra:-tab-1"
+        id="react-aria9685917329-:ra:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -17448,12 +17448,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrande 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:ra:-tabpane-2"
+        aria-controls="react-aria9685917329-:ra:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:ra:-tab-2"
+        id="react-aria9685917329-:ra:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -17483,12 +17483,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrande 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:ra:-tabpane-3"
+        aria-controls="react-aria9685917329-:ra:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:ra:-tab-3"
+        id="react-aria9685917329-:ra:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -17518,12 +17518,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrande 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:ra:-tabpane-4"
+        aria-controls="react-aria9685917329-:ra:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:ra:-tab-4"
+        id="react-aria9685917329-:ra:-tab-4"
         role="tab"
       >
         <span>
@@ -17562,12 +17562,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r6:-tabpane-1"
+        aria-controls="react-aria9685917329-:r6:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r6:-tab-1"
+        id="react-aria9685917329-:r6:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -17597,12 +17597,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r6:-tabpane-2"
+        aria-controls="react-aria9685917329-:r6:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r6:-tab-2"
+        id="react-aria9685917329-:r6:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -17632,12 +17632,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r6:-tabpane-3"
+        aria-controls="react-aria9685917329-:r6:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r6:-tab-3"
+        id="react-aria9685917329-:r6:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -17667,12 +17667,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r6:-tabpane-4"
+        aria-controls="react-aria9685917329-:r6:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r6:-tab-4"
+        id="react-aria9685917329-:r6:-tab-4"
         role="tab"
       >
         <span>
@@ -17711,12 +17711,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rf:-tabpane-1"
+        aria-controls="react-aria9685917329-:rf:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:rf:-tab-1"
+        id="react-aria9685917329-:rf:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -17746,12 +17746,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rf:-tabpane-2"
+        aria-controls="react-aria9685917329-:rf:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:rf:-tab-2"
+        id="react-aria9685917329-:rf:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -17781,12 +17781,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rf:-tabpane-3"
+        aria-controls="react-aria9685917329-:rf:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:rf:-tab-3"
+        id="react-aria9685917329-:rf:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -17816,12 +17816,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rf:-tabpane-4"
+        aria-controls="react-aria9685917329-:rf:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:rf:-tab-4"
+        id="react-aria9685917329-:rf:-tab-4"
         role="tab"
       >
         <span>
@@ -17850,33 +17850,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria775687664-:rf:-tab-1"
+      aria-labelledby="react-aria9685917329-:rf:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria775687664-:rf:-tabpane-1"
+      id="react-aria9685917329-:rf:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rf:-tab-2"
+      aria-labelledby="react-aria9685917329-:rf:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rf:-tabpane-2"
+      id="react-aria9685917329-:rf:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rf:-tab-3"
+      aria-labelledby="react-aria9685917329-:rf:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rf:-tabpane-3"
+      id="react-aria9685917329-:rf:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rf:-tab-4"
+      aria-labelledby="react-aria9685917329-:rf:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rf:-tabpane-4"
+      id="react-aria9685917329-:rf:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -17896,12 +17896,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:re:-tabpane-1"
+        aria-controls="react-aria9685917329-:re:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:re:-tab-1"
+        id="react-aria9685917329-:re:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -17931,12 +17931,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:re:-tabpane-2"
+        aria-controls="react-aria9685917329-:re:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:re:-tab-2"
+        id="react-aria9685917329-:re:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -17966,12 +17966,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:re:-tabpane-3"
+        aria-controls="react-aria9685917329-:re:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:re:-tab-3"
+        id="react-aria9685917329-:re:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -18001,12 +18001,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:re:-tabpane-4"
+        aria-controls="react-aria9685917329-:re:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:re:-tab-4"
+        id="react-aria9685917329-:re:-tab-4"
         role="tab"
       >
         <span>
@@ -18035,33 +18035,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria775687664-:re:-tab-1"
+      aria-labelledby="react-aria9685917329-:re:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria775687664-:re:-tabpane-1"
+      id="react-aria9685917329-:re:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria775687664-:re:-tab-2"
+      aria-labelledby="react-aria9685917329-:re:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:re:-tabpane-2"
+      id="react-aria9685917329-:re:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria775687664-:re:-tab-3"
+      aria-labelledby="react-aria9685917329-:re:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:re:-tabpane-3"
+      id="react-aria9685917329-:re:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria775687664-:re:-tab-4"
+      aria-labelledby="react-aria9685917329-:re:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:re:-tabpane-4"
+      id="react-aria9685917329-:re:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -18081,12 +18081,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIcona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rb:-tabpane-1"
+        aria-controls="react-aria9685917329-:rb:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:rb:-tab-1"
+        id="react-aria9685917329-:rb:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -18110,12 +18110,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIcona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rb:-tabpane-2"
+        aria-controls="react-aria9685917329-:rb:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:rb:-tab-2"
+        id="react-aria9685917329-:rb:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -18139,12 +18139,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIcona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rb:-tabpane-3"
+        aria-controls="react-aria9685917329-:rb:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:rb:-tab-3"
+        id="react-aria9685917329-:rb:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -18168,12 +18168,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIcona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rb:-tabpane-4"
+        aria-controls="react-aria9685917329-:rb:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:rb:-tab-4"
+        id="react-aria9685917329-:rb:-tab-4"
         role="tab"
       >
         <svg
@@ -18206,12 +18206,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r7:-tabpane-1"
+        aria-controls="react-aria9685917329-:r7:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r7:-tab-1"
+        id="react-aria9685917329-:r7:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -18235,12 +18235,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r7:-tabpane-2"
+        aria-controls="react-aria9685917329-:r7:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r7:-tab-2"
+        id="react-aria9685917329-:r7:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -18264,12 +18264,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r7:-tabpane-3"
+        aria-controls="react-aria9685917329-:r7:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r7:-tab-3"
+        id="react-aria9685917329-:r7:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -18293,12 +18293,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r7:-tabpane-4"
+        aria-controls="react-aria9685917329-:r7:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r7:-tab-4"
+        id="react-aria9685917329-:r7:-tab-4"
         role="tab"
       >
         <svg
@@ -18331,12 +18331,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFullDark 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:ro:-tabpane-1"
+        aria-controls="react-aria9685917329-:ro:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:ro:-tab-1"
+        id="react-aria9685917329-:ro:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -18360,12 +18360,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFullDark 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:ro:-tabpane-2"
+        aria-controls="react-aria9685917329-:ro:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:ro:-tab-2"
+        id="react-aria9685917329-:ro:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -18389,12 +18389,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFullDark 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:ro:-tabpane-3"
+        aria-controls="react-aria9685917329-:ro:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:ro:-tab-3"
+        id="react-aria9685917329-:ro:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -18418,12 +18418,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFullDark 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:ro:-tabpane-4"
+        aria-controls="react-aria9685917329-:ro:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:ro:-tab-4"
+        id="react-aria9685917329-:ro:-tab-4"
         role="tab"
       >
         <svg
@@ -18456,12 +18456,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rg:-tabpane-1"
+        aria-controls="react-aria9685917329-:rg:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:rg:-tab-1"
+        id="react-aria9685917329-:rg:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -18485,12 +18485,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rg:-tabpane-2"
+        aria-controls="react-aria9685917329-:rg:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:rg:-tab-2"
+        id="react-aria9685917329-:rg:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -18514,12 +18514,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rg:-tabpane-3"
+        aria-controls="react-aria9685917329-:rg:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:rg:-tab-3"
+        id="react-aria9685917329-:rg:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -18543,12 +18543,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rg:-tabpane-4"
+        aria-controls="react-aria9685917329-:rg:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:rg:-tab-4"
+        id="react-aria9685917329-:rg:-tab-4"
         role="tab"
       >
         <svg
@@ -18571,33 +18571,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria775687664-:rg:-tab-1"
+      aria-labelledby="react-aria9685917329-:rg:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria775687664-:rg:-tabpane-1"
+      id="react-aria9685917329-:rg:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rg:-tab-2"
+      aria-labelledby="react-aria9685917329-:rg:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rg:-tabpane-2"
+      id="react-aria9685917329-:rg:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rg:-tab-3"
+      aria-labelledby="react-aria9685917329-:rg:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rg:-tabpane-3"
+      id="react-aria9685917329-:rg:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rg:-tab-4"
+      aria-labelledby="react-aria9685917329-:rg:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rg:-tabpane-4"
+      id="react-aria9685917329-:rg:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -18623,12 +18623,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rj:-tabpane-1"
+            aria-controls="react-aria9685917329-:rj:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria775687664-:rj:-tab-1"
+            id="react-aria9685917329-:rj:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -18652,12 +18652,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rj:-tabpane-2"
+            aria-controls="react-aria9685917329-:rj:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria775687664-:rj:-tab-2"
+            id="react-aria9685917329-:rj:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -18681,12 +18681,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rj:-tabpane-3"
+            aria-controls="react-aria9685917329-:rj:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria775687664-:rj:-tab-3"
+            id="react-aria9685917329-:rj:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -18710,12 +18710,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rj:-tabpane-4"
+            aria-controls="react-aria9685917329-:rj:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria775687664-:rj:-tab-4"
+            id="react-aria9685917329-:rj:-tab-4"
             role="tab"
           >
             Tab 4
@@ -18742,33 +18742,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria775687664-:rj:-tab-1"
+          aria-labelledby="react-aria9685917329-:rj:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria775687664-:rj:-tabpane-1"
+          id="react-aria9685917329-:rj:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rj:-tab-2"
+          aria-labelledby="react-aria9685917329-:rj:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rj:-tabpane-2"
+          id="react-aria9685917329-:rj:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rj:-tab-3"
+          aria-labelledby="react-aria9685917329-:rj:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rj:-tabpane-3"
+          id="react-aria9685917329-:rj:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rj:-tab-4"
+          aria-labelledby="react-aria9685917329-:rj:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rj:-tabpane-4"
+          id="react-aria9685917329-:rj:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -18796,12 +18796,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rp:-tabpane-1"
+            aria-controls="react-aria9685917329-:rp:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria775687664-:rp:-tab-1"
+            id="react-aria9685917329-:rp:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -18825,12 +18825,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rp:-tabpane-2"
+            aria-controls="react-aria9685917329-:rp:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria775687664-:rp:-tab-2"
+            id="react-aria9685917329-:rp:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -18854,12 +18854,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rp:-tabpane-3"
+            aria-controls="react-aria9685917329-:rp:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria775687664-:rp:-tab-3"
+            id="react-aria9685917329-:rp:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -18883,12 +18883,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rp:-tabpane-4"
+            aria-controls="react-aria9685917329-:rp:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria775687664-:rp:-tab-4"
+            id="react-aria9685917329-:rp:-tab-4"
             role="tab"
           >
             Tab 4
@@ -18915,33 +18915,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria775687664-:rp:-tab-1"
+          aria-labelledby="react-aria9685917329-:rp:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria775687664-:rp:-tabpane-1"
+          id="react-aria9685917329-:rp:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rp:-tab-2"
+          aria-labelledby="react-aria9685917329-:rp:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rp:-tabpane-2"
+          id="react-aria9685917329-:rp:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rp:-tab-3"
+          aria-labelledby="react-aria9685917329-:rp:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rp:-tabpane-3"
+          id="react-aria9685917329-:rp:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rp:-tab-4"
+          aria-labelledby="react-aria9685917329-:rp:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rp:-tabpane-4"
+          id="react-aria9685917329-:rp:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -18969,12 +18969,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rk:-tabpane-1"
+            aria-controls="react-aria9685917329-:rk:-tabpane-1"
             aria-selected="true"
             class="justify-content-end nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria775687664-:rk:-tab-1"
+            id="react-aria9685917329-:rk:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -19002,12 +19002,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rk:-tabpane-2"
+            aria-controls="react-aria9685917329-:rk:-tabpane-2"
             aria-selected="false"
             class="justify-content-end nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria775687664-:rk:-tab-2"
+            id="react-aria9685917329-:rk:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -19035,12 +19035,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rk:-tabpane-3"
+            aria-controls="react-aria9685917329-:rk:-tabpane-3"
             aria-selected="false"
             class="justify-content-end nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria775687664-:rk:-tab-3"
+            id="react-aria9685917329-:rk:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -19068,12 +19068,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rk:-tabpane-4"
+            aria-controls="react-aria9685917329-:rk:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="justify-content-end nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria775687664-:rk:-tab-4"
+            id="react-aria9685917329-:rk:-tab-4"
             role="tab"
           >
             <span
@@ -19104,33 +19104,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria775687664-:rk:-tab-1"
+          aria-labelledby="react-aria9685917329-:rk:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria775687664-:rk:-tabpane-1"
+          id="react-aria9685917329-:rk:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rk:-tab-2"
+          aria-labelledby="react-aria9685917329-:rk:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rk:-tabpane-2"
+          id="react-aria9685917329-:rk:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rk:-tab-3"
+          aria-labelledby="react-aria9685917329-:rk:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rk:-tabpane-3"
+          id="react-aria9685917329-:rk:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rk:-tab-4"
+          aria-labelledby="react-aria9685917329-:rk:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rk:-tabpane-4"
+          id="react-aria9685917329-:rk:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -19152,12 +19152,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Testuale 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r8:-tabpane-1"
+        aria-controls="react-aria9685917329-:r8:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r8:-tab-1"
+        id="react-aria9685917329-:r8:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -19169,12 +19169,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Testuale 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r8:-tabpane-2"
+        aria-controls="react-aria9685917329-:r8:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r8:-tab-2"
+        id="react-aria9685917329-:r8:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -19186,12 +19186,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Testuale 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r8:-tabpane-3"
+        aria-controls="react-aria9685917329-:r8:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r8:-tab-3"
+        id="react-aria9685917329-:r8:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -19203,12 +19203,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Testuale 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r8:-tabpane-4"
+        aria-controls="react-aria9685917329-:r8:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r8:-tab-4"
+        id="react-aria9685917329-:r8:-tab-4"
         role="tab"
       >
         Disattivo
@@ -19229,12 +19229,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r4:-tabpane-1"
+        aria-controls="react-aria9685917329-:r4:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r4:-tab-1"
+        id="react-aria9685917329-:r4:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -19246,12 +19246,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r4:-tabpane-2"
+        aria-controls="react-aria9685917329-:r4:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r4:-tab-2"
+        id="react-aria9685917329-:r4:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -19263,12 +19263,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r4:-tabpane-3"
+        aria-controls="react-aria9685917329-:r4:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r4:-tab-3"
+        id="react-aria9685917329-:r4:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -19280,12 +19280,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r4:-tabpane-4"
+        aria-controls="react-aria9685917329-:r4:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r4:-tab-4"
+        id="react-aria9685917329-:r4:-tab-4"
         role="tab"
       >
         Disattivo
@@ -19306,12 +19306,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFullDark 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rn:-tabpane-1"
+        aria-controls="react-aria9685917329-:rn:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:rn:-tab-1"
+        id="react-aria9685917329-:rn:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -19323,12 +19323,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFullDark 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rn:-tabpane-2"
+        aria-controls="react-aria9685917329-:rn:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:rn:-tab-2"
+        id="react-aria9685917329-:rn:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -19340,12 +19340,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFullDark 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rn:-tabpane-3"
+        aria-controls="react-aria9685917329-:rn:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:rn:-tab-3"
+        id="react-aria9685917329-:rn:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -19357,12 +19357,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFullDark 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rn:-tabpane-4"
+        aria-controls="react-aria9685917329-:rn:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:rn:-tab-4"
+        id="react-aria9685917329-:rn:-tab-4"
         role="tab"
       >
         Disattivo
@@ -19383,12 +19383,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rd:-tabpane-1"
+        aria-controls="react-aria9685917329-:rd:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:rd:-tab-1"
+        id="react-aria9685917329-:rd:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -19400,12 +19400,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rd:-tabpane-2"
+        aria-controls="react-aria9685917329-:rd:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:rd:-tab-2"
+        id="react-aria9685917329-:rd:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -19417,12 +19417,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rd:-tabpane-3"
+        aria-controls="react-aria9685917329-:rd:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:rd:-tab-3"
+        id="react-aria9685917329-:rd:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -19434,12 +19434,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rd:-tabpane-4"
+        aria-controls="react-aria9685917329-:rd:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:rd:-tab-4"
+        id="react-aria9685917329-:rd:-tab-4"
         role="tab"
       >
         Disattivo
@@ -19450,33 +19450,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria775687664-:rd:-tab-1"
+      aria-labelledby="react-aria9685917329-:rd:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria775687664-:rd:-tabpane-1"
+      id="react-aria9685917329-:rd:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rd:-tab-2"
+      aria-labelledby="react-aria9685917329-:rd:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rd:-tabpane-2"
+      id="react-aria9685917329-:rd:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rd:-tab-3"
+      aria-labelledby="react-aria9685917329-:rd:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rd:-tabpane-3"
+      id="react-aria9685917329-:rd:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rd:-tab-4"
+      aria-labelledby="react-aria9685917329-:rd:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rd:-tabpane-4"
+      id="react-aria9685917329-:rd:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -19496,12 +19496,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rr:-tabpane-1"
+        aria-controls="react-aria9685917329-:rr:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:rr:-tab-1"
+        id="react-aria9685917329-:rr:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -19513,12 +19513,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rr:-tabpane-2"
+        aria-controls="react-aria9685917329-:rr:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:rr:-tab-2"
+        id="react-aria9685917329-:rr:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -19530,12 +19530,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rr:-tabpane-3"
+        aria-controls="react-aria9685917329-:rr:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:rr:-tab-3"
+        id="react-aria9685917329-:rr:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -19547,12 +19547,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:rr:-tabpane-4"
+        aria-controls="react-aria9685917329-:rr:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:rr:-tab-4"
+        id="react-aria9685917329-:rr:-tab-4"
         role="tab"
       >
         Disattivo
@@ -19563,33 +19563,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria775687664-:rr:-tab-1"
+      aria-labelledby="react-aria9685917329-:rr:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria775687664-:rr:-tabpane-1"
+      id="react-aria9685917329-:rr:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rr:-tab-2"
+      aria-labelledby="react-aria9685917329-:rr:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rr:-tabpane-2"
+      id="react-aria9685917329-:rr:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rr:-tab-3"
+      aria-labelledby="react-aria9685917329-:rr:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rr:-tabpane-3"
+      id="react-aria9685917329-:rr:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rr:-tab-4"
+      aria-labelledby="react-aria9685917329-:rr:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rr:-tabpane-4"
+      id="react-aria9685917329-:rr:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -19612,12 +19612,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rs:-tabpane-1"
+          aria-controls="react-aria9685917329-:rs:-tabpane-1"
           aria-selected="true"
           class="nav-link active"
           data-rr-ui-event-key="1"
           href="#"
-          id="react-aria775687664-:rs:-tab-1"
+          id="react-aria9685917329-:rs:-tab-1"
           role="tab"
           tabindex="0"
         >
@@ -19650,12 +19650,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rs:-tabpane-2"
+          aria-controls="react-aria9685917329-:rs:-tabpane-2"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="2"
           href="#"
-          id="react-aria775687664-:rs:-tab-2"
+          id="react-aria9685917329-:rs:-tab-2"
           role="tab"
           tabindex="-1"
         >
@@ -19688,12 +19688,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rs:-tabpane-3"
+          aria-controls="react-aria9685917329-:rs:-tabpane-3"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="3"
           href="#"
-          id="react-aria775687664-:rs:-tab-3"
+          id="react-aria9685917329-:rs:-tab-3"
           role="tab"
           tabindex="-1"
         >
@@ -19726,12 +19726,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rs:-tabpane-4"
+          aria-controls="react-aria9685917329-:rs:-tabpane-4"
           aria-disabled="true"
           aria-selected="false"
           class="nav-link disabled"
           data-rr-ui-event-key="4"
-          id="react-aria775687664-:rs:-tab-4"
+          id="react-aria9685917329-:rs:-tab-4"
           role="tab"
         >
           Disattivo
@@ -19781,33 +19781,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria775687664-:rs:-tab-1"
+      aria-labelledby="react-aria9685917329-:rs:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria775687664-:rs:-tabpane-1"
+      id="react-aria9685917329-:rs:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rs:-tab-2"
+      aria-labelledby="react-aria9685917329-:rs:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rs:-tabpane-2"
+      id="react-aria9685917329-:rs:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rs:-tab-3"
+      aria-labelledby="react-aria9685917329-:rs:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rs:-tabpane-3"
+      id="react-aria9685917329-:rs:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria775687664-:rs:-tab-4"
+      aria-labelledby="react-aria9685917329-:rs:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:rs:-tabpane-4"
+      id="react-aria9685917329-:rs:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -19830,12 +19830,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rl:-tabpane-1"
+          aria-controls="react-aria9685917329-:rl:-tabpane-1"
           aria-selected="true"
           class="nav-link active"
           data-rr-ui-event-key="1"
           href="#"
-          id="react-aria775687664-:rl:-tab-1"
+          id="react-aria9685917329-:rl:-tab-1"
           role="tab"
           tabindex="0"
         >
@@ -19847,12 +19847,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rl:-tabpane-2"
+          aria-controls="react-aria9685917329-:rl:-tabpane-2"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="2"
           href="#"
-          id="react-aria775687664-:rl:-tab-2"
+          id="react-aria9685917329-:rl:-tab-2"
           role="tab"
           tabindex="-1"
         >
@@ -19864,12 +19864,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rl:-tabpane-3"
+          aria-controls="react-aria9685917329-:rl:-tabpane-3"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="3"
           href="#"
-          id="react-aria775687664-:rl:-tab-3"
+          id="react-aria9685917329-:rl:-tab-3"
           role="tab"
           tabindex="-1"
         >
@@ -19881,12 +19881,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
         role="presentation"
       >
         <a
-          aria-controls="react-aria775687664-:rl:-tabpane-4"
+          aria-controls="react-aria9685917329-:rl:-tabpane-4"
           aria-disabled="true"
           aria-selected="false"
           class="nav-link disabled"
           data-rr-ui-event-key="4"
-          id="react-aria775687664-:rl:-tab-4"
+          id="react-aria9685917329-:rl:-tab-4"
           role="tab"
         >
           Disattivo
@@ -19897,33 +19897,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
       class="tab-content"
     >
       <div
-        aria-labelledby="react-aria775687664-:rl:-tab-1"
+        aria-labelledby="react-aria9685917329-:rl:-tab-1"
         class="fade p-4 tab-pane active show"
-        id="react-aria775687664-:rl:-tabpane-1"
+        id="react-aria9685917329-:rl:-tabpane-1"
         role="tabpanel"
       >
         Contenuto 1
       </div>
       <div
-        aria-labelledby="react-aria775687664-:rl:-tab-2"
+        aria-labelledby="react-aria9685917329-:rl:-tab-2"
         class="fade p-4 tab-pane"
-        id="react-aria775687664-:rl:-tabpane-2"
+        id="react-aria9685917329-:rl:-tabpane-2"
         role="tabpanel"
       >
         Contenuto 2
       </div>
       <div
-        aria-labelledby="react-aria775687664-:rl:-tab-3"
+        aria-labelledby="react-aria9685917329-:rl:-tab-3"
         class="fade p-4 tab-pane"
-        id="react-aria775687664-:rl:-tabpane-3"
+        id="react-aria9685917329-:rl:-tabpane-3"
         role="tabpanel"
       >
         Contenuto 3
       </div>
       <div
-        aria-labelledby="react-aria775687664-:rl:-tab-4"
+        aria-labelledby="react-aria9685917329-:rl:-tab-4"
         class="fade p-4 tab-pane"
-        id="react-aria775687664-:rl:-tabpane-4"
+        id="react-aria9685917329-:rl:-tabpane-4"
         role="tabpanel"
       >
         Contenuto 4
@@ -19950,12 +19950,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rm:-tabpane-1"
+            aria-controls="react-aria9685917329-:rm:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria775687664-:rm:-tab-1"
+            id="react-aria9685917329-:rm:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -19967,12 +19967,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rm:-tabpane-2"
+            aria-controls="react-aria9685917329-:rm:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria775687664-:rm:-tab-2"
+            id="react-aria9685917329-:rm:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -19984,12 +19984,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rm:-tabpane-3"
+            aria-controls="react-aria9685917329-:rm:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria775687664-:rm:-tab-3"
+            id="react-aria9685917329-:rm:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -20001,12 +20001,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rm:-tabpane-4"
+            aria-controls="react-aria9685917329-:rm:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria775687664-:rm:-tab-4"
+            id="react-aria9685917329-:rm:-tab-4"
             role="tab"
           >
             Disattivo
@@ -20021,33 +20021,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria775687664-:rm:-tab-1"
+          aria-labelledby="react-aria9685917329-:rm:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria775687664-:rm:-tabpane-1"
+          id="react-aria9685917329-:rm:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rm:-tab-2"
+          aria-labelledby="react-aria9685917329-:rm:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rm:-tabpane-2"
+          id="react-aria9685917329-:rm:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rm:-tab-3"
+          aria-labelledby="react-aria9685917329-:rm:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rm:-tabpane-3"
+          id="react-aria9685917329-:rm:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rm:-tab-4"
+          aria-labelledby="react-aria9685917329-:rm:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rm:-tabpane-4"
+          id="react-aria9685917329-:rm:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -20075,12 +20075,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rq:-tabpane-1"
+            aria-controls="react-aria9685917329-:rq:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria775687664-:rq:-tab-1"
+            id="react-aria9685917329-:rq:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -20104,12 +20104,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rq:-tabpane-2"
+            aria-controls="react-aria9685917329-:rq:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria775687664-:rq:-tab-2"
+            id="react-aria9685917329-:rq:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -20133,12 +20133,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rq:-tabpane-3"
+            aria-controls="react-aria9685917329-:rq:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria775687664-:rq:-tab-3"
+            id="react-aria9685917329-:rq:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -20162,12 +20162,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rq:-tabpane-4"
+            aria-controls="react-aria9685917329-:rq:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria775687664-:rq:-tab-4"
+            id="react-aria9685917329-:rq:-tab-4"
             role="tab"
           >
             <svg
@@ -20194,33 +20194,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria775687664-:rq:-tab-1"
+          aria-labelledby="react-aria9685917329-:rq:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria775687664-:rq:-tabpane-1"
+          id="react-aria9685917329-:rq:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rq:-tab-2"
+          aria-labelledby="react-aria9685917329-:rq:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rq:-tabpane-2"
+          id="react-aria9685917329-:rq:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rq:-tab-3"
+          aria-labelledby="react-aria9685917329-:rq:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rq:-tabpane-3"
+          id="react-aria9685917329-:rq:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rq:-tab-4"
+          aria-labelledby="react-aria9685917329-:rq:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rq:-tabpane-4"
+          id="react-aria9685917329-:rq:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -20248,12 +20248,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rh:-tabpane-1"
+            aria-controls="react-aria9685917329-:rh:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria775687664-:rh:-tab-1"
+            id="react-aria9685917329-:rh:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -20265,12 +20265,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rh:-tabpane-2"
+            aria-controls="react-aria9685917329-:rh:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria775687664-:rh:-tab-2"
+            id="react-aria9685917329-:rh:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -20282,12 +20282,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rh:-tabpane-3"
+            aria-controls="react-aria9685917329-:rh:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria775687664-:rh:-tab-3"
+            id="react-aria9685917329-:rh:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -20299,12 +20299,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:rh:-tabpane-4"
+            aria-controls="react-aria9685917329-:rh:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria775687664-:rh:-tab-4"
+            id="react-aria9685917329-:rh:-tab-4"
             role="tab"
           >
             Disattivo
@@ -20319,33 +20319,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria775687664-:rh:-tab-1"
+          aria-labelledby="react-aria9685917329-:rh:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria775687664-:rh:-tabpane-1"
+          id="react-aria9685917329-:rh:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rh:-tab-2"
+          aria-labelledby="react-aria9685917329-:rh:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rh:-tabpane-2"
+          id="react-aria9685917329-:rh:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rh:-tab-3"
+          aria-labelledby="react-aria9685917329-:rh:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rh:-tabpane-3"
+          id="react-aria9685917329-:rh:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria775687664-:rh:-tab-4"
+          aria-labelledby="react-aria9685917329-:rh:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:rh:-tabpane-4"
+          id="react-aria9685917329-:rh:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -20373,12 +20373,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:ri:-tabpane-1"
+            aria-controls="react-aria9685917329-:ri:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria775687664-:ri:-tab-1"
+            id="react-aria9685917329-:ri:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -20390,12 +20390,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:ri:-tabpane-2"
+            aria-controls="react-aria9685917329-:ri:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria775687664-:ri:-tab-2"
+            id="react-aria9685917329-:ri:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -20407,12 +20407,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:ri:-tabpane-3"
+            aria-controls="react-aria9685917329-:ri:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria775687664-:ri:-tab-3"
+            id="react-aria9685917329-:ri:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -20424,12 +20424,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
           role="presentation"
         >
           <a
-            aria-controls="react-aria775687664-:ri:-tabpane-4"
+            aria-controls="react-aria9685917329-:ri:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria775687664-:ri:-tab-4"
+            id="react-aria9685917329-:ri:-tab-4"
             role="tab"
           >
             Disattivo
@@ -20444,33 +20444,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria775687664-:ri:-tab-1"
+          aria-labelledby="react-aria9685917329-:ri:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria775687664-:ri:-tabpane-1"
+          id="react-aria9685917329-:ri:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria775687664-:ri:-tab-2"
+          aria-labelledby="react-aria9685917329-:ri:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:ri:-tabpane-2"
+          id="react-aria9685917329-:ri:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria775687664-:ri:-tab-3"
+          aria-labelledby="react-aria9685917329-:ri:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:ri:-tabpane-3"
+          id="react-aria9685917329-:ri:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria775687664-:ri:-tab-4"
+          aria-labelledby="react-aria9685917329-:ri:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria775687664-:ri:-tabpane-4"
+          id="react-aria9685917329-:ri:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -55981,12 +55981,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r2:-tabpane-1"
+        aria-controls="react-aria9685917329-:r2:-tabpane-1"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r2:-tab-1"
+        id="react-aria9685917329-:r2:-tab-1"
         role="tab"
         tabindex="-1"
       >
@@ -56016,12 +56016,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r2:-tabpane-2"
+        aria-controls="react-aria9685917329-:r2:-tabpane-2"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r2:-tab-2"
+        id="react-aria9685917329-:r2:-tab-2"
         role="tab"
         tabindex="0"
       >
@@ -56051,12 +56051,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r2:-tabpane-3"
+        aria-controls="react-aria9685917329-:r2:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r2:-tab-3"
+        id="react-aria9685917329-:r2:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -56086,12 +56086,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r2:-tabpane-4"
+        aria-controls="react-aria9685917329-:r2:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r2:-tab-4"
+        id="react-aria9685917329-:r2:-tab-4"
         role="tab"
       >
         <span>
@@ -56120,33 +56120,33 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria775687664-:r2:-tab-1"
+      aria-labelledby="react-aria9685917329-:r2:-tab-1"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:r2:-tabpane-1"
+      id="react-aria9685917329-:r2:-tabpane-1"
       role="tabpanel"
     >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </div>
     <div
-      aria-labelledby="react-aria775687664-:r2:-tab-2"
+      aria-labelledby="react-aria9685917329-:r2:-tab-2"
       class="fade p-4 tab-pane active show"
-      id="react-aria775687664-:r2:-tabpane-2"
+      id="react-aria9685917329-:r2:-tabpane-2"
       role="tabpanel"
     >
       Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     </div>
     <div
-      aria-labelledby="react-aria775687664-:r2:-tab-3"
+      aria-labelledby="react-aria9685917329-:r2:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:r2:-tabpane-3"
+      id="react-aria9685917329-:r2:-tabpane-3"
       role="tabpanel"
     >
       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     </div>
     <div
-      aria-labelledby="react-aria775687664-:r2:-tab-4"
+      aria-labelledby="react-aria9685917329-:r2:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:r2:-tabpane-4"
+      id="react-aria9685917329-:r2:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -56166,12 +56166,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r1:-tabpane-1"
+        aria-controls="react-aria9685917329-:r1:-tabpane-1"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r1:-tab-1"
+        id="react-aria9685917329-:r1:-tab-1"
         role="tab"
         tabindex="-1"
       >
@@ -56183,12 +56183,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r1:-tabpane-2"
+        aria-controls="react-aria9685917329-:r1:-tabpane-2"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r1:-tab-2"
+        id="react-aria9685917329-:r1:-tab-2"
         role="tab"
         tabindex="0"
       >
@@ -56200,12 +56200,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r1:-tabpane-3"
+        aria-controls="react-aria9685917329-:r1:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r1:-tab-3"
+        id="react-aria9685917329-:r1:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -56217,12 +56217,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r1:-tabpane-4"
+        aria-controls="react-aria9685917329-:r1:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r1:-tab-4"
+        id="react-aria9685917329-:r1:-tab-4"
         role="tab"
       >
         Label
@@ -56233,33 +56233,33 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria775687664-:r1:-tab-1"
+      aria-labelledby="react-aria9685917329-:r1:-tab-1"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:r1:-tabpane-1"
+      id="react-aria9685917329-:r1:-tabpane-1"
       role="tabpanel"
     >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </div>
     <div
-      aria-labelledby="react-aria775687664-:r1:-tab-2"
+      aria-labelledby="react-aria9685917329-:r1:-tab-2"
       class="fade p-4 tab-pane active show"
-      id="react-aria775687664-:r1:-tabpane-2"
+      id="react-aria9685917329-:r1:-tabpane-2"
       role="tabpanel"
     >
       Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     </div>
     <div
-      aria-labelledby="react-aria775687664-:r1:-tab-3"
+      aria-labelledby="react-aria9685917329-:r1:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:r1:-tabpane-3"
+      id="react-aria9685917329-:r1:-tabpane-3"
       role="tabpanel"
     >
       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     </div>
     <div
-      aria-labelledby="react-aria775687664-:r1:-tab-4"
+      aria-labelledby="react-aria9685917329-:r1:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:r1:-tabpane-4"
+      id="react-aria9685917329-:r1:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -56279,12 +56279,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TabBar 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r0:-tabpane-1"
+        aria-controls="react-aria9685917329-:r0:-tabpane-1"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r0:-tab-1"
+        id="react-aria9685917329-:r0:-tab-1"
         role="tab"
         tabindex="-1"
       >
@@ -56296,12 +56296,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TabBar 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r0:-tabpane-2"
+        aria-controls="react-aria9685917329-:r0:-tabpane-2"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r0:-tab-2"
+        id="react-aria9685917329-:r0:-tab-2"
         role="tab"
         tabindex="0"
       >
@@ -56313,12 +56313,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TabBar 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r0:-tabpane-3"
+        aria-controls="react-aria9685917329-:r0:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r0:-tab-3"
+        id="react-aria9685917329-:r0:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -56330,12 +56330,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TabBar 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r0:-tabpane-4"
+        aria-controls="react-aria9685917329-:r0:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r0:-tab-4"
+        id="react-aria9685917329-:r0:-tab-4"
         role="tab"
       >
         Label
@@ -56356,12 +56356,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r3:-tabpane-1"
+        aria-controls="react-aria9685917329-:r3:-tabpane-1"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria775687664-:r3:-tab-1"
+        id="react-aria9685917329-:r3:-tab-1"
         role="tab"
         tabindex="-1"
       >
@@ -56385,12 +56385,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r3:-tabpane-2"
+        aria-controls="react-aria9685917329-:r3:-tabpane-2"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria775687664-:r3:-tab-2"
+        id="react-aria9685917329-:r3:-tab-2"
         role="tab"
         tabindex="0"
       >
@@ -56414,12 +56414,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r3:-tabpane-3"
+        aria-controls="react-aria9685917329-:r3:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria775687664-:r3:-tab-3"
+        id="react-aria9685917329-:r3:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -56443,12 +56443,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria775687664-:r3:-tabpane-4"
+        aria-controls="react-aria9685917329-:r3:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria775687664-:r3:-tab-4"
+        id="react-aria9685917329-:r3:-tab-4"
         role="tab"
       >
         <svg
@@ -56471,33 +56471,33 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria775687664-:r3:-tab-1"
+      aria-labelledby="react-aria9685917329-:r3:-tab-1"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:r3:-tabpane-1"
+      id="react-aria9685917329-:r3:-tabpane-1"
       role="tabpanel"
     >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </div>
     <div
-      aria-labelledby="react-aria775687664-:r3:-tab-2"
+      aria-labelledby="react-aria9685917329-:r3:-tab-2"
       class="fade p-4 tab-pane active show"
-      id="react-aria775687664-:r3:-tabpane-2"
+      id="react-aria9685917329-:r3:-tabpane-2"
       role="tabpanel"
     >
       Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     </div>
     <div
-      aria-labelledby="react-aria775687664-:r3:-tab-3"
+      aria-labelledby="react-aria9685917329-:r3:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:r3:-tabpane-3"
+      id="react-aria9685917329-:r3:-tabpane-3"
       role="tabpanel"
     >
       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     </div>
     <div
-      aria-labelledby="react-aria775687664-:r3:-tab-4"
+      aria-labelledby="react-aria9685917329-:r3:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria775687664-:r3:-tabpane-4"
+      id="react-aria9685917329-:r3:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
