@@ -3171,10 +3171,10 @@ body-parser@^2.2.0:
     raw-body "^3.0.0"
     type-is "^2.0.0"
 
-bootstrap-lombardia@2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/bootstrap-lombardia/-/bootstrap-lombardia-2.6.0.tgz#3e397cd75f9257ae037eecd84227743850958d8c"
-  integrity sha512-DffIH5GCadF7v2TtPCXMmL0ACh/x8pbVqqly2hVRIXPtPAvsLUjwi2KOMpcUsu5Qt6k+ktt4E3kyDU+k1Qa1tQ==
+bootstrap-lombardia@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/bootstrap-lombardia/-/bootstrap-lombardia-2.6.1.tgz#2d274781b30e6c0b9446f7775da38e714a7bf27b"
+  integrity sha512-WHMl3aNUIBhmiGE0XYJV8gbRtVaErd7sCTfTnf9xZxYNlqBv+mHqvWuzgF+Il9d75c57Iyc5q8cv89g3RLuLGQ==
   dependencies:
     "@popperjs/core" "^2.11.6"
     "@splidejs/splide" "^4.1.4"
@@ -3311,9 +3311,9 @@ camelcase@^6.2.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001716:
-  version "1.0.30001717"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001717.tgz#5d9fec5ce09796a1893013825510678928aca129"
-  integrity sha512-auPpttCq6BDEG8ZAuHJIplGw6GODhjw+/11e7IjpnYCxZcW/ONgPs0KVBJ0d1bY3e2+7PRe5RCLyP+PfwVgkYw==
+  version "1.0.30001753"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001753.tgz"
+  integrity sha512-Bj5H35MD/ebaOV4iDLqPEtiliTN29qkGtEHCwawWn4cYm+bPJM2NsaP30vtZcnERClMzp52J4+aw2UNbK4o+zw==
 
 ccount@^2.0.0:
   version "2.0.1"
@@ -8587,9 +8587,9 @@ videojs-vtt.js@0.15.5:
     global "^4.3.1"
 
 vite@^5.2.7:
-  version "5.4.19"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-5.4.19.tgz#20efd060410044b3ed555049418a5e7d1998f959"
-  integrity sha512-qO3aKv3HoQC8QKiNSTuUM1l9o/XX3+c+VTgLHbJWHZGeTPVAg2XwazI9UWzoxjIJCGCV2zU60uqMzjeLZuULqA==
+  version "5.4.21"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-5.4.21.tgz#84a4f7c5d860b071676d39ba513c0d598fdc7027"
+  integrity sha512-o5a9xKjbtuhY6Bi5S3+HvbRERmouabWbyUcpXXUA1u+GNUKoROi9byOJ8M0nHbHYHkYICiMlqxkg1KkYmm25Sw==
   dependencies:
     esbuild "^0.21.3"
     postcss "^8.4.43"

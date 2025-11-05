@@ -1,3 +1,21 @@
+
+
+---
+# Merge 5.9.0 design-react-kit italia - INIZIO
+
+# [5.9.0](https://github.com/italia/design-react-kit/compare/v5.8.3...v5.9.0) (2025-09-17)
+
+
+### Features
+
+* new cards ([bf62d1b](https://github.com/italia/design-react-kit/commit/bf62d1b5e1a6652b6d7c1dd7c36d294e4cbc6140))
+* new storybook ([925fe11](https://github.com/italia/design-react-kit/commit/925fe11a48e2593fb43d5364d5ac733806eb6d61))
+
+
+# Merge 5.9.0 design-reat-kit italia - FINE
+---
+
+
 ## [1.2.1](https://github.com/RegioneLombardia/design-react-kit/compare/v1.2.0...v1.2.1) (2025-09-23)
 
 
