@@ -14425,12 +14425,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rc:-tabpane-1"
+          aria-controls="react-aria6177417102-:rc:-tabpane-1"
           aria-selected="true"
           class="nav-link active"
           data-rr-ui-event-key="1"
           href="#"
-          id="react-aria9318592583-:rc:-tab-1"
+          id="react-aria6177417102-:rc:-tab-1"
           role="tab"
           tabindex="0"
         >
@@ -14442,12 +14442,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rc:-tabpane-2"
+          aria-controls="react-aria6177417102-:rc:-tabpane-2"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="2"
           href="#"
-          id="react-aria9318592583-:rc:-tab-2"
+          id="react-aria6177417102-:rc:-tab-2"
           role="tab"
           tabindex="-1"
         >
@@ -14459,12 +14459,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rc:-tabpane-3"
+          aria-controls="react-aria6177417102-:rc:-tabpane-3"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="3"
           href="#"
-          id="react-aria9318592583-:rc:-tab-3"
+          id="react-aria6177417102-:rc:-tab-3"
           role="tab"
           tabindex="-1"
         >
@@ -14476,12 +14476,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rc:-tabpane-4"
+          aria-controls="react-aria6177417102-:rc:-tabpane-4"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="4"
           href="#"
-          id="react-aria9318592583-:rc:-tab-4"
+          id="react-aria6177417102-:rc:-tab-4"
           role="tab"
           tabindex="-1"
         >
@@ -14493,12 +14493,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rc:-tabpane-5"
+          aria-controls="react-aria6177417102-:rc:-tabpane-5"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="5"
           href="#"
-          id="react-aria9318592583-:rc:-tab-5"
+          id="react-aria6177417102-:rc:-tab-5"
           role="tab"
           tabindex="-1"
         >
@@ -14510,12 +14510,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rc:-tabpane-6"
+          aria-controls="react-aria6177417102-:rc:-tabpane-6"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="6"
           href="#"
-          id="react-aria9318592583-:rc:-tab-6"
+          id="react-aria6177417102-:rc:-tab-6"
           role="tab"
           tabindex="-1"
         >
@@ -14527,12 +14527,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rc:-tabpane-7"
+          aria-controls="react-aria6177417102-:rc:-tabpane-7"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="7"
           href="#"
-          id="react-aria9318592583-:rc:-tab-7"
+          id="react-aria6177417102-:rc:-tab-7"
           role="tab"
           tabindex="-1"
         >
@@ -14544,12 +14544,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Hidescroll 1`] = `
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rc:-tabpane-8"
+          aria-controls="react-aria6177417102-:rc:-tabpane-8"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="8"
           href="#"
-          id="react-aria9318592583-:rc:-tab-8"
+          id="react-aria6177417102-:rc:-tab-8"
           role="tab"
           tabindex="-1"
         >
@@ -14572,12 +14572,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Icona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r9:-tabpane-1"
+        aria-controls="react-aria6177417102-:r9:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r9:-tab-1"
+        id="react-aria6177417102-:r9:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -14607,12 +14607,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Icona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r9:-tabpane-2"
+        aria-controls="react-aria6177417102-:r9:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r9:-tab-2"
+        id="react-aria6177417102-:r9:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -14642,12 +14642,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Icona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r9:-tabpane-3"
+        aria-controls="react-aria6177417102-:r9:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r9:-tab-3"
+        id="react-aria6177417102-:r9:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -14677,12 +14677,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Icona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r9:-tabpane-4"
+        aria-controls="react-aria6177417102-:r9:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r9:-tab-4"
+        id="react-aria6177417102-:r9:-tab-4"
         role="tab"
       >
         <span>
@@ -14721,12 +14721,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r5:-tabpane-1"
+        aria-controls="react-aria6177417102-:r5:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r5:-tab-1"
+        id="react-aria6177417102-:r5:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -14756,12 +14756,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r5:-tabpane-2"
+        aria-controls="react-aria6177417102-:r5:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r5:-tab-2"
+        id="react-aria6177417102-:r5:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -14791,12 +14791,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r5:-tabpane-3"
+        aria-controls="react-aria6177417102-:r5:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r5:-tab-3"
+        id="react-aria6177417102-:r5:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -14826,12 +14826,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r5:-tabpane-4"
+        aria-controls="react-aria6177417102-:r5:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r5:-tab-4"
+        id="react-aria6177417102-:r5:-tab-4"
         role="tab"
       >
         <span>
@@ -14870,12 +14870,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrande 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:ra:-tabpane-1"
+        aria-controls="react-aria6177417102-:ra:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:ra:-tab-1"
+        id="react-aria6177417102-:ra:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -14905,12 +14905,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrande 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:ra:-tabpane-2"
+        aria-controls="react-aria6177417102-:ra:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:ra:-tab-2"
+        id="react-aria6177417102-:ra:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -14940,12 +14940,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrande 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:ra:-tabpane-3"
+        aria-controls="react-aria6177417102-:ra:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:ra:-tab-3"
+        id="react-aria6177417102-:ra:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -14975,12 +14975,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrande 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:ra:-tabpane-4"
+        aria-controls="react-aria6177417102-:ra:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:ra:-tab-4"
+        id="react-aria6177417102-:ra:-tab-4"
         role="tab"
       >
         <span>
@@ -15019,12 +15019,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r6:-tabpane-1"
+        aria-controls="react-aria6177417102-:r6:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r6:-tab-1"
+        id="react-aria6177417102-:r6:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -15054,12 +15054,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r6:-tabpane-2"
+        aria-controls="react-aria6177417102-:r6:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r6:-tab-2"
+        id="react-aria6177417102-:r6:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -15089,12 +15089,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r6:-tabpane-3"
+        aria-controls="react-aria6177417102-:r6:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r6:-tab-3"
+        id="react-aria6177417102-:r6:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -15124,12 +15124,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r6:-tabpane-4"
+        aria-controls="react-aria6177417102-:r6:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r6:-tab-4"
+        id="react-aria6177417102-:r6:-tab-4"
         role="tab"
       >
         <span>
@@ -15168,12 +15168,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rf:-tabpane-1"
+        aria-controls="react-aria6177417102-:rf:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:rf:-tab-1"
+        id="react-aria6177417102-:rf:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -15203,12 +15203,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rf:-tabpane-2"
+        aria-controls="react-aria6177417102-:rf:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:rf:-tab-2"
+        id="react-aria6177417102-:rf:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -15238,12 +15238,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rf:-tabpane-3"
+        aria-controls="react-aria6177417102-:rf:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:rf:-tab-3"
+        id="react-aria6177417102-:rf:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -15273,12 +15273,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rf:-tabpane-4"
+        aria-controls="react-aria6177417102-:rf:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:rf:-tab-4"
+        id="react-aria6177417102-:rf:-tab-4"
         role="tab"
       >
         <span>
@@ -15307,33 +15307,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaGrandePannel 1`] =
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria9318592583-:rf:-tab-1"
+      aria-labelledby="react-aria6177417102-:rf:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria9318592583-:rf:-tabpane-1"
+      id="react-aria6177417102-:rf:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rf:-tab-2"
+      aria-labelledby="react-aria6177417102-:rf:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rf:-tabpane-2"
+      id="react-aria6177417102-:rf:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rf:-tab-3"
+      aria-labelledby="react-aria6177417102-:rf:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rf:-tabpane-3"
+      id="react-aria6177417102-:rf:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rf:-tab-4"
+      aria-labelledby="react-aria6177417102-:rf:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rf:-tabpane-4"
+      id="react-aria6177417102-:rf:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -15353,12 +15353,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:re:-tabpane-1"
+        aria-controls="react-aria6177417102-:re:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:re:-tab-1"
+        id="react-aria6177417102-:re:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -15388,12 +15388,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:re:-tabpane-2"
+        aria-controls="react-aria6177417102-:re:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:re:-tab-2"
+        id="react-aria6177417102-:re:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -15423,12 +15423,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:re:-tabpane-3"
+        aria-controls="react-aria6177417102-:re:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:re:-tab-3"
+        id="react-aria6177417102-:re:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -15458,12 +15458,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:re:-tabpane-4"
+        aria-controls="react-aria6177417102-:re:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:re:-tab-4"
+        id="react-aria6177417102-:re:-tab-4"
         role="tab"
       >
         <span>
@@ -15492,33 +15492,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab IconaPannel 1`] = `
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria9318592583-:re:-tab-1"
+      aria-labelledby="react-aria6177417102-:re:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria9318592583-:re:-tabpane-1"
+      id="react-aria6177417102-:re:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:re:-tab-2"
+      aria-labelledby="react-aria6177417102-:re:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:re:-tabpane-2"
+      id="react-aria6177417102-:re:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:re:-tab-3"
+      aria-labelledby="react-aria6177417102-:re:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:re:-tabpane-3"
+      id="react-aria6177417102-:re:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:re:-tab-4"
+      aria-labelledby="react-aria6177417102-:re:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:re:-tabpane-4"
+      id="react-aria6177417102-:re:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -15538,12 +15538,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIcona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rb:-tabpane-1"
+        aria-controls="react-aria6177417102-:rb:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:rb:-tab-1"
+        id="react-aria6177417102-:rb:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -15567,12 +15567,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIcona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rb:-tabpane-2"
+        aria-controls="react-aria6177417102-:rb:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:rb:-tab-2"
+        id="react-aria6177417102-:rb:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -15596,12 +15596,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIcona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rb:-tabpane-3"
+        aria-controls="react-aria6177417102-:rb:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:rb:-tab-3"
+        id="react-aria6177417102-:rb:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -15625,12 +15625,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIcona 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rb:-tabpane-4"
+        aria-controls="react-aria6177417102-:rb:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:rb:-tab-4"
+        id="react-aria6177417102-:rb:-tab-4"
         role="tab"
       >
         <svg
@@ -15663,12 +15663,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r7:-tabpane-1"
+        aria-controls="react-aria6177417102-:r7:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r7:-tab-1"
+        id="react-aria6177417102-:r7:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -15692,12 +15692,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r7:-tabpane-2"
+        aria-controls="react-aria6177417102-:r7:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r7:-tab-2"
+        id="react-aria6177417102-:r7:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -15721,12 +15721,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r7:-tabpane-3"
+        aria-controls="react-aria6177417102-:r7:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r7:-tab-3"
+        id="react-aria6177417102-:r7:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -15750,12 +15750,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r7:-tabpane-4"
+        aria-controls="react-aria6177417102-:r7:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r7:-tab-4"
+        id="react-aria6177417102-:r7:-tab-4"
         role="tab"
       >
         <svg
@@ -15788,12 +15788,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFullDark 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:ro:-tabpane-1"
+        aria-controls="react-aria6177417102-:ro:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:ro:-tab-1"
+        id="react-aria6177417102-:ro:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -15817,12 +15817,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFullDark 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:ro:-tabpane-2"
+        aria-controls="react-aria6177417102-:ro:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:ro:-tab-2"
+        id="react-aria6177417102-:ro:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -15846,12 +15846,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFullDark 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:ro:-tabpane-3"
+        aria-controls="react-aria6177417102-:ro:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:ro:-tab-3"
+        id="react-aria6177417102-:ro:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -15875,12 +15875,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaFullDark 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:ro:-tabpane-4"
+        aria-controls="react-aria6177417102-:ro:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:ro:-tab-4"
+        id="react-aria6177417102-:ro:-tab-4"
         role="tab"
       >
         <svg
@@ -15913,12 +15913,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rg:-tabpane-1"
+        aria-controls="react-aria6177417102-:rg:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:rg:-tab-1"
+        id="react-aria6177417102-:rg:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -15942,12 +15942,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rg:-tabpane-2"
+        aria-controls="react-aria6177417102-:rg:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:rg:-tab-2"
+        id="react-aria6177417102-:rg:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -15971,12 +15971,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rg:-tabpane-3"
+        aria-controls="react-aria6177417102-:rg:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:rg:-tab-3"
+        id="react-aria6177417102-:rg:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -16000,12 +16000,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rg:-tabpane-4"
+        aria-controls="react-aria6177417102-:rg:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:rg:-tab-4"
+        id="react-aria6177417102-:rg:-tab-4"
         role="tab"
       >
         <svg
@@ -16028,33 +16028,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannel 1`] = 
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria9318592583-:rg:-tab-1"
+      aria-labelledby="react-aria6177417102-:rg:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria9318592583-:rg:-tabpane-1"
+      id="react-aria6177417102-:rg:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rg:-tab-2"
+      aria-labelledby="react-aria6177417102-:rg:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rg:-tabpane-2"
+      id="react-aria6177417102-:rg:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rg:-tab-3"
+      aria-labelledby="react-aria6177417102-:rg:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rg:-tabpane-3"
+      id="react-aria6177417102-:rg:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rg:-tab-4"
+      aria-labelledby="react-aria6177417102-:rg:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rg:-tabpane-4"
+      id="react-aria6177417102-:rg:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -16080,12 +16080,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rj:-tabpane-1"
+            aria-controls="react-aria6177417102-:rj:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria9318592583-:rj:-tab-1"
+            id="react-aria6177417102-:rj:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -16109,12 +16109,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rj:-tabpane-2"
+            aria-controls="react-aria6177417102-:rj:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria9318592583-:rj:-tab-2"
+            id="react-aria6177417102-:rj:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -16138,12 +16138,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rj:-tabpane-3"
+            aria-controls="react-aria6177417102-:rj:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria9318592583-:rj:-tab-3"
+            id="react-aria6177417102-:rj:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -16167,12 +16167,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rj:-tabpane-4"
+            aria-controls="react-aria6177417102-:rj:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria9318592583-:rj:-tab-4"
+            id="react-aria6177417102-:rj:-tab-4"
             role="tab"
           >
             Tab 4
@@ -16199,33 +16199,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria9318592583-:rj:-tab-1"
+          aria-labelledby="react-aria6177417102-:rj:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria9318592583-:rj:-tabpane-1"
+          id="react-aria6177417102-:rj:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rj:-tab-2"
+          aria-labelledby="react-aria6177417102-:rj:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rj:-tabpane-2"
+          id="react-aria6177417102-:rj:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rj:-tab-3"
+          aria-labelledby="react-aria6177417102-:rj:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rj:-tabpane-3"
+          id="react-aria6177417102-:rj:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rj:-tab-4"
+          aria-labelledby="react-aria6177417102-:rj:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rj:-tabpane-4"
+          id="react-aria6177417102-:rj:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -16253,12 +16253,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rp:-tabpane-1"
+            aria-controls="react-aria6177417102-:rp:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria9318592583-:rp:-tab-1"
+            id="react-aria6177417102-:rp:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -16282,12 +16282,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rp:-tabpane-2"
+            aria-controls="react-aria6177417102-:rp:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria9318592583-:rp:-tab-2"
+            id="react-aria6177417102-:rp:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -16311,12 +16311,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rp:-tabpane-3"
+            aria-controls="react-aria6177417102-:rp:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria9318592583-:rp:-tab-3"
+            id="react-aria6177417102-:rp:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -16340,12 +16340,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rp:-tabpane-4"
+            aria-controls="react-aria6177417102-:rp:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria9318592583-:rp:-tab-4"
+            id="react-aria6177417102-:rp:-tab-4"
             role="tab"
           >
             Tab 4
@@ -16372,33 +16372,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoIconaPannelVertica
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria9318592583-:rp:-tab-1"
+          aria-labelledby="react-aria6177417102-:rp:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria9318592583-:rp:-tabpane-1"
+          id="react-aria6177417102-:rp:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rp:-tab-2"
+          aria-labelledby="react-aria6177417102-:rp:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rp:-tabpane-2"
+          id="react-aria6177417102-:rp:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rp:-tab-3"
+          aria-labelledby="react-aria6177417102-:rp:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rp:-tabpane-3"
+          id="react-aria6177417102-:rp:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rp:-tab-4"
+          aria-labelledby="react-aria6177417102-:rp:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rp:-tabpane-4"
+          id="react-aria6177417102-:rp:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -16426,12 +16426,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rk:-tabpane-1"
+            aria-controls="react-aria6177417102-:rk:-tabpane-1"
             aria-selected="true"
             class="justify-content-end nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria9318592583-:rk:-tab-1"
+            id="react-aria6177417102-:rk:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -16459,12 +16459,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rk:-tabpane-2"
+            aria-controls="react-aria6177417102-:rk:-tabpane-2"
             aria-selected="false"
             class="justify-content-end nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria9318592583-:rk:-tab-2"
+            id="react-aria6177417102-:rk:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -16492,12 +16492,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rk:-tabpane-3"
+            aria-controls="react-aria6177417102-:rk:-tabpane-3"
             aria-selected="false"
             class="justify-content-end nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria9318592583-:rk:-tab-3"
+            id="react-aria6177417102-:rk:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -16525,12 +16525,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rk:-tabpane-4"
+            aria-controls="react-aria6177417102-:rk:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="justify-content-end nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria9318592583-:rk:-tab-4"
+            id="react-aria6177417102-:rk:-tab-4"
             role="tab"
           >
             <span
@@ -16561,33 +16561,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestoPannelVertical 1`]
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria9318592583-:rk:-tab-1"
+          aria-labelledby="react-aria6177417102-:rk:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria9318592583-:rk:-tabpane-1"
+          id="react-aria6177417102-:rk:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rk:-tab-2"
+          aria-labelledby="react-aria6177417102-:rk:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rk:-tabpane-2"
+          id="react-aria6177417102-:rk:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rk:-tab-3"
+          aria-labelledby="react-aria6177417102-:rk:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rk:-tabpane-3"
+          id="react-aria6177417102-:rk:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rk:-tab-4"
+          aria-labelledby="react-aria6177417102-:rk:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rk:-tabpane-4"
+          id="react-aria6177417102-:rk:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -16609,12 +16609,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Testuale 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r8:-tabpane-1"
+        aria-controls="react-aria6177417102-:r8:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r8:-tab-1"
+        id="react-aria6177417102-:r8:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -16626,12 +16626,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Testuale 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r8:-tabpane-2"
+        aria-controls="react-aria6177417102-:r8:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r8:-tab-2"
+        id="react-aria6177417102-:r8:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -16643,12 +16643,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Testuale 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r8:-tabpane-3"
+        aria-controls="react-aria6177417102-:r8:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r8:-tab-3"
+        id="react-aria6177417102-:r8:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -16660,12 +16660,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab Testuale 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r8:-tabpane-4"
+        aria-controls="react-aria6177417102-:r8:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r8:-tab-4"
+        id="react-aria6177417102-:r8:-tab-4"
         role="tab"
       >
         Disattivo
@@ -16686,12 +16686,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r4:-tabpane-1"
+        aria-controls="react-aria6177417102-:r4:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r4:-tab-1"
+        id="react-aria6177417102-:r4:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -16703,12 +16703,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r4:-tabpane-2"
+        aria-controls="react-aria6177417102-:r4:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r4:-tab-2"
+        id="react-aria6177417102-:r4:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -16720,12 +16720,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r4:-tabpane-3"
+        aria-controls="react-aria6177417102-:r4:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r4:-tab-3"
+        id="react-aria6177417102-:r4:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -16737,12 +16737,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFull 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r4:-tabpane-4"
+        aria-controls="react-aria6177417102-:r4:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r4:-tab-4"
+        id="react-aria6177417102-:r4:-tab-4"
         role="tab"
       >
         Disattivo
@@ -16763,12 +16763,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFullDark 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rn:-tabpane-1"
+        aria-controls="react-aria6177417102-:rn:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:rn:-tab-1"
+        id="react-aria6177417102-:rn:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -16780,12 +16780,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFullDark 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rn:-tabpane-2"
+        aria-controls="react-aria6177417102-:rn:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:rn:-tab-2"
+        id="react-aria6177417102-:rn:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -16797,12 +16797,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFullDark 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rn:-tabpane-3"
+        aria-controls="react-aria6177417102-:rn:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:rn:-tab-3"
+        id="react-aria6177417102-:rn:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -16814,12 +16814,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualeFullDark 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rn:-tabpane-4"
+        aria-controls="react-aria6177417102-:rn:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:rn:-tab-4"
+        id="react-aria6177417102-:rn:-tab-4"
         role="tab"
       >
         Disattivo
@@ -16840,12 +16840,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rd:-tabpane-1"
+        aria-controls="react-aria6177417102-:rd:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:rd:-tab-1"
+        id="react-aria6177417102-:rd:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -16857,12 +16857,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rd:-tabpane-2"
+        aria-controls="react-aria6177417102-:rd:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:rd:-tab-2"
+        id="react-aria6177417102-:rd:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -16874,12 +16874,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rd:-tabpane-3"
+        aria-controls="react-aria6177417102-:rd:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:rd:-tab-3"
+        id="react-aria6177417102-:rd:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -16891,12 +16891,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rd:-tabpane-4"
+        aria-controls="react-aria6177417102-:rd:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:rd:-tab-4"
+        id="react-aria6177417102-:rd:-tab-4"
         role="tab"
       >
         Disattivo
@@ -16907,33 +16907,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannel 1`] = `
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria9318592583-:rd:-tab-1"
+      aria-labelledby="react-aria6177417102-:rd:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria9318592583-:rd:-tabpane-1"
+      id="react-aria6177417102-:rd:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rd:-tab-2"
+      aria-labelledby="react-aria6177417102-:rd:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rd:-tabpane-2"
+      id="react-aria6177417102-:rd:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rd:-tab-3"
+      aria-labelledby="react-aria6177417102-:rd:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rd:-tabpane-3"
+      id="react-aria6177417102-:rd:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rd:-tab-4"
+      aria-labelledby="react-aria6177417102-:rd:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rd:-tabpane-4"
+      id="react-aria6177417102-:rd:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -16953,12 +16953,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rr:-tabpane-1"
+        aria-controls="react-aria6177417102-:rr:-tabpane-1"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:rr:-tab-1"
+        id="react-aria6177417102-:rr:-tab-1"
         role="tab"
         tabindex="0"
       >
@@ -16970,12 +16970,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rr:-tabpane-2"
+        aria-controls="react-aria6177417102-:rr:-tabpane-2"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:rr:-tab-2"
+        id="react-aria6177417102-:rr:-tab-2"
         role="tab"
         tabindex="-1"
       >
@@ -16987,12 +16987,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rr:-tabpane-3"
+        aria-controls="react-aria6177417102-:rr:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:rr:-tab-3"
+        id="react-aria6177417102-:rr:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -17004,12 +17004,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:rr:-tabpane-4"
+        aria-controls="react-aria6177417102-:rr:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:rr:-tab-4"
+        id="react-aria6177417102-:rr:-tab-4"
         role="tab"
       >
         Disattivo
@@ -17020,33 +17020,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCard 1`] 
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria9318592583-:rr:-tab-1"
+      aria-labelledby="react-aria6177417102-:rr:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria9318592583-:rr:-tabpane-1"
+      id="react-aria6177417102-:rr:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rr:-tab-2"
+      aria-labelledby="react-aria6177417102-:rr:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rr:-tabpane-2"
+      id="react-aria6177417102-:rr:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rr:-tab-3"
+      aria-labelledby="react-aria6177417102-:rr:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rr:-tabpane-3"
+      id="react-aria6177417102-:rr:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rr:-tab-4"
+      aria-labelledby="react-aria6177417102-:rr:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rr:-tabpane-4"
+      id="react-aria6177417102-:rr:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -17069,12 +17069,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rs:-tabpane-1"
+          aria-controls="react-aria6177417102-:rs:-tabpane-1"
           aria-selected="true"
           class="nav-link active"
           data-rr-ui-event-key="1"
           href="#"
-          id="react-aria9318592583-:rs:-tab-1"
+          id="react-aria6177417102-:rs:-tab-1"
           role="tab"
           tabindex="0"
         >
@@ -17107,12 +17107,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rs:-tabpane-2"
+          aria-controls="react-aria6177417102-:rs:-tabpane-2"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="2"
           href="#"
-          id="react-aria9318592583-:rs:-tab-2"
+          id="react-aria6177417102-:rs:-tab-2"
           role="tab"
           tabindex="-1"
         >
@@ -17145,12 +17145,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rs:-tabpane-3"
+          aria-controls="react-aria6177417102-:rs:-tabpane-3"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="3"
           href="#"
-          id="react-aria9318592583-:rs:-tab-3"
+          id="react-aria6177417102-:rs:-tab-3"
           role="tab"
           tabindex="-1"
         >
@@ -17183,12 +17183,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rs:-tabpane-4"
+          aria-controls="react-aria6177417102-:rs:-tabpane-4"
           aria-disabled="true"
           aria-selected="false"
           class="nav-link disabled"
           data-rr-ui-event-key="4"
-          id="react-aria9318592583-:rs:-tab-4"
+          id="react-aria6177417102-:rs:-tab-4"
           role="tab"
         >
           Disattivo
@@ -17238,33 +17238,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelCardEdita
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria9318592583-:rs:-tab-1"
+      aria-labelledby="react-aria6177417102-:rs:-tab-1"
       class="fade p-4 tab-pane active show"
-      id="react-aria9318592583-:rs:-tabpane-1"
+      id="react-aria6177417102-:rs:-tabpane-1"
       role="tabpanel"
     >
       Contenuto 1
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rs:-tab-2"
+      aria-labelledby="react-aria6177417102-:rs:-tab-2"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rs:-tabpane-2"
+      id="react-aria6177417102-:rs:-tabpane-2"
       role="tabpanel"
     >
       Contenuto 2
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rs:-tab-3"
+      aria-labelledby="react-aria6177417102-:rs:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rs:-tabpane-3"
+      id="react-aria6177417102-:rs:-tabpane-3"
       role="tabpanel"
     >
       Contenuto 3
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:rs:-tab-4"
+      aria-labelledby="react-aria6177417102-:rs:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:rs:-tabpane-4"
+      id="react-aria6177417102-:rs:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -17287,12 +17287,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rl:-tabpane-1"
+          aria-controls="react-aria6177417102-:rl:-tabpane-1"
           aria-selected="true"
           class="nav-link active"
           data-rr-ui-event-key="1"
           href="#"
-          id="react-aria9318592583-:rl:-tab-1"
+          id="react-aria6177417102-:rl:-tab-1"
           role="tab"
           tabindex="0"
         >
@@ -17304,12 +17304,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rl:-tabpane-2"
+          aria-controls="react-aria6177417102-:rl:-tabpane-2"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="2"
           href="#"
-          id="react-aria9318592583-:rl:-tab-2"
+          id="react-aria6177417102-:rl:-tab-2"
           role="tab"
           tabindex="-1"
         >
@@ -17321,12 +17321,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rl:-tabpane-3"
+          aria-controls="react-aria6177417102-:rl:-tabpane-3"
           aria-selected="false"
           class="nav-link"
           data-rr-ui-event-key="3"
           href="#"
-          id="react-aria9318592583-:rl:-tab-3"
+          id="react-aria6177417102-:rl:-tab-3"
           role="tab"
           tabindex="-1"
         >
@@ -17338,12 +17338,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
         role="presentation"
       >
         <a
-          aria-controls="react-aria9318592583-:rl:-tabpane-4"
+          aria-controls="react-aria6177417102-:rl:-tabpane-4"
           aria-disabled="true"
           aria-selected="false"
           class="nav-link disabled"
           data-rr-ui-event-key="4"
-          id="react-aria9318592583-:rl:-tab-4"
+          id="react-aria6177417102-:rl:-tab-4"
           role="tab"
         >
           Disattivo
@@ -17354,33 +17354,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseBo
       class="tab-content"
     >
       <div
-        aria-labelledby="react-aria9318592583-:rl:-tab-1"
+        aria-labelledby="react-aria6177417102-:rl:-tab-1"
         class="fade p-4 tab-pane active show"
-        id="react-aria9318592583-:rl:-tabpane-1"
+        id="react-aria6177417102-:rl:-tabpane-1"
         role="tabpanel"
       >
         Contenuto 1
       </div>
       <div
-        aria-labelledby="react-aria9318592583-:rl:-tab-2"
+        aria-labelledby="react-aria6177417102-:rl:-tab-2"
         class="fade p-4 tab-pane"
-        id="react-aria9318592583-:rl:-tabpane-2"
+        id="react-aria6177417102-:rl:-tabpane-2"
         role="tabpanel"
       >
         Contenuto 2
       </div>
       <div
-        aria-labelledby="react-aria9318592583-:rl:-tab-3"
+        aria-labelledby="react-aria6177417102-:rl:-tab-3"
         class="fade p-4 tab-pane"
-        id="react-aria9318592583-:rl:-tabpane-3"
+        id="react-aria6177417102-:rl:-tabpane-3"
         role="tabpanel"
       >
         Contenuto 3
       </div>
       <div
-        aria-labelledby="react-aria9318592583-:rl:-tab-4"
+        aria-labelledby="react-aria6177417102-:rl:-tab-4"
         class="fade p-4 tab-pane"
-        id="react-aria9318592583-:rl:-tabpane-4"
+        id="react-aria6177417102-:rl:-tabpane-4"
         role="tabpanel"
       >
         Contenuto 4
@@ -17407,12 +17407,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rm:-tabpane-1"
+            aria-controls="react-aria6177417102-:rm:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria9318592583-:rm:-tab-1"
+            id="react-aria6177417102-:rm:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -17424,12 +17424,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rm:-tabpane-2"
+            aria-controls="react-aria6177417102-:rm:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria9318592583-:rm:-tab-2"
+            id="react-aria6177417102-:rm:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -17441,12 +17441,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rm:-tabpane-3"
+            aria-controls="react-aria6177417102-:rm:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria9318592583-:rm:-tab-3"
+            id="react-aria6177417102-:rm:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -17458,12 +17458,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rm:-tabpane-4"
+            aria-controls="react-aria6177417102-:rm:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria9318592583-:rm:-tab-4"
+            id="react-aria6177417102-:rm:-tab-4"
             role="tab"
           >
             Disattivo
@@ -17478,33 +17478,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria9318592583-:rm:-tab-1"
+          aria-labelledby="react-aria6177417102-:rm:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria9318592583-:rm:-tabpane-1"
+          id="react-aria6177417102-:rm:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rm:-tab-2"
+          aria-labelledby="react-aria6177417102-:rm:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rm:-tabpane-2"
+          id="react-aria6177417102-:rm:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rm:-tab-3"
+          aria-labelledby="react-aria6177417102-:rm:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rm:-tabpane-3"
+          id="react-aria6177417102-:rm:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rm:-tab-4"
+          aria-labelledby="react-aria6177417102-:rm:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rm:-tabpane-4"
+          id="react-aria6177417102-:rm:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -17532,12 +17532,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rq:-tabpane-1"
+            aria-controls="react-aria6177417102-:rq:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria9318592583-:rq:-tab-1"
+            id="react-aria6177417102-:rq:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -17561,12 +17561,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rq:-tabpane-2"
+            aria-controls="react-aria6177417102-:rq:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria9318592583-:rq:-tab-2"
+            id="react-aria6177417102-:rq:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -17590,12 +17590,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rq:-tabpane-3"
+            aria-controls="react-aria6177417102-:rq:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria9318592583-:rq:-tab-3"
+            id="react-aria6177417102-:rq:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -17619,12 +17619,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rq:-tabpane-4"
+            aria-controls="react-aria6177417102-:rq:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria9318592583-:rq:-tab-4"
+            id="react-aria6177417102-:rq:-tab-4"
             role="tab"
           >
             <svg
@@ -17651,33 +17651,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelReverseRi
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria9318592583-:rq:-tab-1"
+          aria-labelledby="react-aria6177417102-:rq:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria9318592583-:rq:-tabpane-1"
+          id="react-aria6177417102-:rq:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rq:-tab-2"
+          aria-labelledby="react-aria6177417102-:rq:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rq:-tabpane-2"
+          id="react-aria6177417102-:rq:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rq:-tab-3"
+          aria-labelledby="react-aria6177417102-:rq:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rq:-tabpane-3"
+          id="react-aria6177417102-:rq:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rq:-tab-4"
+          aria-labelledby="react-aria6177417102-:rq:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rq:-tabpane-4"
+          id="react-aria6177417102-:rq:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -17705,12 +17705,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rh:-tabpane-1"
+            aria-controls="react-aria6177417102-:rh:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria9318592583-:rh:-tab-1"
+            id="react-aria6177417102-:rh:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -17722,12 +17722,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rh:-tabpane-2"
+            aria-controls="react-aria6177417102-:rh:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria9318592583-:rh:-tab-2"
+            id="react-aria6177417102-:rh:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -17739,12 +17739,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rh:-tabpane-3"
+            aria-controls="react-aria6177417102-:rh:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria9318592583-:rh:-tab-3"
+            id="react-aria6177417102-:rh:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -17756,12 +17756,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:rh:-tabpane-4"
+            aria-controls="react-aria6177417102-:rh:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria9318592583-:rh:-tab-4"
+            id="react-aria6177417102-:rh:-tab-4"
             role="tab"
           >
             Disattivo
@@ -17776,33 +17776,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVertical 
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria9318592583-:rh:-tab-1"
+          aria-labelledby="react-aria6177417102-:rh:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria9318592583-:rh:-tabpane-1"
+          id="react-aria6177417102-:rh:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rh:-tab-2"
+          aria-labelledby="react-aria6177417102-:rh:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rh:-tabpane-2"
+          id="react-aria6177417102-:rh:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rh:-tab-3"
+          aria-labelledby="react-aria6177417102-:rh:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rh:-tabpane-3"
+          id="react-aria6177417102-:rh:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:rh:-tab-4"
+          aria-labelledby="react-aria6177417102-:rh:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:rh:-tabpane-4"
+          id="react-aria6177417102-:rh:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -17830,12 +17830,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:ri:-tabpane-1"
+            aria-controls="react-aria6177417102-:ri:-tabpane-1"
             aria-selected="true"
             class="nav-link active"
             data-rr-ui-event-key="1"
             href="#"
-            id="react-aria9318592583-:ri:-tab-1"
+            id="react-aria6177417102-:ri:-tab-1"
             role="tab"
             tabindex="0"
           >
@@ -17847,12 +17847,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:ri:-tabpane-2"
+            aria-controls="react-aria6177417102-:ri:-tabpane-2"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="2"
             href="#"
-            id="react-aria9318592583-:ri:-tab-2"
+            id="react-aria6177417102-:ri:-tab-2"
             role="tab"
             tabindex="-1"
           >
@@ -17864,12 +17864,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:ri:-tabpane-3"
+            aria-controls="react-aria6177417102-:ri:-tabpane-3"
             aria-selected="false"
             class="nav-link"
             data-rr-ui-event-key="3"
             href="#"
-            id="react-aria9318592583-:ri:-tab-3"
+            id="react-aria6177417102-:ri:-tab-3"
             role="tab"
             tabindex="-1"
           >
@@ -17881,12 +17881,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
           role="presentation"
         >
           <a
-            aria-controls="react-aria9318592583-:ri:-tabpane-4"
+            aria-controls="react-aria6177417102-:ri:-tabpane-4"
             aria-disabled="true"
             aria-selected="false"
             class="nav-link disabled"
             data-rr-ui-event-key="4"
-            id="react-aria9318592583-:ri:-tab-4"
+            id="react-aria6177417102-:ri:-tab-4"
             role="tab"
           >
             Disattivo
@@ -17901,33 +17901,33 @@ exports[`Stories Snapshots Documentazione/Componenti/Tab TestualePannelVerticalB
         class="tab-content"
       >
         <div
-          aria-labelledby="react-aria9318592583-:ri:-tab-1"
+          aria-labelledby="react-aria6177417102-:ri:-tab-1"
           class="fade p-4 tab-pane active show"
-          id="react-aria9318592583-:ri:-tabpane-1"
+          id="react-aria6177417102-:ri:-tabpane-1"
           role="tabpanel"
         >
           Contenuto 1
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:ri:-tab-2"
+          aria-labelledby="react-aria6177417102-:ri:-tab-2"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:ri:-tabpane-2"
+          id="react-aria6177417102-:ri:-tabpane-2"
           role="tabpanel"
         >
           Contenuto 2
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:ri:-tab-3"
+          aria-labelledby="react-aria6177417102-:ri:-tab-3"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:ri:-tabpane-3"
+          id="react-aria6177417102-:ri:-tabpane-3"
           role="tabpanel"
         >
           Contenuto 3
         </div>
         <div
-          aria-labelledby="react-aria9318592583-:ri:-tab-4"
+          aria-labelledby="react-aria6177417102-:ri:-tab-4"
           class="fade p-4 tab-pane"
-          id="react-aria9318592583-:ri:-tabpane-4"
+          id="react-aria6177417102-:ri:-tabpane-4"
           role="tabpanel"
         >
           Contenuto 4
@@ -23563,9 +23563,9 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
     <div
       aria-label="Lettore video"
       autoplay="true"
-      class="video-js vjs-theme-bootstrap-italia vjs-fluid vjs-big-play-centered vjs-paused vjs_video_1337-dimensions vjs-controls-enabled vjs-workinghover vjs-v8 vjs-user-active"
+      class="video-js vjs-theme-bootstrap-italia vjs-fluid vjs-big-play-centered vjs-paused vjs_video_1331-dimensions vjs-controls-enabled vjs-workinghover vjs-v8 vjs-user-active"
       data-bs-video="true"
-      id="vjs_video_1337"
+      id="vjs_video_1331"
       lang="it"
       loop="true"
       preload="auto"
@@ -23577,7 +23577,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
         autoplay=""
         class="vjs-tech"
         data-bs-video="true"
-        id="vjs_video_1337_html5_api"
+        id="vjs_video_1331_html5_api"
         loop=""
         preload="auto"
         tabindex="-1"
@@ -23600,11 +23600,11 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
       >
         <div
           class="vjs-title-bar-title"
-          id="vjs-title-bar-title-1362"
+          id="vjs-title-bar-title-1356"
         />
         <div
           class="vjs-title-bar-description"
-          id="vjs-title-bar-description-1363"
+          id="vjs-title-bar-description-1357"
         />
       </div>
       <div
@@ -23905,12 +23905,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
         >
           <div
             class="vjs-playback-rate-value"
-            id="vjs-playback-rate-value-label-vjs_video_1337_component_1607"
+            id="vjs-playback-rate-value-label-vjs_video_1331_component_1601"
           >
             1x
           </div>
           <button
-            aria-describedby="vjs-playback-rate-value-label-vjs_video_1337_component_1607"
+            aria-describedby="vjs-playback-rate-value-label-vjs_video_1331_component_1601"
             aria-disabled="false"
             aria-expanded="false"
             aria-haspopup="true"
@@ -24141,7 +24141,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
         </button>
       </div>
       <div
-        aria-describedby="vjs_video_1337_component_1822_description"
+        aria-describedby="vjs_video_1331_component_1816_description"
         aria-hidden="true"
         aria-label="Finestra di dialogo"
         aria-live="polite"
@@ -24151,7 +24151,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
       >
         <p
           class="vjs-modal-dialog-description vjs-control-text"
-          id="vjs_video_1337_component_1822_description"
+          id="vjs_video_1331_component_1816_description"
         >
           This is a modal window.
         </p>
@@ -24161,7 +24161,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
         />
       </div>
       <div
-        aria-describedby="vjs_video_1337_component_1828_description"
+        aria-describedby="vjs_video_1331_component_1822_description"
         aria-hidden="true"
         aria-label="Finestra di dialogo dei parametri della trascrizione dei sottotitoli"
         aria-live="polite"
@@ -24171,7 +24171,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
       >
         <p
           class="vjs-modal-dialog-description vjs-control-text"
-          id="vjs_video_1337_component_1828_description"
+          id="vjs_video_1331_component_1822_description"
         >
           Inizio della finestra di dialogo. Il tasto Esc annullerà l’operazione e chiuderà la finestra.
         </p>
@@ -24186,7 +24186,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               class="vjs-fg vjs-track-setting"
             >
               <legend
-                id="captions-text-legend-vjs_video_1337_component_1828"
+                id="captions-text-legend-vjs_video_1331_component_1822"
               >
                 Testo
               </legend>
@@ -24195,67 +24195,67 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_1855"
-                  id="captions-foreground-color-vjs_video_1337_component_1828"
+                  for="vjs_select_1849"
+                  id="captions-foreground-color-vjs_video_1331_component_1822"
                 >
                   Colore
                 </label>
                 <select
-                  aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828"
-                  id="vjs_select_1855"
+                  aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822"
+                  id="vjs_select_1849"
                 >
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828-White"
-                    id="captions-foreground-color-vjs_video_1337_component_1828-White"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822-White"
+                    id="captions-foreground-color-vjs_video_1331_component_1822-White"
                     value="#FFF"
                   >
                     Bianco
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828-Black"
-                    id="captions-foreground-color-vjs_video_1337_component_1828-Black"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822-Black"
+                    id="captions-foreground-color-vjs_video_1331_component_1822-Black"
                     value="#000"
                   >
                     Nero
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828-Red"
-                    id="captions-foreground-color-vjs_video_1337_component_1828-Red"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822-Red"
+                    id="captions-foreground-color-vjs_video_1331_component_1822-Red"
                     value="#F00"
                   >
                     Rosso
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828-Green"
-                    id="captions-foreground-color-vjs_video_1337_component_1828-Green"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822-Green"
+                    id="captions-foreground-color-vjs_video_1331_component_1822-Green"
                     value="#0F0"
                   >
                     Verde
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828-Blue"
-                    id="captions-foreground-color-vjs_video_1337_component_1828-Blue"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822-Blue"
+                    id="captions-foreground-color-vjs_video_1331_component_1822-Blue"
                     value="#00F"
                   >
                     Blu
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828-Yellow"
-                    id="captions-foreground-color-vjs_video_1337_component_1828-Yellow"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822-Yellow"
+                    id="captions-foreground-color-vjs_video_1331_component_1822-Yellow"
                     value="#FF0"
                   >
                     Giallo
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828-Magenta"
-                    id="captions-foreground-color-vjs_video_1337_component_1828-Magenta"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822-Magenta"
+                    id="captions-foreground-color-vjs_video_1331_component_1822-Magenta"
                     value="#F0F"
                   >
                     Magenta
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828 captions-foreground-color-vjs_video_1337_component_1828-Cyan"
-                    id="captions-foreground-color-vjs_video_1337_component_1828-Cyan"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822 captions-foreground-color-vjs_video_1331_component_1822-Cyan"
+                    id="captions-foreground-color-vjs_video_1331_component_1822-Cyan"
                     value="#0FF"
                   >
                     Ciano
@@ -24267,25 +24267,25 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_1860"
-                  id="captions-foreground-opacity-vjs_video_1337_component_1828"
+                  for="vjs_select_1854"
+                  id="captions-foreground-opacity-vjs_video_1331_component_1822"
                 >
                   Opacità
                 </label>
                 <select
-                  aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-opacity-vjs_video_1337_component_1828"
-                  id="vjs_select_1860"
+                  aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-opacity-vjs_video_1331_component_1822"
+                  id="vjs_select_1854"
                 >
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-opacity-vjs_video_1337_component_1828 captions-foreground-opacity-vjs_video_1337_component_1828-Opaque"
-                    id="captions-foreground-opacity-vjs_video_1337_component_1828-Opaque"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-opacity-vjs_video_1331_component_1822 captions-foreground-opacity-vjs_video_1331_component_1822-Opaque"
+                    id="captions-foreground-opacity-vjs_video_1331_component_1822-Opaque"
                     value="1"
                   >
                     Opaco
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1337_component_1828 captions-foreground-opacity-vjs_video_1337_component_1828 captions-foreground-opacity-vjs_video_1337_component_1828-SemiTransparent"
-                    id="captions-foreground-opacity-vjs_video_1337_component_1828-SemiTransparent"
+                    aria-labelledby="captions-text-legend-vjs_video_1331_component_1822 captions-foreground-opacity-vjs_video_1331_component_1822 captions-foreground-opacity-vjs_video_1331_component_1822-SemiTransparent"
+                    id="captions-foreground-opacity-vjs_video_1331_component_1822-SemiTransparent"
                     value="0.5"
                   >
                     Semi-Trasparente
@@ -24297,7 +24297,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               class="vjs-bg vjs-track-setting"
             >
               <legend
-                id="captions-background-vjs_video_1337_component_1828"
+                id="captions-background-vjs_video_1331_component_1822"
               >
                 Sfondo testo
               </legend>
@@ -24306,67 +24306,67 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_1870"
-                  id="captions-background-color-vjs_video_1337_component_1828"
+                  for="vjs_select_1864"
+                  id="captions-background-color-vjs_video_1331_component_1822"
                 >
                   Colore
                 </label>
                 <select
-                  aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828"
-                  id="vjs_select_1870"
+                  aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822"
+                  id="vjs_select_1864"
                 >
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828-Black"
-                    id="captions-background-color-vjs_video_1337_component_1828-Black"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822-Black"
+                    id="captions-background-color-vjs_video_1331_component_1822-Black"
                     value="#000"
                   >
                     Nero
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828-White"
-                    id="captions-background-color-vjs_video_1337_component_1828-White"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822-White"
+                    id="captions-background-color-vjs_video_1331_component_1822-White"
                     value="#FFF"
                   >
                     Bianco
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828-Red"
-                    id="captions-background-color-vjs_video_1337_component_1828-Red"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822-Red"
+                    id="captions-background-color-vjs_video_1331_component_1822-Red"
                     value="#F00"
                   >
                     Rosso
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828-Green"
-                    id="captions-background-color-vjs_video_1337_component_1828-Green"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822-Green"
+                    id="captions-background-color-vjs_video_1331_component_1822-Green"
                     value="#0F0"
                   >
                     Verde
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828-Blue"
-                    id="captions-background-color-vjs_video_1337_component_1828-Blue"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822-Blue"
+                    id="captions-background-color-vjs_video_1331_component_1822-Blue"
                     value="#00F"
                   >
                     Blu
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828-Yellow"
-                    id="captions-background-color-vjs_video_1337_component_1828-Yellow"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822-Yellow"
+                    id="captions-background-color-vjs_video_1331_component_1822-Yellow"
                     value="#FF0"
                   >
                     Giallo
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828-Magenta"
-                    id="captions-background-color-vjs_video_1337_component_1828-Magenta"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822-Magenta"
+                    id="captions-background-color-vjs_video_1331_component_1822-Magenta"
                     value="#F0F"
                   >
                     Magenta
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828 captions-background-color-vjs_video_1337_component_1828-Cyan"
-                    id="captions-background-color-vjs_video_1337_component_1828-Cyan"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822 captions-background-color-vjs_video_1331_component_1822-Cyan"
+                    id="captions-background-color-vjs_video_1331_component_1822-Cyan"
                     value="#0FF"
                   >
                     Ciano
@@ -24378,32 +24378,32 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_1875"
-                  id="captions-background-opacity-vjs_video_1337_component_1828"
+                  for="vjs_select_1869"
+                  id="captions-background-opacity-vjs_video_1331_component_1822"
                 >
                   Opacità
                 </label>
                 <select
-                  aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-opacity-vjs_video_1337_component_1828"
-                  id="vjs_select_1875"
+                  aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-opacity-vjs_video_1331_component_1822"
+                  id="vjs_select_1869"
                 >
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-opacity-vjs_video_1337_component_1828 captions-background-opacity-vjs_video_1337_component_1828-Opaque"
-                    id="captions-background-opacity-vjs_video_1337_component_1828-Opaque"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-opacity-vjs_video_1331_component_1822 captions-background-opacity-vjs_video_1331_component_1822-Opaque"
+                    id="captions-background-opacity-vjs_video_1331_component_1822-Opaque"
                     value="1"
                   >
                     Opaco
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-opacity-vjs_video_1337_component_1828 captions-background-opacity-vjs_video_1337_component_1828-SemiTransparent"
-                    id="captions-background-opacity-vjs_video_1337_component_1828-SemiTransparent"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-opacity-vjs_video_1331_component_1822 captions-background-opacity-vjs_video_1331_component_1822-SemiTransparent"
+                    id="captions-background-opacity-vjs_video_1331_component_1822-SemiTransparent"
                     value="0.5"
                   >
                     Semi-Trasparente
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1337_component_1828 captions-background-opacity-vjs_video_1337_component_1828 captions-background-opacity-vjs_video_1337_component_1828-Transparent"
-                    id="captions-background-opacity-vjs_video_1337_component_1828-Transparent"
+                    aria-labelledby="captions-background-vjs_video_1331_component_1822 captions-background-opacity-vjs_video_1331_component_1822 captions-background-opacity-vjs_video_1331_component_1822-Transparent"
+                    id="captions-background-opacity-vjs_video_1331_component_1822-Transparent"
                     value="0"
                   >
                     Trasparente
@@ -24415,7 +24415,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               class="vjs-window vjs-track-setting"
             >
               <legend
-                id="captions-window-vjs_video_1337_component_1828"
+                id="captions-window-vjs_video_1331_component_1822"
               >
                 Sfondo area sottotitoli
               </legend>
@@ -24424,67 +24424,67 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_1885"
-                  id="captions-window-color-vjs_video_1337_component_1828"
+                  for="vjs_select_1879"
+                  id="captions-window-color-vjs_video_1331_component_1822"
                 >
                   Colore
                 </label>
                 <select
-                  aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828"
-                  id="vjs_select_1885"
+                  aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822"
+                  id="vjs_select_1879"
                 >
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828-Black"
-                    id="captions-window-color-vjs_video_1337_component_1828-Black"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822-Black"
+                    id="captions-window-color-vjs_video_1331_component_1822-Black"
                     value="#000"
                   >
                     Nero
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828-White"
-                    id="captions-window-color-vjs_video_1337_component_1828-White"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822-White"
+                    id="captions-window-color-vjs_video_1331_component_1822-White"
                     value="#FFF"
                   >
                     Bianco
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828-Red"
-                    id="captions-window-color-vjs_video_1337_component_1828-Red"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822-Red"
+                    id="captions-window-color-vjs_video_1331_component_1822-Red"
                     value="#F00"
                   >
                     Rosso
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828-Green"
-                    id="captions-window-color-vjs_video_1337_component_1828-Green"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822-Green"
+                    id="captions-window-color-vjs_video_1331_component_1822-Green"
                     value="#0F0"
                   >
                     Verde
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828-Blue"
-                    id="captions-window-color-vjs_video_1337_component_1828-Blue"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822-Blue"
+                    id="captions-window-color-vjs_video_1331_component_1822-Blue"
                     value="#00F"
                   >
                     Blu
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828-Yellow"
-                    id="captions-window-color-vjs_video_1337_component_1828-Yellow"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822-Yellow"
+                    id="captions-window-color-vjs_video_1331_component_1822-Yellow"
                     value="#FF0"
                   >
                     Giallo
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828-Magenta"
-                    id="captions-window-color-vjs_video_1337_component_1828-Magenta"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822-Magenta"
+                    id="captions-window-color-vjs_video_1331_component_1822-Magenta"
                     value="#F0F"
                   >
                     Magenta
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828 captions-window-color-vjs_video_1337_component_1828-Cyan"
-                    id="captions-window-color-vjs_video_1337_component_1828-Cyan"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822 captions-window-color-vjs_video_1331_component_1822-Cyan"
+                    id="captions-window-color-vjs_video_1331_component_1822-Cyan"
                     value="#0FF"
                   >
                     Ciano
@@ -24496,32 +24496,32 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_1890"
-                  id="captions-window-opacity-vjs_video_1337_component_1828"
+                  for="vjs_select_1884"
+                  id="captions-window-opacity-vjs_video_1331_component_1822"
                 >
                   Opacità
                 </label>
                 <select
-                  aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-opacity-vjs_video_1337_component_1828"
-                  id="vjs_select_1890"
+                  aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-opacity-vjs_video_1331_component_1822"
+                  id="vjs_select_1884"
                 >
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-opacity-vjs_video_1337_component_1828 captions-window-opacity-vjs_video_1337_component_1828-Transparent"
-                    id="captions-window-opacity-vjs_video_1337_component_1828-Transparent"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-opacity-vjs_video_1331_component_1822 captions-window-opacity-vjs_video_1331_component_1822-Transparent"
+                    id="captions-window-opacity-vjs_video_1331_component_1822-Transparent"
                     value="0"
                   >
                     Trasparente
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-opacity-vjs_video_1337_component_1828 captions-window-opacity-vjs_video_1337_component_1828-SemiTransparent"
-                    id="captions-window-opacity-vjs_video_1337_component_1828-SemiTransparent"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-opacity-vjs_video_1331_component_1822 captions-window-opacity-vjs_video_1331_component_1822-SemiTransparent"
+                    id="captions-window-opacity-vjs_video_1331_component_1822-SemiTransparent"
                     value="0.5"
                   >
                     Semi-Trasparente
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1337_component_1828 captions-window-opacity-vjs_video_1337_component_1828 captions-window-opacity-vjs_video_1337_component_1828-Opaque"
-                    id="captions-window-opacity-vjs_video_1337_component_1828-Opaque"
+                    aria-labelledby="captions-window-vjs_video_1331_component_1822 captions-window-opacity-vjs_video_1331_component_1822 captions-window-opacity-vjs_video_1331_component_1822-Opaque"
+                    id="captions-window-opacity-vjs_video_1331_component_1822-Opaque"
                     value="1"
                   >
                     Opaco
@@ -24537,73 +24537,73 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               class="vjs-font-percent vjs-track-setting"
             >
               <legend
-                id="captions-font-size-vjs_video_1337_component_1828"
+                id="captions-font-size-vjs_video_1331_component_1822"
               >
                 Dimensione dei caratteri
               </legend>
               <select
-                aria-labelledby="captions-font-size-vjs_video_1337_component_1828"
-                id="vjs_select_1905"
+                aria-labelledby="captions-font-size-vjs_video_1331_component_1822"
+                id="vjs_select_1899"
               >
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1337_component_1828 vjs-track-option-1906-50"
-                  id="vjs-track-option-1906-50"
+                  aria-labelledby="captions-font-size-vjs_video_1331_component_1822 vjs-track-option-1900-50"
+                  id="vjs-track-option-1900-50"
                   value="0.50"
                 >
                   50%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1337_component_1828 vjs-track-option-1907-75"
-                  id="vjs-track-option-1907-75"
+                  aria-labelledby="captions-font-size-vjs_video_1331_component_1822 vjs-track-option-1901-75"
+                  id="vjs-track-option-1901-75"
                   value="0.75"
                 >
                   75%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1337_component_1828 vjs-track-option-1908-100"
-                  id="vjs-track-option-1908-100"
+                  aria-labelledby="captions-font-size-vjs_video_1331_component_1822 vjs-track-option-1902-100"
+                  id="vjs-track-option-1902-100"
                   value="1.00"
                 >
                   100%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1337_component_1828 vjs-track-option-1909-125"
-                  id="vjs-track-option-1909-125"
+                  aria-labelledby="captions-font-size-vjs_video_1331_component_1822 vjs-track-option-1903-125"
+                  id="vjs-track-option-1903-125"
                   value="1.25"
                 >
                   125%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1337_component_1828 vjs-track-option-1910-150"
-                  id="vjs-track-option-1910-150"
+                  aria-labelledby="captions-font-size-vjs_video_1331_component_1822 vjs-track-option-1904-150"
+                  id="vjs-track-option-1904-150"
                   value="1.50"
                 >
                   150%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1337_component_1828 vjs-track-option-1911-175"
-                  id="vjs-track-option-1911-175"
+                  aria-labelledby="captions-font-size-vjs_video_1331_component_1822 vjs-track-option-1905-175"
+                  id="vjs-track-option-1905-175"
                   value="1.75"
                 >
                   175%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1337_component_1828 vjs-track-option-1912-200"
-                  id="vjs-track-option-1912-200"
+                  aria-labelledby="captions-font-size-vjs_video_1331_component_1822 vjs-track-option-1906-200"
+                  id="vjs-track-option-1906-200"
                   value="2.00"
                 >
                   200%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1337_component_1828 vjs-track-option-1913-300"
-                  id="vjs-track-option-1913-300"
+                  aria-labelledby="captions-font-size-vjs_video_1331_component_1822 vjs-track-option-1907-300"
+                  id="vjs-track-option-1907-300"
                   value="3.00"
                 >
                   300%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1337_component_1828 vjs-track-option-1914-400"
-                  id="vjs-track-option-1914-400"
+                  aria-labelledby="captions-font-size-vjs_video_1331_component_1822 vjs-track-option-1908-400"
+                  id="vjs-track-option-1908-400"
                   value="4.00"
                 >
                   400%
@@ -24614,45 +24614,45 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               class="vjs-edge-style vjs-track-setting"
             >
               <legend
-                id="captions-edge-style-vjs_video_1337_component_1828"
+                id="captions-edge-style-vjs_video_1331_component_1822"
               >
                 Stile dei bordi del testo
               </legend>
               <select
-                aria-labelledby="captions-edge-style-vjs_video_1337_component_1828"
-                id="vjs_select_1924"
+                aria-labelledby="captions-edge-style-vjs_video_1331_component_1822"
+                id="vjs_select_1918"
               >
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1337_component_1828 vjs-track-option-1925-None"
-                  id="vjs-track-option-1925-None"
+                  aria-labelledby="captions-edge-style-vjs_video_1331_component_1822 vjs-track-option-1919-None"
+                  id="vjs-track-option-1919-None"
                   value="none"
                 >
                   Nessuno
                 </option>
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1337_component_1828 vjs-track-option-1926-Raised"
-                  id="vjs-track-option-1926-Raised"
+                  aria-labelledby="captions-edge-style-vjs_video_1331_component_1822 vjs-track-option-1920-Raised"
+                  id="vjs-track-option-1920-Raised"
                   value="raised"
                 >
                   Raised
                 </option>
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1337_component_1828 vjs-track-option-1927-Depressed"
-                  id="vjs-track-option-1927-Depressed"
+                  aria-labelledby="captions-edge-style-vjs_video_1331_component_1822 vjs-track-option-1921-Depressed"
+                  id="vjs-track-option-1921-Depressed"
                   value="depressed"
                 >
                   Depressed
                 </option>
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1337_component_1828 vjs-track-option-1928-Uniform"
-                  id="vjs-track-option-1928-Uniform"
+                  aria-labelledby="captions-edge-style-vjs_video_1331_component_1822 vjs-track-option-1922-Uniform"
+                  id="vjs-track-option-1922-Uniform"
                   value="uniform"
                 >
                   Uniforme
                 </option>
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1337_component_1828 vjs-track-option-1929-Dropshadow"
-                  id="vjs-track-option-1929-Dropshadow"
+                  aria-labelledby="captions-edge-style-vjs_video_1331_component_1822 vjs-track-option-1923-Dropshadow"
+                  id="vjs-track-option-1923-Dropshadow"
                   value="dropshadow"
                 >
                   Ombra
@@ -24663,59 +24663,59 @@ exports[`Stories Snapshots Documentazione/Componenti/Video AutoplayAndControls 1
               class="vjs-font-family vjs-track-setting"
             >
               <legend
-                id="captions-font-family-vjs_video_1337_component_1828"
+                id="captions-font-family-vjs_video_1331_component_1822"
               >
                 Carattere
               </legend>
               <select
-                aria-labelledby="captions-font-family-vjs_video_1337_component_1828"
-                id="vjs_select_1939"
+                aria-labelledby="captions-font-family-vjs_video_1331_component_1822"
+                id="vjs_select_1933"
               >
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1337_component_1828 vjs-track-option-1940-ProportionalSansSerif"
-                  id="vjs-track-option-1940-ProportionalSansSerif"
+                  aria-labelledby="captions-font-family-vjs_video_1331_component_1822 vjs-track-option-1934-ProportionalSansSerif"
+                  id="vjs-track-option-1934-ProportionalSansSerif"
                   value="proportionalSansSerif"
                 >
                   Sans-Serif proporzionale
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1337_component_1828 vjs-track-option-1941-MonospaceSansSerif"
-                  id="vjs-track-option-1941-MonospaceSansSerif"
+                  aria-labelledby="captions-font-family-vjs_video_1331_component_1822 vjs-track-option-1935-MonospaceSansSerif"
+                  id="vjs-track-option-1935-MonospaceSansSerif"
                   value="monospaceSansSerif"
                 >
                   Sans-Serif monospaziato
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1337_component_1828 vjs-track-option-1942-ProportionalSerif"
-                  id="vjs-track-option-1942-ProportionalSerif"
+                  aria-labelledby="captions-font-family-vjs_video_1331_component_1822 vjs-track-option-1936-ProportionalSerif"
+                  id="vjs-track-option-1936-ProportionalSerif"
                   value="proportionalSerif"
                 >
                   Serif proporzionale
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1337_component_1828 vjs-track-option-1943-MonospaceSerif"
-                  id="vjs-track-option-1943-MonospaceSerif"
+                  aria-labelledby="captions-font-family-vjs_video_1331_component_1822 vjs-track-option-1937-MonospaceSerif"
+                  id="vjs-track-option-1937-MonospaceSerif"
                   value="monospaceSerif"
                 >
                   Serif monospaziato
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1337_component_1828 vjs-track-option-1944-Casual"
-                  id="vjs-track-option-1944-Casual"
+                  aria-labelledby="captions-font-family-vjs_video_1331_component_1822 vjs-track-option-1938-Casual"
+                  id="vjs-track-option-1938-Casual"
                   value="casual"
                 >
                   Casual
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1337_component_1828 vjs-track-option-1945-Script"
-                  id="vjs-track-option-1945-Script"
+                  aria-labelledby="captions-font-family-vjs_video_1331_component_1822 vjs-track-option-1939-Script"
+                  id="vjs-track-option-1939-Script"
                   value="script"
                 >
                   Script
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1337_component_1828 vjs-track-option-1946-SmallCaps"
-                  id="vjs-track-option-1946-SmallCaps"
+                  aria-labelledby="captions-font-family-vjs_video_1331_component_1822 vjs-track-option-1940-SmallCaps"
+                  id="vjs-track-option-1940-SmallCaps"
                   value="small-caps"
                 >
                   Maiuscoletto
@@ -26176,7 +26176,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video Tracks 1`] = `
   >
     <div
       aria-label="Lettore video"
-      class="video-js vjs-theme-bootstrap-italia vjs-fluid vjs-big-play-centered vjs-paused vjs_video_675-dimensions vjs-workinghover vjs-v8 vjs-user-active vjs-error vjs-controls-disabled"
+      class="video-js vjs-theme-bootstrap-italia vjs-fluid vjs-big-play-centered vjs-paused vjs_video_675-dimensions vjs-controls-enabled vjs-workinghover vjs-v8 vjs-user-active"
       data-bs-video="true"
       id="vjs_video_675"
       lang="it"
@@ -26361,8 +26361,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video Tracks 1`] = `
               aria-live="polite"
               aria-valuemax="100"
               aria-valuemin="0"
-              aria-valuenow="100"
-              aria-valuetext="100%"
+              aria-valuenow="0"
               class="vjs-volume-bar vjs-slider-bar vjs-slider vjs-slider-horizontal"
               role="slider"
               tabindex="0"
@@ -26781,10 +26780,10 @@ exports[`Stories Snapshots Documentazione/Componenti/Video Tracks 1`] = `
       </div>
       <div
         aria-describedby="vjs_video_675_component_1158_description"
-        aria-hidden="false"
+        aria-hidden="true"
         aria-label="Finestra di dialogo"
         aria-live="polite"
-        class="vjs-error-display vjs-modal-dialog"
+        class="vjs-error-display vjs-modal-dialog vjs-hidden "
         role="dialog"
         tabindex="-1"
       >
@@ -26797,9 +26796,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video Tracks 1`] = `
         <div
           class="vjs-modal-dialog-content"
           role="document"
-        >
-          Non ci sono fonti compatibili per questo filmato.
-        </div>
+        />
       </div>
       <div
         aria-describedby="vjs_video_675_component_1164_description"
@@ -28817,9 +28814,9 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
   >
     <div
       aria-label="Lettore video"
-      class="video-js vjs-theme-bootstrap-italia vjs-fluid vjs-big-play-centered vjs-paused vjs_video_1994-dimensions vjs-controls-enabled vjs-workinghover vjs-v8 vjs-user-active"
+      class="video-js vjs-theme-bootstrap-italia vjs-fluid vjs-big-play-centered vjs-paused vjs_video_1992-dimensions vjs-controls-enabled vjs-workinghover vjs-v8 vjs-user-active"
       data-bs-video="true"
-      id="vjs_video_1994"
+      id="vjs_video_1992"
       lang="it"
       preload="auto"
       role="region"
@@ -28829,7 +28826,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
       <video
         class="vjs-tech"
         data-bs-video="true"
-        id="vjs_video_1994_html5_api"
+        id="vjs_video_1992_html5_api"
         preload="auto"
         tabindex="-1"
       />
@@ -28842,11 +28839,11 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
       >
         <div
           class="vjs-title-bar-title"
-          id="vjs-title-bar-title-2081"
+          id="vjs-title-bar-title-2079"
         />
         <div
           class="vjs-title-bar-description"
-          id="vjs-title-bar-description-2082"
+          id="vjs-title-bar-description-2080"
         />
       </div>
       <div
@@ -29148,12 +29145,12 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
         >
           <div
             class="vjs-playback-rate-value"
-            id="vjs-playback-rate-value-label-vjs_video_1994_component_2327"
+            id="vjs-playback-rate-value-label-vjs_video_1992_component_2325"
           >
             1x
           </div>
           <button
-            aria-describedby="vjs-playback-rate-value-label-vjs_video_1994_component_2327"
+            aria-describedby="vjs-playback-rate-value-label-vjs_video_1992_component_2325"
             aria-disabled="false"
             aria-expanded="false"
             aria-haspopup="true"
@@ -29402,7 +29399,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
         </button>
       </div>
       <div
-        aria-describedby="vjs_video_1994_component_2542_description"
+        aria-describedby="vjs_video_1992_component_2540_description"
         aria-hidden="true"
         aria-label="Finestra di dialogo"
         aria-live="polite"
@@ -29412,7 +29409,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
       >
         <p
           class="vjs-modal-dialog-description vjs-control-text"
-          id="vjs_video_1994_component_2542_description"
+          id="vjs_video_1992_component_2540_description"
         >
           This is a modal window.
         </p>
@@ -29422,7 +29419,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
         />
       </div>
       <div
-        aria-describedby="vjs_video_1994_component_2548_description"
+        aria-describedby="vjs_video_1992_component_2546_description"
         aria-hidden="true"
         aria-label="Finestra di dialogo dei parametri della trascrizione dei sottotitoli"
         aria-live="polite"
@@ -29432,7 +29429,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
       >
         <p
           class="vjs-modal-dialog-description vjs-control-text"
-          id="vjs_video_1994_component_2548_description"
+          id="vjs_video_1992_component_2546_description"
         >
           Inizio della finestra di dialogo. Il tasto Esc annullerà l’operazione e chiuderà la finestra.
         </p>
@@ -29447,7 +29444,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               class="vjs-fg vjs-track-setting"
             >
               <legend
-                id="captions-text-legend-vjs_video_1994_component_2548"
+                id="captions-text-legend-vjs_video_1992_component_2546"
               >
                 Testo
               </legend>
@@ -29456,67 +29453,67 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_2575"
-                  id="captions-foreground-color-vjs_video_1994_component_2548"
+                  for="vjs_select_2573"
+                  id="captions-foreground-color-vjs_video_1992_component_2546"
                 >
                   Colore
                 </label>
                 <select
-                  aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548"
-                  id="vjs_select_2575"
+                  aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546"
+                  id="vjs_select_2573"
                 >
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548-White"
-                    id="captions-foreground-color-vjs_video_1994_component_2548-White"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546-White"
+                    id="captions-foreground-color-vjs_video_1992_component_2546-White"
                     value="#FFF"
                   >
                     Bianco
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548-Black"
-                    id="captions-foreground-color-vjs_video_1994_component_2548-Black"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546-Black"
+                    id="captions-foreground-color-vjs_video_1992_component_2546-Black"
                     value="#000"
                   >
                     Nero
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548-Red"
-                    id="captions-foreground-color-vjs_video_1994_component_2548-Red"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546-Red"
+                    id="captions-foreground-color-vjs_video_1992_component_2546-Red"
                     value="#F00"
                   >
                     Rosso
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548-Green"
-                    id="captions-foreground-color-vjs_video_1994_component_2548-Green"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546-Green"
+                    id="captions-foreground-color-vjs_video_1992_component_2546-Green"
                     value="#0F0"
                   >
                     Verde
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548-Blue"
-                    id="captions-foreground-color-vjs_video_1994_component_2548-Blue"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546-Blue"
+                    id="captions-foreground-color-vjs_video_1992_component_2546-Blue"
                     value="#00F"
                   >
                     Blu
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548-Yellow"
-                    id="captions-foreground-color-vjs_video_1994_component_2548-Yellow"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546-Yellow"
+                    id="captions-foreground-color-vjs_video_1992_component_2546-Yellow"
                     value="#FF0"
                   >
                     Giallo
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548-Magenta"
-                    id="captions-foreground-color-vjs_video_1994_component_2548-Magenta"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546-Magenta"
+                    id="captions-foreground-color-vjs_video_1992_component_2546-Magenta"
                     value="#F0F"
                   >
                     Magenta
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548 captions-foreground-color-vjs_video_1994_component_2548-Cyan"
-                    id="captions-foreground-color-vjs_video_1994_component_2548-Cyan"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546 captions-foreground-color-vjs_video_1992_component_2546-Cyan"
+                    id="captions-foreground-color-vjs_video_1992_component_2546-Cyan"
                     value="#0FF"
                   >
                     Ciano
@@ -29528,25 +29525,25 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_2580"
-                  id="captions-foreground-opacity-vjs_video_1994_component_2548"
+                  for="vjs_select_2578"
+                  id="captions-foreground-opacity-vjs_video_1992_component_2546"
                 >
                   Opacità
                 </label>
                 <select
-                  aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-opacity-vjs_video_1994_component_2548"
-                  id="vjs_select_2580"
+                  aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-opacity-vjs_video_1992_component_2546"
+                  id="vjs_select_2578"
                 >
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-opacity-vjs_video_1994_component_2548 captions-foreground-opacity-vjs_video_1994_component_2548-Opaque"
-                    id="captions-foreground-opacity-vjs_video_1994_component_2548-Opaque"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-opacity-vjs_video_1992_component_2546 captions-foreground-opacity-vjs_video_1992_component_2546-Opaque"
+                    id="captions-foreground-opacity-vjs_video_1992_component_2546-Opaque"
                     value="1"
                   >
                     Opaco
                   </option>
                   <option
-                    aria-labelledby="captions-text-legend-vjs_video_1994_component_2548 captions-foreground-opacity-vjs_video_1994_component_2548 captions-foreground-opacity-vjs_video_1994_component_2548-SemiTransparent"
-                    id="captions-foreground-opacity-vjs_video_1994_component_2548-SemiTransparent"
+                    aria-labelledby="captions-text-legend-vjs_video_1992_component_2546 captions-foreground-opacity-vjs_video_1992_component_2546 captions-foreground-opacity-vjs_video_1992_component_2546-SemiTransparent"
+                    id="captions-foreground-opacity-vjs_video_1992_component_2546-SemiTransparent"
                     value="0.5"
                   >
                     Semi-Trasparente
@@ -29558,7 +29555,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               class="vjs-bg vjs-track-setting"
             >
               <legend
-                id="captions-background-vjs_video_1994_component_2548"
+                id="captions-background-vjs_video_1992_component_2546"
               >
                 Sfondo testo
               </legend>
@@ -29567,67 +29564,67 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_2590"
-                  id="captions-background-color-vjs_video_1994_component_2548"
+                  for="vjs_select_2588"
+                  id="captions-background-color-vjs_video_1992_component_2546"
                 >
                   Colore
                 </label>
                 <select
-                  aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548"
-                  id="vjs_select_2590"
+                  aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546"
+                  id="vjs_select_2588"
                 >
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548-Black"
-                    id="captions-background-color-vjs_video_1994_component_2548-Black"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546-Black"
+                    id="captions-background-color-vjs_video_1992_component_2546-Black"
                     value="#000"
                   >
                     Nero
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548-White"
-                    id="captions-background-color-vjs_video_1994_component_2548-White"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546-White"
+                    id="captions-background-color-vjs_video_1992_component_2546-White"
                     value="#FFF"
                   >
                     Bianco
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548-Red"
-                    id="captions-background-color-vjs_video_1994_component_2548-Red"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546-Red"
+                    id="captions-background-color-vjs_video_1992_component_2546-Red"
                     value="#F00"
                   >
                     Rosso
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548-Green"
-                    id="captions-background-color-vjs_video_1994_component_2548-Green"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546-Green"
+                    id="captions-background-color-vjs_video_1992_component_2546-Green"
                     value="#0F0"
                   >
                     Verde
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548-Blue"
-                    id="captions-background-color-vjs_video_1994_component_2548-Blue"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546-Blue"
+                    id="captions-background-color-vjs_video_1992_component_2546-Blue"
                     value="#00F"
                   >
                     Blu
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548-Yellow"
-                    id="captions-background-color-vjs_video_1994_component_2548-Yellow"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546-Yellow"
+                    id="captions-background-color-vjs_video_1992_component_2546-Yellow"
                     value="#FF0"
                   >
                     Giallo
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548-Magenta"
-                    id="captions-background-color-vjs_video_1994_component_2548-Magenta"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546-Magenta"
+                    id="captions-background-color-vjs_video_1992_component_2546-Magenta"
                     value="#F0F"
                   >
                     Magenta
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548 captions-background-color-vjs_video_1994_component_2548-Cyan"
-                    id="captions-background-color-vjs_video_1994_component_2548-Cyan"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546 captions-background-color-vjs_video_1992_component_2546-Cyan"
+                    id="captions-background-color-vjs_video_1992_component_2546-Cyan"
                     value="#0FF"
                   >
                     Ciano
@@ -29639,32 +29636,32 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_2595"
-                  id="captions-background-opacity-vjs_video_1994_component_2548"
+                  for="vjs_select_2593"
+                  id="captions-background-opacity-vjs_video_1992_component_2546"
                 >
                   Opacità
                 </label>
                 <select
-                  aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-opacity-vjs_video_1994_component_2548"
-                  id="vjs_select_2595"
+                  aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-opacity-vjs_video_1992_component_2546"
+                  id="vjs_select_2593"
                 >
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-opacity-vjs_video_1994_component_2548 captions-background-opacity-vjs_video_1994_component_2548-Opaque"
-                    id="captions-background-opacity-vjs_video_1994_component_2548-Opaque"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-opacity-vjs_video_1992_component_2546 captions-background-opacity-vjs_video_1992_component_2546-Opaque"
+                    id="captions-background-opacity-vjs_video_1992_component_2546-Opaque"
                     value="1"
                   >
                     Opaco
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-opacity-vjs_video_1994_component_2548 captions-background-opacity-vjs_video_1994_component_2548-SemiTransparent"
-                    id="captions-background-opacity-vjs_video_1994_component_2548-SemiTransparent"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-opacity-vjs_video_1992_component_2546 captions-background-opacity-vjs_video_1992_component_2546-SemiTransparent"
+                    id="captions-background-opacity-vjs_video_1992_component_2546-SemiTransparent"
                     value="0.5"
                   >
                     Semi-Trasparente
                   </option>
                   <option
-                    aria-labelledby="captions-background-vjs_video_1994_component_2548 captions-background-opacity-vjs_video_1994_component_2548 captions-background-opacity-vjs_video_1994_component_2548-Transparent"
-                    id="captions-background-opacity-vjs_video_1994_component_2548-Transparent"
+                    aria-labelledby="captions-background-vjs_video_1992_component_2546 captions-background-opacity-vjs_video_1992_component_2546 captions-background-opacity-vjs_video_1992_component_2546-Transparent"
+                    id="captions-background-opacity-vjs_video_1992_component_2546-Transparent"
                     value="0"
                   >
                     Trasparente
@@ -29676,7 +29673,7 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               class="vjs-window vjs-track-setting"
             >
               <legend
-                id="captions-window-vjs_video_1994_component_2548"
+                id="captions-window-vjs_video_1992_component_2546"
               >
                 Sfondo area sottotitoli
               </legend>
@@ -29685,67 +29682,67 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_2605"
-                  id="captions-window-color-vjs_video_1994_component_2548"
+                  for="vjs_select_2603"
+                  id="captions-window-color-vjs_video_1992_component_2546"
                 >
                   Colore
                 </label>
                 <select
-                  aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548"
-                  id="vjs_select_2605"
+                  aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546"
+                  id="vjs_select_2603"
                 >
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548-Black"
-                    id="captions-window-color-vjs_video_1994_component_2548-Black"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546-Black"
+                    id="captions-window-color-vjs_video_1992_component_2546-Black"
                     value="#000"
                   >
                     Nero
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548-White"
-                    id="captions-window-color-vjs_video_1994_component_2548-White"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546-White"
+                    id="captions-window-color-vjs_video_1992_component_2546-White"
                     value="#FFF"
                   >
                     Bianco
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548-Red"
-                    id="captions-window-color-vjs_video_1994_component_2548-Red"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546-Red"
+                    id="captions-window-color-vjs_video_1992_component_2546-Red"
                     value="#F00"
                   >
                     Rosso
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548-Green"
-                    id="captions-window-color-vjs_video_1994_component_2548-Green"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546-Green"
+                    id="captions-window-color-vjs_video_1992_component_2546-Green"
                     value="#0F0"
                   >
                     Verde
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548-Blue"
-                    id="captions-window-color-vjs_video_1994_component_2548-Blue"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546-Blue"
+                    id="captions-window-color-vjs_video_1992_component_2546-Blue"
                     value="#00F"
                   >
                     Blu
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548-Yellow"
-                    id="captions-window-color-vjs_video_1994_component_2548-Yellow"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546-Yellow"
+                    id="captions-window-color-vjs_video_1992_component_2546-Yellow"
                     value="#FF0"
                   >
                     Giallo
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548-Magenta"
-                    id="captions-window-color-vjs_video_1994_component_2548-Magenta"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546-Magenta"
+                    id="captions-window-color-vjs_video_1992_component_2546-Magenta"
                     value="#F0F"
                   >
                     Magenta
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548 captions-window-color-vjs_video_1994_component_2548-Cyan"
-                    id="captions-window-color-vjs_video_1994_component_2548-Cyan"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546 captions-window-color-vjs_video_1992_component_2546-Cyan"
+                    id="captions-window-color-vjs_video_1992_component_2546-Cyan"
                     value="#0FF"
                   >
                     Ciano
@@ -29757,32 +29754,32 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               >
                 <label
                   class="vjs-label"
-                  for="vjs_select_2610"
-                  id="captions-window-opacity-vjs_video_1994_component_2548"
+                  for="vjs_select_2608"
+                  id="captions-window-opacity-vjs_video_1992_component_2546"
                 >
                   Opacità
                 </label>
                 <select
-                  aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-opacity-vjs_video_1994_component_2548"
-                  id="vjs_select_2610"
+                  aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-opacity-vjs_video_1992_component_2546"
+                  id="vjs_select_2608"
                 >
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-opacity-vjs_video_1994_component_2548 captions-window-opacity-vjs_video_1994_component_2548-Transparent"
-                    id="captions-window-opacity-vjs_video_1994_component_2548-Transparent"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-opacity-vjs_video_1992_component_2546 captions-window-opacity-vjs_video_1992_component_2546-Transparent"
+                    id="captions-window-opacity-vjs_video_1992_component_2546-Transparent"
                     value="0"
                   >
                     Trasparente
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-opacity-vjs_video_1994_component_2548 captions-window-opacity-vjs_video_1994_component_2548-SemiTransparent"
-                    id="captions-window-opacity-vjs_video_1994_component_2548-SemiTransparent"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-opacity-vjs_video_1992_component_2546 captions-window-opacity-vjs_video_1992_component_2546-SemiTransparent"
+                    id="captions-window-opacity-vjs_video_1992_component_2546-SemiTransparent"
                     value="0.5"
                   >
                     Semi-Trasparente
                   </option>
                   <option
-                    aria-labelledby="captions-window-vjs_video_1994_component_2548 captions-window-opacity-vjs_video_1994_component_2548 captions-window-opacity-vjs_video_1994_component_2548-Opaque"
-                    id="captions-window-opacity-vjs_video_1994_component_2548-Opaque"
+                    aria-labelledby="captions-window-vjs_video_1992_component_2546 captions-window-opacity-vjs_video_1992_component_2546 captions-window-opacity-vjs_video_1992_component_2546-Opaque"
+                    id="captions-window-opacity-vjs_video_1992_component_2546-Opaque"
                     value="1"
                   >
                     Opaco
@@ -29798,73 +29795,73 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               class="vjs-font-percent vjs-track-setting"
             >
               <legend
-                id="captions-font-size-vjs_video_1994_component_2548"
+                id="captions-font-size-vjs_video_1992_component_2546"
               >
                 Dimensione dei caratteri
               </legend>
               <select
-                aria-labelledby="captions-font-size-vjs_video_1994_component_2548"
-                id="vjs_select_2625"
+                aria-labelledby="captions-font-size-vjs_video_1992_component_2546"
+                id="vjs_select_2623"
               >
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1994_component_2548 vjs-track-option-2626-50"
-                  id="vjs-track-option-2626-50"
+                  aria-labelledby="captions-font-size-vjs_video_1992_component_2546 vjs-track-option-2624-50"
+                  id="vjs-track-option-2624-50"
                   value="0.50"
                 >
                   50%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1994_component_2548 vjs-track-option-2627-75"
-                  id="vjs-track-option-2627-75"
+                  aria-labelledby="captions-font-size-vjs_video_1992_component_2546 vjs-track-option-2625-75"
+                  id="vjs-track-option-2625-75"
                   value="0.75"
                 >
                   75%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1994_component_2548 vjs-track-option-2628-100"
-                  id="vjs-track-option-2628-100"
+                  aria-labelledby="captions-font-size-vjs_video_1992_component_2546 vjs-track-option-2626-100"
+                  id="vjs-track-option-2626-100"
                   value="1.00"
                 >
                   100%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1994_component_2548 vjs-track-option-2629-125"
-                  id="vjs-track-option-2629-125"
+                  aria-labelledby="captions-font-size-vjs_video_1992_component_2546 vjs-track-option-2627-125"
+                  id="vjs-track-option-2627-125"
                   value="1.25"
                 >
                   125%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1994_component_2548 vjs-track-option-2630-150"
-                  id="vjs-track-option-2630-150"
+                  aria-labelledby="captions-font-size-vjs_video_1992_component_2546 vjs-track-option-2628-150"
+                  id="vjs-track-option-2628-150"
                   value="1.50"
                 >
                   150%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1994_component_2548 vjs-track-option-2631-175"
-                  id="vjs-track-option-2631-175"
+                  aria-labelledby="captions-font-size-vjs_video_1992_component_2546 vjs-track-option-2629-175"
+                  id="vjs-track-option-2629-175"
                   value="1.75"
                 >
                   175%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1994_component_2548 vjs-track-option-2632-200"
-                  id="vjs-track-option-2632-200"
+                  aria-labelledby="captions-font-size-vjs_video_1992_component_2546 vjs-track-option-2630-200"
+                  id="vjs-track-option-2630-200"
                   value="2.00"
                 >
                   200%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1994_component_2548 vjs-track-option-2633-300"
-                  id="vjs-track-option-2633-300"
+                  aria-labelledby="captions-font-size-vjs_video_1992_component_2546 vjs-track-option-2631-300"
+                  id="vjs-track-option-2631-300"
                   value="3.00"
                 >
                   300%
                 </option>
                 <option
-                  aria-labelledby="captions-font-size-vjs_video_1994_component_2548 vjs-track-option-2634-400"
-                  id="vjs-track-option-2634-400"
+                  aria-labelledby="captions-font-size-vjs_video_1992_component_2546 vjs-track-option-2632-400"
+                  id="vjs-track-option-2632-400"
                   value="4.00"
                 >
                   400%
@@ -29875,45 +29872,45 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               class="vjs-edge-style vjs-track-setting"
             >
               <legend
-                id="captions-edge-style-vjs_video_1994_component_2548"
+                id="captions-edge-style-vjs_video_1992_component_2546"
               >
                 Stile dei bordi del testo
               </legend>
               <select
-                aria-labelledby="captions-edge-style-vjs_video_1994_component_2548"
-                id="vjs_select_2644"
+                aria-labelledby="captions-edge-style-vjs_video_1992_component_2546"
+                id="vjs_select_2642"
               >
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1994_component_2548 vjs-track-option-2645-None"
-                  id="vjs-track-option-2645-None"
+                  aria-labelledby="captions-edge-style-vjs_video_1992_component_2546 vjs-track-option-2643-None"
+                  id="vjs-track-option-2643-None"
                   value="none"
                 >
                   Nessuno
                 </option>
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1994_component_2548 vjs-track-option-2646-Raised"
-                  id="vjs-track-option-2646-Raised"
+                  aria-labelledby="captions-edge-style-vjs_video_1992_component_2546 vjs-track-option-2644-Raised"
+                  id="vjs-track-option-2644-Raised"
                   value="raised"
                 >
                   Raised
                 </option>
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1994_component_2548 vjs-track-option-2647-Depressed"
-                  id="vjs-track-option-2647-Depressed"
+                  aria-labelledby="captions-edge-style-vjs_video_1992_component_2546 vjs-track-option-2645-Depressed"
+                  id="vjs-track-option-2645-Depressed"
                   value="depressed"
                 >
                   Depressed
                 </option>
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1994_component_2548 vjs-track-option-2648-Uniform"
-                  id="vjs-track-option-2648-Uniform"
+                  aria-labelledby="captions-edge-style-vjs_video_1992_component_2546 vjs-track-option-2646-Uniform"
+                  id="vjs-track-option-2646-Uniform"
                   value="uniform"
                 >
                   Uniforme
                 </option>
                 <option
-                  aria-labelledby="captions-edge-style-vjs_video_1994_component_2548 vjs-track-option-2649-Dropshadow"
-                  id="vjs-track-option-2649-Dropshadow"
+                  aria-labelledby="captions-edge-style-vjs_video_1992_component_2546 vjs-track-option-2647-Dropshadow"
+                  id="vjs-track-option-2647-Dropshadow"
                   value="dropshadow"
                 >
                   Ombra
@@ -29924,59 +29921,59 @@ exports[`Stories Snapshots Documentazione/Componenti/Video YouTubeVideo 1`] = `
               class="vjs-font-family vjs-track-setting"
             >
               <legend
-                id="captions-font-family-vjs_video_1994_component_2548"
+                id="captions-font-family-vjs_video_1992_component_2546"
               >
                 Carattere
               </legend>
               <select
-                aria-labelledby="captions-font-family-vjs_video_1994_component_2548"
-                id="vjs_select_2659"
+                aria-labelledby="captions-font-family-vjs_video_1992_component_2546"
+                id="vjs_select_2657"
               >
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1994_component_2548 vjs-track-option-2660-ProportionalSansSerif"
-                  id="vjs-track-option-2660-ProportionalSansSerif"
+                  aria-labelledby="captions-font-family-vjs_video_1992_component_2546 vjs-track-option-2658-ProportionalSansSerif"
+                  id="vjs-track-option-2658-ProportionalSansSerif"
                   value="proportionalSansSerif"
                 >
                   Sans-Serif proporzionale
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1994_component_2548 vjs-track-option-2661-MonospaceSansSerif"
-                  id="vjs-track-option-2661-MonospaceSansSerif"
+                  aria-labelledby="captions-font-family-vjs_video_1992_component_2546 vjs-track-option-2659-MonospaceSansSerif"
+                  id="vjs-track-option-2659-MonospaceSansSerif"
                   value="monospaceSansSerif"
                 >
                   Sans-Serif monospaziato
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1994_component_2548 vjs-track-option-2662-ProportionalSerif"
-                  id="vjs-track-option-2662-ProportionalSerif"
+                  aria-labelledby="captions-font-family-vjs_video_1992_component_2546 vjs-track-option-2660-ProportionalSerif"
+                  id="vjs-track-option-2660-ProportionalSerif"
                   value="proportionalSerif"
                 >
                   Serif proporzionale
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1994_component_2548 vjs-track-option-2663-MonospaceSerif"
-                  id="vjs-track-option-2663-MonospaceSerif"
+                  aria-labelledby="captions-font-family-vjs_video_1992_component_2546 vjs-track-option-2661-MonospaceSerif"
+                  id="vjs-track-option-2661-MonospaceSerif"
                   value="monospaceSerif"
                 >
                   Serif monospaziato
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1994_component_2548 vjs-track-option-2664-Casual"
-                  id="vjs-track-option-2664-Casual"
+                  aria-labelledby="captions-font-family-vjs_video_1992_component_2546 vjs-track-option-2662-Casual"
+                  id="vjs-track-option-2662-Casual"
                   value="casual"
                 >
                   Casual
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1994_component_2548 vjs-track-option-2665-Script"
-                  id="vjs-track-option-2665-Script"
+                  aria-labelledby="captions-font-family-vjs_video_1992_component_2546 vjs-track-option-2663-Script"
+                  id="vjs-track-option-2663-Script"
                   value="script"
                 >
                   Script
                 </option>
                 <option
-                  aria-labelledby="captions-font-family-vjs_video_1994_component_2548 vjs-track-option-2666-SmallCaps"
-                  id="vjs-track-option-2666-SmallCaps"
+                  aria-labelledby="captions-font-family-vjs_video_1992_component_2546 vjs-track-option-2664-SmallCaps"
+                  id="vjs-track-option-2664-SmallCaps"
                   value="small-caps"
                 >
                   Maiuscoletto
@@ -31174,6 +31171,7 @@ exports[`Stories Snapshots Documentazione/Form/Input EsempiDiCampiDiInput 1`] = 
         >
           <button
             class="input-number-add"
+            type="button"
           >
             <span
               class="visually-hidden"
@@ -31183,6 +31181,7 @@ exports[`Stories Snapshots Documentazione/Form/Input EsempiDiCampiDiInput 1`] = 
           </button>
           <button
             class="input-number-sub"
+            type="button"
           >
             <span
               class="visually-hidden"
@@ -31617,6 +31616,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoDimens
         >
           <button
             class="input-number-add"
+            type="button"
           >
             <span
               class="visually-hidden"
@@ -31626,6 +31626,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoDimens
           </button>
           <button
             class="input-number-sub"
+            type="button"
           >
             <span
               class="visually-hidden"
@@ -31666,6 +31667,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoDimens
         >
           <button
             class="input-number-add"
+            type="button"
           >
             <span
               class="visually-hidden"
@@ -31675,6 +31677,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoDimens
           </button>
           <button
             class="input-number-sub"
+            type="button"
           >
             <span
               class="visually-hidden"
@@ -31718,6 +31721,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoDisabi
       >
         <button
           class="input-number-add"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -31725,6 +31729,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoDisabi
         </button>
         <button
           class="input-number-sub"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -31771,6 +31776,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoPercen
       >
         <button
           class="input-number-add"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -31780,6 +31786,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoPercen
         </button>
         <button
           class="input-number-sub"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -31824,6 +31831,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoRidime
       >
         <button
           class="input-number-add"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -31833,6 +31841,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoRidime
         </button>
         <button
           class="input-number-sub"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -31877,6 +31886,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoSteps 
       >
         <button
           class="input-number-add"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -31886,6 +31896,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoSteps 
         </button>
         <button
           class="input-number-sub"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -31935,6 +31946,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoValuta
       >
         <button
           class="input-number-add"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -31944,6 +31956,7 @@ exports[`Stories Snapshots Documentazione/Form/InputNumerico InputNumericoValuta
         </button>
         <button
           class="input-number-sub"
+          type="button"
         >
           <span
             class="visually-hidden"
@@ -34050,6 +34063,7 @@ exports[`Stories Snapshots Documentazione/Form/Validazione ValidazioneCompleta 1
             >
               <button
                 class="input-number-add"
+                type="button"
               >
                 <span
                   class="visually-hidden"
@@ -34057,6 +34071,7 @@ exports[`Stories Snapshots Documentazione/Form/Validazione ValidazioneCompleta 1
               </button>
               <button
                 class="input-number-sub"
+                type="button"
               >
                 <span
                   class="visually-hidden"
@@ -53452,12 +53467,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r2:-tabpane-1"
+        aria-controls="react-aria6177417102-:r2:-tabpane-1"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r2:-tab-1"
+        id="react-aria6177417102-:r2:-tab-1"
         role="tab"
         tabindex="-1"
       >
@@ -53487,12 +53502,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r2:-tabpane-2"
+        aria-controls="react-aria6177417102-:r2:-tabpane-2"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r2:-tab-2"
+        id="react-aria6177417102-:r2:-tab-2"
         role="tab"
         tabindex="0"
       >
@@ -53522,12 +53537,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r2:-tabpane-3"
+        aria-controls="react-aria6177417102-:r2:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r2:-tab-3"
+        id="react-aria6177417102-:r2:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -53557,12 +53572,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r2:-tabpane-4"
+        aria-controls="react-aria6177417102-:r2:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r2:-tab-4"
+        id="react-aria6177417102-:r2:-tab-4"
         role="tab"
       >
         <span>
@@ -53591,33 +53606,33 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloIcone 1`] = `
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria9318592583-:r2:-tab-1"
+      aria-labelledby="react-aria6177417102-:r2:-tab-1"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:r2:-tabpane-1"
+      id="react-aria6177417102-:r2:-tabpane-1"
       role="tabpanel"
     >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:r2:-tab-2"
+      aria-labelledby="react-aria6177417102-:r2:-tab-2"
       class="fade p-4 tab-pane active show"
-      id="react-aria9318592583-:r2:-tabpane-2"
+      id="react-aria6177417102-:r2:-tabpane-2"
       role="tabpanel"
     >
       Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:r2:-tab-3"
+      aria-labelledby="react-aria6177417102-:r2:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:r2:-tabpane-3"
+      id="react-aria6177417102-:r2:-tabpane-3"
       role="tabpanel"
     >
       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:r2:-tab-4"
+      aria-labelledby="react-aria6177417102-:r2:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:r2:-tabpane-4"
+      id="react-aria6177417102-:r2:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -53637,12 +53652,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r1:-tabpane-1"
+        aria-controls="react-aria6177417102-:r1:-tabpane-1"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r1:-tab-1"
+        id="react-aria6177417102-:r1:-tab-1"
         role="tab"
         tabindex="-1"
       >
@@ -53654,12 +53669,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r1:-tabpane-2"
+        aria-controls="react-aria6177417102-:r1:-tabpane-2"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r1:-tab-2"
+        id="react-aria6177417102-:r1:-tab-2"
         role="tab"
         tabindex="0"
       >
@@ -53671,12 +53686,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r1:-tabpane-3"
+        aria-controls="react-aria6177417102-:r1:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r1:-tab-3"
+        id="react-aria6177417102-:r1:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -53688,12 +53703,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r1:-tabpane-4"
+        aria-controls="react-aria6177417102-:r1:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r1:-tab-4"
+        id="react-aria6177417102-:r1:-tab-4"
         role="tab"
       >
         Label
@@ -53704,33 +53719,33 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar SoloTesto 1`] = `
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria9318592583-:r1:-tab-1"
+      aria-labelledby="react-aria6177417102-:r1:-tab-1"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:r1:-tabpane-1"
+      id="react-aria6177417102-:r1:-tabpane-1"
       role="tabpanel"
     >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:r1:-tab-2"
+      aria-labelledby="react-aria6177417102-:r1:-tab-2"
       class="fade p-4 tab-pane active show"
-      id="react-aria9318592583-:r1:-tabpane-2"
+      id="react-aria6177417102-:r1:-tabpane-2"
       role="tabpanel"
     >
       Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:r1:-tab-3"
+      aria-labelledby="react-aria6177417102-:r1:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:r1:-tabpane-3"
+      id="react-aria6177417102-:r1:-tabpane-3"
       role="tabpanel"
     >
       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:r1:-tab-4"
+      aria-labelledby="react-aria6177417102-:r1:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:r1:-tabpane-4"
+      id="react-aria6177417102-:r1:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -53750,12 +53765,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TabBar 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r0:-tabpane-1"
+        aria-controls="react-aria6177417102-:r0:-tabpane-1"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r0:-tab-1"
+        id="react-aria6177417102-:r0:-tab-1"
         role="tab"
         tabindex="-1"
       >
@@ -53767,12 +53782,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TabBar 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r0:-tabpane-2"
+        aria-controls="react-aria6177417102-:r0:-tabpane-2"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r0:-tab-2"
+        id="react-aria6177417102-:r0:-tab-2"
         role="tab"
         tabindex="0"
       >
@@ -53784,12 +53799,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TabBar 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r0:-tabpane-3"
+        aria-controls="react-aria6177417102-:r0:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r0:-tab-3"
+        id="react-aria6177417102-:r0:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -53801,12 +53816,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TabBar 1`] = `
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r0:-tabpane-4"
+        aria-controls="react-aria6177417102-:r0:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r0:-tab-4"
+        id="react-aria6177417102-:r0:-tab-4"
         role="tab"
       >
         Label
@@ -53827,12 +53842,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r3:-tabpane-1"
+        aria-controls="react-aria6177417102-:r3:-tabpane-1"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="1"
         href="#"
-        id="react-aria9318592583-:r3:-tab-1"
+        id="react-aria6177417102-:r3:-tab-1"
         role="tab"
         tabindex="-1"
       >
@@ -53856,12 +53871,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r3:-tabpane-2"
+        aria-controls="react-aria6177417102-:r3:-tabpane-2"
         aria-selected="true"
         class="nav-link active"
         data-rr-ui-event-key="2"
         href="#"
-        id="react-aria9318592583-:r3:-tab-2"
+        id="react-aria6177417102-:r3:-tab-2"
         role="tab"
         tabindex="0"
       >
@@ -53885,12 +53900,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r3:-tabpane-3"
+        aria-controls="react-aria6177417102-:r3:-tabpane-3"
         aria-selected="false"
         class="nav-link"
         data-rr-ui-event-key="3"
         href="#"
-        id="react-aria9318592583-:r3:-tab-3"
+        id="react-aria6177417102-:r3:-tab-3"
         role="tab"
         tabindex="-1"
       >
@@ -53914,12 +53929,12 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
       role="presentation"
     >
       <a
-        aria-controls="react-aria9318592583-:r3:-tabpane-4"
+        aria-controls="react-aria6177417102-:r3:-tabpane-4"
         aria-disabled="true"
         aria-selected="false"
         class="nav-link disabled"
         data-rr-ui-event-key="4"
-        id="react-aria9318592583-:r3:-tab-4"
+        id="react-aria6177417102-:r3:-tab-4"
         role="tab"
       >
         <svg
@@ -53942,33 +53957,33 @@ exports[`Stories Snapshots Linee Guida/Call to action/Tab Bar TestoEIcona 1`] = 
     class="tab-content"
   >
     <div
-      aria-labelledby="react-aria9318592583-:r3:-tab-1"
+      aria-labelledby="react-aria6177417102-:r3:-tab-1"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:r3:-tabpane-1"
+      id="react-aria6177417102-:r3:-tabpane-1"
       role="tabpanel"
     >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:r3:-tab-2"
+      aria-labelledby="react-aria6177417102-:r3:-tab-2"
       class="fade p-4 tab-pane active show"
-      id="react-aria9318592583-:r3:-tabpane-2"
+      id="react-aria6177417102-:r3:-tabpane-2"
       role="tabpanel"
     >
       Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:r3:-tab-3"
+      aria-labelledby="react-aria6177417102-:r3:-tab-3"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:r3:-tabpane-3"
+      id="react-aria6177417102-:r3:-tabpane-3"
       role="tabpanel"
     >
       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     </div>
     <div
-      aria-labelledby="react-aria9318592583-:r3:-tab-4"
+      aria-labelledby="react-aria6177417102-:r3:-tab-4"
       class="fade p-4 tab-pane"
-      id="react-aria9318592583-:r3:-tabpane-4"
+      id="react-aria6177417102-:r3:-tabpane-4"
       role="tabpanel"
     >
       Contenuto 4
@@ -58445,6 +58460,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields InputNumerico 1`
               >
                 <button
                   class="input-number-add"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
@@ -58454,6 +58470,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields InputNumerico 1`
                 </button>
                 <button
                   class="input-number-sub"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
@@ -58503,6 +58520,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields InputNumerico 1`
               >
                 <button
                   class="input-number-add"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
@@ -58512,6 +58530,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields InputNumerico 1`
                 </button>
                 <button
                   class="input-number-sub"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
@@ -58562,6 +58581,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields InputNumerico 1`
               >
                 <button
                   class="input-number-add"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
@@ -58571,6 +58591,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields InputNumerico 1`
                 </button>
                 <button
                   class="input-number-sub"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
@@ -59458,6 +59479,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields ValutaEPercentua
               >
                 <button
                   class="input-number-add"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
@@ -59467,6 +59489,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields ValutaEPercentua
                 </button>
                 <button
                   class="input-number-sub"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
@@ -59523,6 +59546,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields ValutaEPercentua
               >
                 <button
                   class="input-number-add"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
@@ -59532,6 +59556,7 @@ exports[`Stories Snapshots Linee Guida/Inserimento/Input fields ValutaEPercentua
                 </button>
                 <button
                   class="input-number-sub"
+                  type="button"
                 >
                   <span
                     class="visually-hidden"
