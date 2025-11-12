@@ -1,3 +1,7 @@
+## [1.2.4](https://github.com/RegioneLombardia/design-react-kit/compare/v1.2.3...v1.2.4) (2025-11-12)
+
+* Allineamento a versione 5.9.1 di design-react-kit italia
+
 
 ---
 # Merge 5.9.1 design-react-kit italia - INIZIO
