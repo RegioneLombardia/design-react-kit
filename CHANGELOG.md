@@ -1,3 +1,12 @@
+## [1.2.5](https://github.com/RegioneLombardia/design-react-kit/compare/v1.2.4...v1.2.5) (2025-11-27)
+
+
+### Features
+
+* upgrade bootstrap-lombardia ([cae98c8](https://github.com/RegioneLombardia/design-react-kit/commit/cae98c8d6245a084dee2a63fe0f322bfcc9cfc42))
+
+
+
 ## [1.2.4](https://github.com/RegioneLombardia/design-react-kit/compare/v1.2.3...v1.2.4) (2025-11-12)
 
 * Allineamento a versione 5.9.1 di design-react-kit italia
