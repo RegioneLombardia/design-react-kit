@@ -1,3 +1,7 @@
+## [1.2.6](https://github.com/RegioneLombardia/design-react-kit/compare/v1.2.5...v1.2.6) (2026-01-02)
+
+* allineamento a versione 5.9.2 di design-react-kit italia
+* upgrade bootstrap-lombardia
 
 ---
 # Merge 5.9.2 design-react-kit italia - INIZIO
