@@ -1,3 +1,19 @@
+
+---
+# Merge 5.9.2 design-react-kit italia - INIZIO
+
+## [5.9.2](https://github.com/italia/design-react-kit/compare/v5.9.1...v5.9.2) (2025-12-10)
+
+
+### Bug Fixes
+
+* **a11y:** better guidelines for accordion component ([e4c9a92](https://github.com/italia/design-react-kit/commit/e4c9a929b5192d4ce88138c978a3e1e8af9fd3b6))
+
+
+# Merge 5.9.2 design-react-kit italia - FINE
+---
+
+
 ## [1.2.5](https://github.com/RegioneLombardia/design-react-kit/compare/v1.2.4...v1.2.5) (2025-11-27)
 
 
