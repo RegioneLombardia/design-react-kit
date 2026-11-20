@@ -1,6 +1,6 @@
 import { Meta } from '@storybook/addon-docs/blocks';
 import { Code } from 'storybook/internal/components';
-import { Col, Container, Row } from '../../src';
+import { Col, Container, Row, Callout, CalloutTitle, CalloutText, Icon } from '../../src';
 
 <Meta title='Linee Guida/Welcome' />
 
@@ -25,6 +25,25 @@ import { Col, Container, Row } from '../../src';
         <span className='small'> Versione corrente: <strong>v1.2.6</strong><br/>
           (basata su Design-React-Kit Italia <strong>v5.9.2</strong> e Bootstrap Regione Lombardia <strong>v2.6.3</strong>)</span>
       </p>
+
+      <Callout color="danger">
+        <CalloutText>
+          <h1 className="text-danger">ATTENZIONE!</h1>
+          <p>
+            Questa versione del Design React Kit Lombardia è <strong>allineata al precedente</strong> Design System di Regione Lombardia.
+          </p>
+          <p>
+            Rimane a disposizione per chi deve modificare <strong>applicativi già rilasciati</strong> che non possono essere allineati al
+            nuovo Design System per ragioni di tempo/costi.
+          </p>
+          <h1>Non deve essere usata per nuovi applicativi!</h1>
+          <p>
+            Fino a quando non sarà pubblicata una nuova versione di questo Kit, per gli applicativi in React, bisognerà procedere in
+            autonomia basandosi sulla library di
+            <a href='https://RegioneLombardia.github.io/bootstrap-lombardia/' target='_blank' rel='noopener noreferrer' className="text-primary">Bootstrap Lombardia</a>.
+          </p>
+        </CalloutText>
+      </Callout>
 
       <p>
         Il Design React Kit Regione Lombardia è una personalizzazione di
