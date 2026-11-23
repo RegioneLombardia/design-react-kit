@@ -40,7 +40,7 @@
     "url": "git+https://github.com/RegioneLombardia/design-react-kit.git"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=24"
   },
   "scripts": {
     "start": "NODE_OPTIONS=--max_old_space_size=16384 npm run storybook:serve",
@@ -133,7 +133,8 @@
     "react-toastify": "^7.0.4",
     "react-transition-group": "^4.4.5",
     "reactstrap": "9.2.2",
-    "webfontloader": "^1.6.28"
+    "webfontloader": "^1.6.28",
+    "yarn": "^1.22.22"
   },
   "resolutions": {
     "@types/react": "18.2.75",
